@@ -5985,8 +5985,8 @@
     "relativePath": "Texture2D/もどる_84_88.png"
   },
   "de6b7423-c10a-4a08-aed8-2786fff946c2": {
-    "asset": 1586414000297,
-    "meta": 1586414000304,
+    "asset": 1586426438706,
+    "meta": 1586426438713,
     "relativePath": "Scene/game.fire"
   },
   "595fff18-999e-4c77-bee9-a77cdcd50203": {
@@ -5995,13 +5995,23 @@
     "relativePath": "Scene/start.fire"
   },
   "63c0f68e-9895-4423-adef-cc91b4c151bc": {
-    "asset": 1586414679722,
-    "meta": 1586414689097,
+    "asset": 1586424760528,
+    "meta": 1586424760534,
     "relativePath": "Scene/home.fire"
   },
   "cd0d5d33-17b1-40c7-8d5e-b810c0bea075": {
     "asset": 1586372785766,
     "meta": 1586421642560,
     "relativePath": "Sprite/tab_omamori_on.png"
+  },
+  "affe3359-0139-4187-8cc4-7cd21b638376": {
+    "asset": 1586424858410,
+    "meta": 1586424858411,
+    "relativePath": "Script"
+  },
+  "9258c530-4ec0-4397-9167-d001194f93e7": {
+    "asset": 1586424908617,
+    "meta": 1586424908681,
+    "relativePath": "Script/NewScript.ts"
   }
 }

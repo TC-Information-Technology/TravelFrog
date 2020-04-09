@@ -1,6 +1,6 @@
 
 (function () {
-var scripts = [{"deps":{},"path":"preview-scripts/__qc_index__.js"}];
+var scripts = [{"deps":{"./assets/Script/NewScript":1},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/Script/NewScript.js"}];
 var entries = ["preview-scripts/__qc_index__.js"];
 
 /**
