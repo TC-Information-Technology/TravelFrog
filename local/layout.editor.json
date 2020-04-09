@@ -6,7 +6,7 @@
       "url": "app://editor/index.html",
       "windowType": "dockable",
       "x": 0,
-      "y": 23,
+      "y": 25,
       "width": 1680,
       "height": 952,
       "layout": {
@@ -18,7 +18,7 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 409.40625,
+                "height": 409,
                 "type": "panel",
                 "width": 268
               },
@@ -27,7 +27,7 @@
                 "children": [
                   "assets"
                 ],
-                "height": 458.59375,
+                "height": 459,
                 "type": "panel",
                 "width": 268
               }
@@ -103,8 +103,7 @@
         "inspector",
         "cocos-services"
       ]
-    },
-    "window-1586418507358": {}
+    }
   },
   "panels": {
     "project-settings": {

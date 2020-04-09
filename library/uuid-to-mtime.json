@@ -610,7 +610,7 @@
     "relativePath": "Font/mplus-2c-thin.ttf"
   },
   "72c0ef23-a6ae-49d2-925d-11204545961f": {
-    "asset": 1586411031746,
+    "asset": 1586414689095,
     "meta": 1586410606677,
     "relativePath": "Scene"
   },
@@ -3133,11 +3133,6 @@
     "asset": 1586372784517,
     "meta": 1586410610694,
     "relativePath": "Sprite/tab_omamori_off.png"
-  },
-  "cd0d5d33-17b1-40c7-8d5e-b810c0bea075": {
-    "asset": 1586372785766,
-    "meta": 1586410610695,
-    "relativePath": "Sprite/tab_omamori_on.png"
   },
   "4c1dd554-3714-4fa7-af0c-b096b801300e": {
     "asset": 1586372785837,
@@ -6003,5 +5998,10 @@
     "asset": 1586414679722,
     "meta": 1586414689097,
     "relativePath": "Scene/home.fire"
+  },
+  "cd0d5d33-17b1-40c7-8d5e-b810c0bea075": {
+    "asset": 1586372785766,
+    "meta": 1586421642560,
+    "relativePath": "Sprite/tab_omamori_on.png"
   }
 }
