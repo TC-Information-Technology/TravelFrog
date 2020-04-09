@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "isigame_niwa",
+    "texture": "915124ee-6e32-4ab8-b2a8-064ac06e05a9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1328,
+      310
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1328,
+      310
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

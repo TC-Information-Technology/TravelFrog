@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "konkuri_01",
+    "texture": "85bd20be-6b7a-4876-b769-7365cd472640",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1000,
+      357
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1000,
+      357
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

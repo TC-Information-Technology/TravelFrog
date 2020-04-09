@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "goods_hukubiki_14",
+    "texture": "41cd0368-863e-494b-9dd3-479370f1f727",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      167,
+      160
+    ],
+    "offset": [
+      1,
+      0.5
+    ],
+    "originalSize": [
+      169,
+      165
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

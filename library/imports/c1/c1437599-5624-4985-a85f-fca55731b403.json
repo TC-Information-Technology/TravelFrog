@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "raffle_84_88",
+    "texture": "4146bbce-8273-420e-9664-a4c8d7b5ab5e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

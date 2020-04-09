@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_tana",
+    "texture": "75ccc82e-531a-47d6-a5df-4dcb372dc567",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      768,
+      634
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      768,
+      634
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

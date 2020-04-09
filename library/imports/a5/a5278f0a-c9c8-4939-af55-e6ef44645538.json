@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "haikei_niwa_akari",
+    "texture": "450d9475-6575-4c68-826e-e1527e2f1838",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1152,
+      1138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1152,
+      1138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

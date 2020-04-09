@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mail_yotuba",
+    "texture": "0551efd5-a228-4f14-8566-e3c19045e8fc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

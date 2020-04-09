@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kaeru_niwa",
+    "texture": "7e946ce7-04c1-4580-a282-57000c2a68ef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      397,
+      139
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      397,
+      139
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

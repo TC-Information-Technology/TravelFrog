@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yubisasi_b",
+    "texture": "50cf33bf-1f76-46de-a428-2431785b43ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

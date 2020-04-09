@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "helpPic_5_2",
+    "texture": "ec874dbf-83ca-4c56-b28d-231d7a1b3443",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      250,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      250,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

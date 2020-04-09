@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zukan_title",
+    "texture": "997daef8-a605-49c9-94e6-04d79a5d0d39",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      420,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      420,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

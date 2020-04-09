@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dougu_n_07",
+    "texture": "fc606c9f-2ae7-4e92-bc60-f990f3e114b7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      235,
+      127
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      235,
+      127
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

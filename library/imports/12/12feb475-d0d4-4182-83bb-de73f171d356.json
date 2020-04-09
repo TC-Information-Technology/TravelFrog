@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tsukue",
+    "texture": "03ac6051-b162-4f45-9cbf-a4cd0055b6c9",
+    "atlas": "",
+    "rect": [
+      26,
+      1,
+      104,
+      52
+    ],
+    "offset": [
+      -3,
+      0.5
+    ],
+    "originalSize": [
+      162,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

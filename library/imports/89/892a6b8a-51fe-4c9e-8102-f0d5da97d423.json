@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UnitySplash-cube",
+    "texture": "d228ee8e-ac59-42bc-bcf2-da75573bfc3b",
+    "atlas": "",
+    "rect": [
+      13,
+      7,
+      998,
+      227
+    ],
+    "offset": [
+      0,
+      7.5
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

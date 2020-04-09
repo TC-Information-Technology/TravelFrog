@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "keihin",
+    "texture": "15831198-67b8-4276-9881-312ee954a8e2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      56
+    ],
+    "offset": [
+      -11.5,
+      0
+    ],
+    "originalSize": [
+      200,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

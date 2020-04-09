@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "textfield on",
+    "texture": "56f7e3a6-a46c-4078-9ebd-ea0090ecc412",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      12,
+      12
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      12,
+      12
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

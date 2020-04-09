@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hozon_yes",
+    "texture": "699cd606-5401-4108-b4c8-8811d0c585f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

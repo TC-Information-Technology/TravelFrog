@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "album_dodai",
+    "texture": "62b1e27a-917a-468a-9972-4d4efba34812",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      768,
+      1138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      768,
+      1138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

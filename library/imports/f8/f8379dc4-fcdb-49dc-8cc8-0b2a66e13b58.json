@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horizontalslider",
+    "texture": "db049250-f40a-49d4-9755-30ff554f7096",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      8,
+      7
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      8,
+      7
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

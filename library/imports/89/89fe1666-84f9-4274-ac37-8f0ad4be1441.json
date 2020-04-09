@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "clover_kounyuu_button",
+    "texture": "462c005b-098f-406c-92f5-9eac8ff23c6e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      401,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      401,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hikki_ie",
+    "texture": "4537a8a2-1b37-483a-a123-040914b54c75",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      463,
+      194
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      463,
+      194
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

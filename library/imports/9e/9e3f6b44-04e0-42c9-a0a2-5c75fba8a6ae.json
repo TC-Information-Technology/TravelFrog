@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kutu_01",
+    "texture": "b0ec05d0-9f04-44d8-8e10-f01b87dc89c4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      149,
+      329
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      149,
+      329
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

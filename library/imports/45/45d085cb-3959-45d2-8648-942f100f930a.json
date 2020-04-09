@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yama_01",
+    "texture": "94a98792-b4d5-4fa1-874d-68155365ff5c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1000,
+      524
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1000,
+      524
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

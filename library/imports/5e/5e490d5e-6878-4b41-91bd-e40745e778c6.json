@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EscToExit_back",
+    "texture": "3c672d7f-0376-4537-a605-48694383008e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

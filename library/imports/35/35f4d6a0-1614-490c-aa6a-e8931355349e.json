@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loading_dorai",
+    "texture": "ab94c395-2ec3-45bc-97f7-f678c8b9725a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      768,
+      1138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      768,
+      1138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sora_10",
+    "texture": "57504e0f-f338-4d34-917d-8ecf5b235199",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1000,
+      350
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1000,
+      350
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

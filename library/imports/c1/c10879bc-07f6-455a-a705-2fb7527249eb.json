@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zukan_meibutsu_on",
+    "texture": "0fd47544-65c1-4440-be93-b6597247f9de",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      194,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      194,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

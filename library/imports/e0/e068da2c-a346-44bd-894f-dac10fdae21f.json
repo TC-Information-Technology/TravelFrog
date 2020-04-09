@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "haikei_01",
+    "texture": "37391a3d-1d59-4af3-a71b-2f5d75d628cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1000,
+      700
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1000,
+      700
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

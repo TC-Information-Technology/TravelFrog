@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_camera_84_88",
+    "texture": "f2f9a825-2feb-4dba-b615-b701b1d12dac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

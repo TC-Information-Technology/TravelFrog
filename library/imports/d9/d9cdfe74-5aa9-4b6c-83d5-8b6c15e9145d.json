@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sousin",
+    "texture": "806d5636-37de-4c86-9962-0ff2273e46c7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

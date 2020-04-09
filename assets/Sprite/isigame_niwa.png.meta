@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2c0f6e3a-846c-490f-8aa3-6942d5944a32",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1328,
+  "height": 310,
+  "platformSettings": {},
+  "subMetas": {
+    "isigame_niwa": {
+      "ver": "1.0.4",
+      "uuid": "757550f7-dcde-4483-961e-5574efdc0d06",
+      "rawTextureUuid": "2c0f6e3a-846c-490f-8aa3-6942d5944a32",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1328,
+      "height": 310,
+      "rawWidth": 1328,
+      "rawHeight": 310,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

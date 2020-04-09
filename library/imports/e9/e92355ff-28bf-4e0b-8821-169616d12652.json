@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sitaku_ie",
+    "texture": "fc46f1d6-317e-4d2d-ac60-8f710acd5586",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      760,
+      308
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      760,
+      308
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

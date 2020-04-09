@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "syokuzi_ie",
+    "texture": "15645e2b-35ba-46c3-9586-33cc231c3578",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      793,
+      343
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      793,
+      343
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

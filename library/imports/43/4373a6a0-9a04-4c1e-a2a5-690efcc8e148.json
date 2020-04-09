@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab_meibutsu_on",
+    "texture": "3182e66e-9874-483d-94a5-fb7c9d0e060a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

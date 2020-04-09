@@ -1,0 +1,6007 @@
+{
+  "9836134e-b892-4283-b6b2-78b5acf3ed45": {
+    "asset": 1583834898000,
+    "meta": 1583834898000,
+    "relativePath": "effects"
+  },
+  "430eccbf-bf2c-4e6e-8c0c-884bbb487f32": {
+    "asset": 1583834898000,
+    "meta": 1586410522509,
+    "relativePath": "effects/__builtin-editor-gizmo-line.effect"
+  },
+  "6c5cf6e1-b044-4eac-9431-835644d57381": {
+    "asset": 1583834898000,
+    "meta": 1586410522517,
+    "relativePath": "effects/__builtin-editor-gizmo-unlit.effect"
+  },
+  "115286d1-2e10-49ee-aab4-341583f607e8": {
+    "asset": 1583834898000,
+    "meta": 1586410522542,
+    "relativePath": "effects/__builtin-editor-gizmo.effect"
+  },
+  "abc2cb62-7852-4525-a90d-d474487b88f2": {
+    "asset": 1583834898000,
+    "meta": 1586410522593,
+    "relativePath": "effects/builtin-phong.effect"
+  },
+  "e2f00085-c597-422d-9759-52c360279106": {
+    "asset": 1583834898000,
+    "meta": 1586410522627,
+    "relativePath": "effects/builtin-toon.effect"
+  },
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1583834898000,
+    "meta": 1583834898000,
+    "relativePath": "image"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1583834898000,
+    "meta": 1586410522644,
+    "relativePath": "image/default_btn_normal.png"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1583834898000,
+    "meta": 1586410522645,
+    "relativePath": "image/default_btn_disabled.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1583834898000,
+    "meta": 1586410522655,
+    "relativePath": "image/default_btn_pressed.png"
+  },
+  "edd215b9-2796-4a05-aaf5-81f96c9281ce": {
+    "asset": 1583834898000,
+    "meta": 1586410522656,
+    "relativePath": "image/default_editbox_bg.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1583834898000,
+    "meta": 1586410522666,
+    "relativePath": "image/default_progressbar_bg.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1583834898000,
+    "meta": 1586410522667,
+    "relativePath": "image/default_panel.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1583834898000,
+    "meta": 1586410522678,
+    "relativePath": "image/default_progressbar.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1583834898000,
+    "meta": 1586410522680,
+    "relativePath": "image/default_radio_button_off.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1583834898000,
+    "meta": 1586410522690,
+    "relativePath": "image/default_scrollbar_bg.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1583834898000,
+    "meta": 1586410522691,
+    "relativePath": "image/default_radio_button_on.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1583834898000,
+    "meta": 1586410522701,
+    "relativePath": "image/default_scrollbar_vertical_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1583834898000,
+    "meta": 1586410522702,
+    "relativePath": "image/default_scrollbar_vertical.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1583834898000,
+    "meta": 1586410522711,
+    "relativePath": "image/default_sprite_splash.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1583834898000,
+    "meta": 1586410522712,
+    "relativePath": "image/default_scrollbar.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1583834898000,
+    "meta": 1586410522720,
+    "relativePath": "image/default_sprite.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1583834898000,
+    "meta": 1586410522721,
+    "relativePath": "image/default_toggle_checkmark.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1583834898000,
+    "meta": 1586410522729,
+    "relativePath": "image/default_toggle_disabled.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1583834898000,
+    "meta": 1586410522730,
+    "relativePath": "image/default_toggle_normal.png"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1583834898000,
+    "meta": 1586410522738,
+    "relativePath": "image/default_toggle_pressed.png"
+  },
+  "5c3eedba-6c41-4c0c-9ba7-d91f813cbd1c": {
+    "asset": 1583834898000,
+    "meta": 1583834898000,
+    "relativePath": "materials"
+  },
+  "c4480a0a-6ac5-443f-8b40-361a14257fc8": {
+    "asset": 1586373491953,
+    "meta": 1586410523005,
+    "relativePath": "materials/builtin-phong.mtl"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1583834898000,
+    "meta": 1583834898000,
+    "relativePath": "misc"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1583834898000,
+    "meta": 1586410522743,
+    "relativePath": "misc/default_video.mp4"
+  },
+  "db019bf7-f71c-4111-98cf-918ea180cb48": {
+    "asset": 1583834898000,
+    "meta": 1583834898000,
+    "relativePath": "model"
+  },
+  "e39e96e6-6f6e-413f-bcf1-ac7679bb648a": {
+    "asset": 1583834898000,
+    "meta": 1583834898000,
+    "relativePath": "model/prefab"
+  },
+  "a87cc147-01b2-43f8-8e42-a7ca90b0c757": {
+    "asset": 1583834898000,
+    "meta": 1586410522746,
+    "relativePath": "model/prefab/box.prefab"
+  },
+  "fe1417b6-fe6b-46a4-ae7c-9fd331f33a2a": {
+    "asset": 1583834898000,
+    "meta": 1586410522747,
+    "relativePath": "model/prefab/capsule.prefab"
+  },
+  "b5fc2cf2-7942-483d-be1f-bbeadc4714ad": {
+    "asset": 1583834898000,
+    "meta": 1586410522748,
+    "relativePath": "model/prefab/cone.prefab"
+  },
+  "600301aa-3357-4a10-b086-84f011fa32ba": {
+    "asset": 1583834898000,
+    "meta": 1586410522749,
+    "relativePath": "image/default-particle.png"
+  },
+  "3f376125-a699-40ca-ad05-04d662eaa1f2": {
+    "asset": 1583834898000,
+    "meta": 1586410522750,
+    "relativePath": "model/prefab/plane.prefab"
+  },
+  "1c5e4038-953a-44c2-b620-0bbfc6170477": {
+    "asset": 1583834898000,
+    "meta": 1586410522751,
+    "relativePath": "model/prefab/cylinder.prefab"
+  },
+  "6c9ef10d-b479-420b-bfe6-39cdda6a8ae0": {
+    "asset": 1583834898000,
+    "meta": 1586410522752,
+    "relativePath": "model/prefab/quad.prefab"
+  },
+  "2d9a4b85-b0ab-4c46-84c5-18f393ab2058": {
+    "asset": 1583834898000,
+    "meta": 1586410522753,
+    "relativePath": "model/prefab/sphere.prefab"
+  },
+  "de510076-056b-484f-b94c-83bef217d0e1": {
+    "asset": 1583834898000,
+    "meta": 1586410522760,
+    "relativePath": "model/prefab/torus.prefab"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1583834898000,
+    "meta": 1583834898000,
+    "relativePath": "obsolete"
+  },
+  "8a96b965-2dc0-4e03-aa90-3b79cb93b5b4": {
+    "asset": 1583834898000,
+    "meta": 1586410522769,
+    "relativePath": "obsolete/atom.png"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1583834898000,
+    "meta": 1583834898000,
+    "relativePath": "particle"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1583834898000,
+    "meta": 1586410523016,
+    "relativePath": "obsolete/atom.plist"
+  },
+  "d0a82d39-bede-46c4-b698-c81ff0dedfff": {
+    "asset": 1583834898000,
+    "meta": 1586410522777,
+    "relativePath": "particle/atom.png"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1583834898000,
+    "meta": 1583834898000,
+    "relativePath": "prefab"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1583834898000,
+    "meta": 1586410523016,
+    "relativePath": "particle/atom.plist"
+  },
+  "897ef7a1-4860-4f64-968d-f5924b18668a": {
+    "asset": 1583834898000,
+    "meta": 1586410522778,
+    "relativePath": "prefab/2d-camera.prefab"
+  },
+  "70d7cdb0-04cd-41bb-9480-c06a4785f386": {
+    "asset": 1583834898000,
+    "meta": 1586410522779,
+    "relativePath": "prefab/3d-camera.prefab"
+  },
+  "70bbeb73-6dc2-4ee4-8faf-76b3a0e34ec4": {
+    "asset": 1583834898000,
+    "meta": 1586410522782,
+    "relativePath": "prefab/3d-particle.prefab"
+  },
+  "ed88f13d-fcad-4848-aa35-65a2cb973584": {
+    "asset": 1583834898000,
+    "meta": 1586410522783,
+    "relativePath": "prefab/3d-stage.prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1583834898000,
+    "meta": 1586410522784,
+    "relativePath": "prefab/button.prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1583834898000,
+    "meta": 1586410522785,
+    "relativePath": "prefab/canvas.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1583834898000,
+    "meta": 1586410522787,
+    "relativePath": "prefab/editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1583834898000,
+    "meta": 1586410522788,
+    "relativePath": "prefab/label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1583834898000,
+    "meta": 1586410522790,
+    "relativePath": "prefab/layout.prefab"
+  },
+  "a3ee0214-b432-4865-9666-4a3211814282": {
+    "asset": 1583834898000,
+    "meta": 1583834898000,
+    "relativePath": "prefab/light"
+  },
+  "61906da3-7003-4bda-9abc-5769c76faee4": {
+    "asset": 1583834898000,
+    "meta": 1586410522791,
+    "relativePath": "prefab/light/ambient.prefab"
+  },
+  "ddb99b39-7004-47cd-9705-751905c43c46": {
+    "asset": 1583834898000,
+    "meta": 1586410522792,
+    "relativePath": "prefab/light/directional.prefab"
+  },
+  "0cf30284-9073-46bc-9eba-e62b69dbbff3": {
+    "asset": 1583834898000,
+    "meta": 1586410522793,
+    "relativePath": "prefab/light/point.prefab"
+  },
+  "f5331fd2-bf42-4ee3-a3fd-3e1657600eff": {
+    "asset": 1583834898000,
+    "meta": 1586410522794,
+    "relativePath": "prefab/light/spot.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1583834898000,
+    "meta": 1586410522796,
+    "relativePath": "prefab/pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1583834898000,
+    "meta": 1586410522797,
+    "relativePath": "prefab/particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1583834898000,
+    "meta": 1586410522798,
+    "relativePath": "prefab/progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1583834898000,
+    "meta": 1586410522799,
+    "relativePath": "prefab/richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1583834898000,
+    "meta": 1586410522800,
+    "relativePath": "prefab/scrollview.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1583834898000,
+    "meta": 1586410522802,
+    "relativePath": "prefab/slider.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1583834898000,
+    "meta": 1586410522803,
+    "relativePath": "prefab/sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1583834898000,
+    "meta": 1586410522804,
+    "relativePath": "prefab/sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1583834898000,
+    "meta": 1586410522805,
+    "relativePath": "prefab/tiledmap.prefab"
+  },
+  "0e42ba95-1fa1-46aa-b2cf-143cd1bcee2c": {
+    "asset": 1583834898000,
+    "meta": 1586410522806,
+    "relativePath": "prefab/tiledtile.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1583834898000,
+    "meta": 1586410522807,
+    "relativePath": "prefab/toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1583834898000,
+    "meta": 1586410522808,
+    "relativePath": "prefab/toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1583834898000,
+    "meta": 1586410522810,
+    "relativePath": "prefab/toggleGroup.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1583834898000,
+    "meta": 1586410522811,
+    "relativePath": "prefab/videoplayer.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1583834898000,
+    "meta": 1586410522812,
+    "relativePath": "prefab/webview.prefab"
+  },
+  "d8afc78c-4eac-4a9f-83dd-67bc70344d33": {
+    "asset": 1583834898000,
+    "meta": 1583834898000,
+    "relativePath": "resources"
+  },
+  "294c1663-4adf-4a1e-a795-53808011a38a": {
+    "asset": 1583834898000,
+    "meta": 1583834898000,
+    "relativePath": "resources/effects"
+  },
+  "144c3297-af63-49e8-b8ef-1cfa29b3be28": {
+    "asset": 1583834898000,
+    "meta": 1586410522818,
+    "relativePath": "resources/effects/builtin-2d-gray-sprite.effect"
+  },
+  "0e93aeaa-0b53-4e40-b8e0-6268b4e07bd7": {
+    "asset": 1583834898000,
+    "meta": 1586410522825,
+    "relativePath": "resources/effects/builtin-2d-spine.effect"
+  },
+  "2874f8dd-416c-4440-81b7-555975426e93": {
+    "asset": 1583834898000,
+    "meta": 1586410522832,
+    "relativePath": "resources/effects/builtin-2d-sprite.effect"
+  },
+  "829a282c-b049-4019-bd38-5ace8d8a6417": {
+    "asset": 1583834898000,
+    "meta": 1586410522911,
+    "relativePath": "resources/effects/builtin-3d-particle.effect"
+  },
+  "2a7c0036-e0b3-4fe1-8998-89a54b8a2bec": {
+    "asset": 1583834898000,
+    "meta": 1586410522933,
+    "relativePath": "resources/effects/builtin-3d-trail.effect"
+  },
+  "c0040c95-c57f-49cd-9cbc-12316b73d0d4": {
+    "asset": 1583834898000,
+    "meta": 1586410522939,
+    "relativePath": "resources/effects/builtin-clear-stencil.effect"
+  },
+  "6d91e591-4ce0-465c-809f-610ec95019c6": {
+    "asset": 1583834898000,
+    "meta": 1586410522951,
+    "relativePath": "resources/effects/builtin-unlit.effect"
+  },
+  "bbee2217-c261-49bd-a8ce-708d6bcc3500": {
+    "asset": 1583834898000,
+    "meta": 1583834898000,
+    "relativePath": "resources/materials"
+  },
+  "6f801092-0c37-4f30-89ef-c8d960825b36": {
+    "asset": 1586373491985,
+    "meta": 1586410523023,
+    "relativePath": "resources/materials/builtin-2d-base.mtl"
+  },
+  "3a7bb79f-32fd-422e-ada2-96f518fed422": {
+    "asset": 1586373491986,
+    "meta": 1586410523023,
+    "relativePath": "resources/materials/builtin-2d-gray-sprite.mtl"
+  },
+  "7afd064b-113f-480e-b793-8817d19f63c3": {
+    "asset": 1586373491986,
+    "meta": 1586410523024,
+    "relativePath": "resources/materials/builtin-2d-spine.mtl"
+  },
+  "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432": {
+    "asset": 1586373491987,
+    "meta": 1586410523024,
+    "relativePath": "resources/materials/builtin-2d-sprite.mtl"
+  },
+  "432fa09c-cf03-4cff-a186-982604408a07": {
+    "asset": 1583834898000,
+    "meta": 1586410523024,
+    "relativePath": "resources/materials/builtin-3d-particle.mtl"
+  },
+  "466d4f9b-e5f4-4ea8-85d5-3c6e9a65658a": {
+    "asset": 1583834898000,
+    "meta": 1586410523025,
+    "relativePath": "resources/materials/builtin-3d-trail.mtl"
+  },
+  "cf7e0bb8-a81c-44a9-ad79-d28d43991032": {
+    "asset": 1586373491989,
+    "meta": 1586410523025,
+    "relativePath": "resources/materials/builtin-clear-stencil.mtl"
+  },
+  "2a296057-247c-4a1c-bbeb-0548b6c98650": {
+    "asset": 1586373491990,
+    "meta": 1586410523025,
+    "relativePath": "resources/materials/builtin-unlit.mtl"
+  },
+  "954fec8b-cd16-4bb9-a3b7-7719660e7558": {
+    "asset": 1583834898000,
+    "meta": 1586410524697,
+    "relativePath": "model/primitives.fbx"
+  },
+  "aa2a4ec1-c3ab-44ca-9710-d811317b0a95": {
+    "asset": 1586410606673,
+    "meta": 1586410606668,
+    "relativePath": "AudioClip"
+  },
+  "75b60931-23f7-4d02-b6c5-de6357a70cc7": {
+    "asset": 1586373161623,
+    "meta": 1586410607087,
+    "relativePath": "AudioClip/se01.wav"
+  },
+  "1c4d4b3b-ed1a-4e67-9972-a12028379020": {
+    "asset": 1586373162773,
+    "meta": 1586410607090,
+    "relativePath": "AudioClip/se02.wav"
+  },
+  "ce16f0e7-b38f-4c02-a0da-22a2e2b299f1": {
+    "asset": 1586373164375,
+    "meta": 1586410607091,
+    "relativePath": "AudioClip/se03.wav"
+  },
+  "7ec50910-6062-41da-a4d1-caeb7cfc3d44": {
+    "asset": 1586373168452,
+    "meta": 1586410607093,
+    "relativePath": "AudioClip/se04.wav"
+  },
+  "47adec58-0615-4265-a24d-37e541ec254b": {
+    "asset": 1586373169787,
+    "meta": 1586410607094,
+    "relativePath": "AudioClip/se05.wav"
+  },
+  "569e2912-5f67-4324-b566-da975979c395": {
+    "asset": 1586373171425,
+    "meta": 1586410607096,
+    "relativePath": "AudioClip/se06.wav"
+  },
+  "20ac2a67-1af7-4258-b186-0469e6f5de57": {
+    "asset": 1586373172369,
+    "meta": 1586410607098,
+    "relativePath": "AudioClip/se07.wav"
+  },
+  "31d6c9f4-0e3b-4e1a-be0d-a7bd35bdaa93": {
+    "asset": 1586373174098,
+    "meta": 1586410607100,
+    "relativePath": "AudioClip/se079_Homes.wav"
+  },
+  "a376ce5e-5fb3-494f-9649-fce2ba971ec5": {
+    "asset": 1586373175315,
+    "meta": 1586410607102,
+    "relativePath": "AudioClip/se08.wav"
+  },
+  "f70c4369-d7f1-4b1c-b163-880cba77d194": {
+    "asset": 1586373193941,
+    "meta": 1586410607104,
+    "relativePath": "AudioClip/bgm01.wav"
+  },
+  "7705526f-ee51-4e4b-bb56-0490fc37c23e": {
+    "asset": 1586373183769,
+    "meta": 1586410607105,
+    "relativePath": "AudioClip/se080_Homes.wav"
+  },
+  "b3d1930f-66fc-4318-bed6-13b2286fb5f7": {
+    "asset": 1586373185374,
+    "meta": 1586410607106,
+    "relativePath": "AudioClip/se09.wav"
+  },
+  "bb4c2fc0-a350-4a4a-b712-ca535c240ea6": {
+    "asset": 1586373190127,
+    "meta": 1586410607108,
+    "relativePath": "AudioClip/se10.wav"
+  },
+  "74411d9e-0eb6-4e71-926f-cfa602f44a16": {
+    "asset": 1586373191372,
+    "meta": 1586410607110,
+    "relativePath": "AudioClip/se11.wav"
+  },
+  "ca165443-f07a-4cd9-94ec-be39fe12c69a": {
+    "asset": 1586373192464,
+    "meta": 1586410607111,
+    "relativePath": "AudioClip/se115_Hyakki.wav"
+  },
+  "4bcabb8a-b6d2-49cb-9cd4-84405d057ad7": {
+    "asset": 1586410606676,
+    "meta": 1586410606674,
+    "relativePath": "Font"
+  },
+  "9a4ad253-a3ac-45af-8fb2-f52ef8b088c3": {
+    "asset": 1586372879635,
+    "meta": 1586410607112,
+    "relativePath": "Font/Arial.ttf"
+  },
+  "8fe2ff05-48b1-4ac0-bc61-5e5ef64bab98": {
+    "asset": 1586372932337,
+    "meta": 1586410607114,
+    "relativePath": "Font/mplus-2c-black.ttf"
+  },
+  "83bb15d6-e8aa-422c-99fa-e8a2feafafb1": {
+    "asset": 1586372932391,
+    "meta": 1586410607116,
+    "relativePath": "Font/mplus-2c-bold.ttf"
+  },
+  "666cce05-fbee-4567-aa20-97b0d3c1bd89": {
+    "asset": 1586373011037,
+    "meta": 1586410607118,
+    "relativePath": "Font/mplus-2c-heavy.ttf"
+  },
+  "525f9b61-1244-46a3-9c41-02e08c0047b2": {
+    "asset": 1586373011049,
+    "meta": 1586410607120,
+    "relativePath": "Font/mplus-2c-light.ttf"
+  },
+  "35a9b1a1-3f1e-4f6f-97f8-e444088e3c47": {
+    "asset": 1586373067441,
+    "meta": 1586410607123,
+    "relativePath": "Font/mplus-2c-medium.ttf"
+  },
+  "cca3a14c-88b1-4665-be5e-78cf6db09470": {
+    "asset": 1586373066387,
+    "meta": 1586410607125,
+    "relativePath": "Font/mplus-2c-regular.ttf"
+  },
+  "c8e89316-5c14-42cc-bf6f-ced250f8631d": {
+    "asset": 1586373193570,
+    "meta": 1586410607126,
+    "relativePath": "AudioClip/se12.wav"
+  },
+  "62559913-4598-49e2-8a5d-45d2d0444965": {
+    "asset": 1586373159058,
+    "meta": 1586410607128,
+    "relativePath": "Font/mplus-2c-thin.ttf"
+  },
+  "72c0ef23-a6ae-49d2-925d-11204545961f": {
+    "asset": 1586411031746,
+    "meta": 1586410606677,
+    "relativePath": "Scene"
+  },
+  "7a8f7cc4-b59c-4bdb-99b3-1454315c4c58": {
+    "asset": 1586410606836,
+    "meta": 1586410606700,
+    "relativePath": "Sprite"
+  },
+  "d4285b35-194b-45ab-8297-48ecb9cb646b": {
+    "asset": 1586372431249,
+    "meta": 1586410607139,
+    "relativePath": "Sprite/album_150_150.png"
+  },
+  "7d2160d4-079c-4126-963e-60fcb5039224": {
+    "asset": 1586372430439,
+    "meta": 1586410607148,
+    "relativePath": "Sprite/album.png"
+  },
+  "adba5172-ac82-4bc6-8801-065185d35980": {
+    "asset": 1586372432011,
+    "meta": 1586410607154,
+    "relativePath": "Sprite/album_dodai.png"
+  },
+  "c13cda8e-5b2d-43bc-9bad-a3b65011f35a": {
+    "asset": 1586372432201,
+    "meta": 1586410607162,
+    "relativePath": "Sprite/asphalt_01.png"
+  },
+  "f53ebac7-b4e7-4979-ae2d-bbd4a8f8999c": {
+    "asset": 1586372434063,
+    "meta": 1586410607172,
+    "relativePath": "Sprite/back_mainOut_2_L.png"
+  },
+  "7ba7b9fc-6973-430c-b8bc-28a5e26bb383": {
+    "asset": 1586372434609,
+    "meta": 1586410607181,
+    "relativePath": "Sprite/back_mainIn.png"
+  },
+  "00ab20e0-3c2b-4a2a-8c34-7463ff3bd20b": {
+    "asset": 1586372435817,
+    "meta": 1586410607187,
+    "relativePath": "Sprite/back_mainOut_2_R.png"
+  },
+  "465d3481-0ccf-48c2-9ce2-78f81927d07a": {
+    "asset": 1586372432732,
+    "meta": 1586410607188,
+    "relativePath": "Sprite/Background.png"
+  },
+  "288e14d9-c6f0-4cba-acfb-e412f5b97640": {
+    "asset": 1586372436730,
+    "meta": 1586410607196,
+    "relativePath": "Sprite/bgm_off.png"
+  },
+  "51694256-e66a-46a8-a032-1a72232999cf": {
+    "asset": 1586372437074,
+    "meta": 1586410607198,
+    "relativePath": "Sprite/bgm_on.png"
+  },
+  "4bc1072b-2720-4f79-9f59-273df655b9ec": {
+    "asset": 1586372436008,
+    "meta": 1586410607206,
+    "relativePath": "Sprite/bgm.png"
+  },
+  "1cb8db61-4f87-47dc-887e-6b3a47c0c958": {
+    "asset": 1586372437482,
+    "meta": 1586410607207,
+    "relativePath": "Sprite/bousi_ie.png"
+  },
+  "a50a8768-9842-40d9-8c84-b327eb4f9b58": {
+    "asset": 1586372437773,
+    "meta": 1586410607215,
+    "relativePath": "Sprite/button_01.png"
+  },
+  "c4dd34fc-0c4d-4ef7-a7f2-8851efc5901d": {
+    "asset": 1586372438219,
+    "meta": 1586410607215,
+    "relativePath": "Sprite/button_02.png"
+  },
+  "d517776d-9941-46d0-bc40-576e6491fc8c": {
+    "asset": 1586372438943,
+    "meta": 1586410607224,
+    "relativePath": "Sprite/button_03.png"
+  },
+  "8f35da6e-9d2b-4e97-b141-80e0066074da": {
+    "asset": 1586372439422,
+    "meta": 1586410607225,
+    "relativePath": "Sprite/button_04.png"
+  },
+  "aa1e1fc6-4272-4125-8bc6-934148960d43": {
+    "asset": 1586372440743,
+    "meta": 1586410607233,
+    "relativePath": "Sprite/button_empty.png"
+  },
+  "eebae1f9-8feb-4130-bba1-649b058d7326": {
+    "asset": 1586372440178,
+    "meta": 1586410607234,
+    "relativePath": "Sprite/button_05.png"
+  },
+  "f3e40e52-fb89-4dda-bcea-de0c210b3ae7": {
+    "asset": 1586372440960,
+    "meta": 1586410607241,
+    "relativePath": "Sprite/cancel.png"
+  },
+  "b62c5af2-5b29-4335-bbdd-c0bc79fd0ea4": {
+    "asset": 1586372441504,
+    "meta": 1586410607242,
+    "relativePath": "Sprite/checkmark #293202.png"
+  },
+  "5f4ae72f-3390-4971-9e12-756072aa872d": {
+    "asset": 1586372442848,
+    "meta": 1586410607250,
+    "relativePath": "Sprite/close.png"
+  },
+  "f18ee1b8-79b1-48fe-8143-8d642aa3564b": {
+    "asset": 1586372441925,
+    "meta": 1586410607251,
+    "relativePath": "Sprite/Checkmark.png"
+  },
+  "b290dddd-789b-4546-9a9a-0d686ce68c2e": {
+    "asset": 1586372444009,
+    "meta": 1586410607260,
+    "relativePath": "Sprite/clover_160.png"
+  },
+  "4c2c289f-0a8f-48f8-9022-54b3d08a0b57": {
+    "asset": 1586372443135,
+    "meta": 1586410607260,
+    "relativePath": "Sprite/clover_154.png"
+  },
+  "4e5367ba-7774-4307-bb56-138279ae2dba": {
+    "asset": 1586372444829,
+    "meta": 1586410607269,
+    "relativePath": "Sprite/clover_kounyuu_button.png"
+  },
+  "a9ef1ecd-7efb-4f6c-be73-e31e8c39ebfa": {
+    "asset": 1586372443919,
+    "meta": 1586410607271,
+    "relativePath": "Sprite/clover_166.png"
+  },
+  "685279a5-a339-487f-a775-5a1743259c01": {
+    "asset": 1586372445061,
+    "meta": 1586410607282,
+    "relativePath": "Sprite/clover_kounyuu.png"
+  },
+  "0fcadd72-6b8e-4ca2-8d80-bb95ff7f5569": {
+    "asset": 1586372445962,
+    "meta": 1586410607284,
+    "relativePath": "Sprite/collection_0.png"
+  },
+  "2d30b060-f7a9-4372-83e5-bfcb9ee6df12": {
+    "asset": 1586372447571,
+    "meta": 1586410607299,
+    "relativePath": "Sprite/collection_10.png"
+  },
+  "6013e9c4-8368-468b-ba53-47ea781fa645": {
+    "asset": 1586372445992,
+    "meta": 1586410607301,
+    "relativePath": "Sprite/collection_1.png"
+  },
+  "bf3b8050-d204-4ef3-879c-2935d1e7042b": {
+    "asset": 1586372449016,
+    "meta": 1586410607314,
+    "relativePath": "Sprite/collection_12.png"
+  },
+  "1cb8a6ea-8cc4-42c1-bd88-b18aa3c39690": {
+    "asset": 1586372447766,
+    "meta": 1586410607315,
+    "relativePath": "Sprite/collection_11.png"
+  },
+  "51da97da-5d67-4166-831c-9c9fe62bbd87": {
+    "asset": 1586372451159,
+    "meta": 1586410607332,
+    "relativePath": "Sprite/collection_14.png"
+  },
+  "bd2fd9b0-9145-48e0-be0e-edb7cef86203": {
+    "asset": 1586372449521,
+    "meta": 1586410607334,
+    "relativePath": "Sprite/collection_13.png"
+  },
+  "45c3d129-87b1-493e-9c95-73759da2d9f5": {
+    "asset": 1586372452399,
+    "meta": 1586410607347,
+    "relativePath": "Sprite/collection_150_150.png"
+  },
+  "1a42a133-6679-4522-a9d9-084599d42e0f": {
+    "asset": 1586372451476,
+    "meta": 1586410607349,
+    "relativePath": "Sprite/collection_15.png"
+  },
+  "eca6fc3b-7114-4b4c-919b-627cc7a0cdab": {
+    "asset": 1586372452496,
+    "meta": 1586410607362,
+    "relativePath": "Sprite/collection_16.png"
+  },
+  "afb4414b-a5f0-436e-9b2f-e64f47ca47b3": {
+    "asset": 1586372453928,
+    "meta": 1586410607365,
+    "relativePath": "Sprite/collection_17.png"
+  },
+  "ef2f85c5-8183-4bb4-80aa-0d69048230ad": {
+    "asset": 1586372454089,
+    "meta": 1586410607380,
+    "relativePath": "Sprite/collection_18.png"
+  },
+  "fb5386d6-c679-472c-98ba-d10cbd0b3656": {
+    "asset": 1586372455315,
+    "meta": 1586410607382,
+    "relativePath": "Sprite/collection_19.png"
+  },
+  "625d8aaf-01b0-48e3-90fd-d166a3236aad": {
+    "asset": 1586372455069,
+    "meta": 1586410607397,
+    "relativePath": "Sprite/collection_2.png"
+  },
+  "4c86bea1-dbaf-4f19-9564-b27dc02de40f": {
+    "asset": 1586372456255,
+    "meta": 1586410607399,
+    "relativePath": "Sprite/collection_20.png"
+  },
+  "cae1a0e6-1664-40bf-ad51-2eeec9681a11": {
+    "asset": 1586372457087,
+    "meta": 1586410607414,
+    "relativePath": "Sprite/collection_21.png"
+  },
+  "2eacacf0-07cf-44a7-89e9-01bcab7125d2": {
+    "asset": 1586372458433,
+    "meta": 1586410607415,
+    "relativePath": "Sprite/collection_22.png"
+  },
+  "a675b8c0-0698-4d96-b8f0-a9cba0dc35f7": {
+    "asset": 1586372462075,
+    "meta": 1586410607434,
+    "relativePath": "Sprite/collection_23.png"
+  },
+  "d3ad548a-ad17-4417-9ca3-a5c87f6dcc51": {
+    "asset": 1586372460220,
+    "meta": 1586410607435,
+    "relativePath": "Sprite/collection_24.png"
+  },
+  "2b72352c-7284-45a9-a83f-c9229692a08d": {
+    "asset": 1586372462103,
+    "meta": 1586410607455,
+    "relativePath": "Sprite/collection_25.png"
+  },
+  "b9c6ef05-e25e-4346-9584-1d0a8933d479": {
+    "asset": 1586372464106,
+    "meta": 1586410607456,
+    "relativePath": "Sprite/collection_26.png"
+  },
+  "bdf2dc52-1698-4512-89ec-7ed0a6426a07": {
+    "asset": 1586372464977,
+    "meta": 1586410607473,
+    "relativePath": "Sprite/collection_28.png"
+  },
+  "d422b7c7-671b-4d89-a9de-fc607c013cb1": {
+    "asset": 1586372463171,
+    "meta": 1586410607475,
+    "relativePath": "Sprite/collection_27.png"
+  },
+  "51249d40-3897-4885-b6a9-435a32480d60": {
+    "asset": 1586372466606,
+    "meta": 1586410607489,
+    "relativePath": "Sprite/collection_3.png"
+  },
+  "21c086a9-2ed7-4e47-95fc-32f7adba0908": {
+    "asset": 1586372465311,
+    "meta": 1586410607491,
+    "relativePath": "Sprite/collection_29.png"
+  },
+  "a82fa127-feaf-4f78-8ee2-a4ab36d86c2d": {
+    "asset": 1586372466977,
+    "meta": 1586410607507,
+    "relativePath": "Sprite/collection_30.png"
+  },
+  "cee37f1b-e24a-4b71-95a5-5d1d26be4050": {
+    "asset": 1586372468364,
+    "meta": 1586410607508,
+    "relativePath": "Sprite/collection_31.png"
+  },
+  "b07323b1-4387-464d-985e-2221fcfdf5f2": {
+    "asset": 1586372469419,
+    "meta": 1586410607524,
+    "relativePath": "Sprite/collection_32.png"
+  },
+  "7f7a84e2-07bb-43e0-8246-a21db475b6d1": {
+    "asset": 1586372470106,
+    "meta": 1586410607526,
+    "relativePath": "Sprite/collection_33.png"
+  },
+  "89710043-954a-46df-865e-d94bcbeba0e9": {
+    "asset": 1586372471687,
+    "meta": 1586410607543,
+    "relativePath": "Sprite/collection_35.png"
+  },
+  "d4d00f20-d691-4886-a29b-c94c86561e88": {
+    "asset": 1586372471419,
+    "meta": 1586410607545,
+    "relativePath": "Sprite/collection_34.png"
+  },
+  "46dc9275-d146-43af-b396-fd4b4c25f6cb": {
+    "asset": 1586372473272,
+    "meta": 1586410607560,
+    "relativePath": "Sprite/collection_36.png"
+  },
+  "beced254-2825-40e8-9003-ef887c87ffc6": {
+    "asset": 1586372473371,
+    "meta": 1586410607562,
+    "relativePath": "Sprite/collection_37.png"
+  },
+  "cb2577eb-c499-49e7-90d1-14ab5a82933c": {
+    "asset": 1586372474807,
+    "meta": 1586410607576,
+    "relativePath": "Sprite/collection_38.png"
+  },
+  "61ba4973-f44b-44d4-9b8c-e59685f2bd91": {
+    "asset": 1586372474428,
+    "meta": 1586410607578,
+    "relativePath": "Sprite/collection_39.png"
+  },
+  "9d420595-1580-458a-bc80-ba064696e870": {
+    "asset": 1586372476609,
+    "meta": 1586410607594,
+    "relativePath": "Sprite/collection_40.png"
+  },
+  "9b06abea-f99b-46d0-9521-63012f0c291a": {
+    "asset": 1586372505251,
+    "meta": 1586410607595,
+    "relativePath": "Sprite/collection_4.png"
+  },
+  "fe9c28ac-3449-4ae0-8428-913f0af5d90e": {
+    "asset": 1586372477568,
+    "meta": 1586410607609,
+    "relativePath": "Sprite/collection_41.png"
+  },
+  "17e0a1ae-d703-45ed-80ee-a58ac111d38b": {
+    "asset": 1586372478898,
+    "meta": 1586410607611,
+    "relativePath": "Sprite/collection_42.png"
+  },
+  "6645829b-5b88-4342-8e30-da0f6697fe5c": {
+    "asset": 1586372482986,
+    "meta": 1586410607625,
+    "relativePath": "Sprite/collection_44.png"
+  },
+  "38b1a053-4fb8-49f4-b39d-52731aab7d83": {
+    "asset": 1586372481467,
+    "meta": 1586410607628,
+    "relativePath": "Sprite/collection_43.png"
+  },
+  "9556d484-26ce-46ab-bde6-c97206b862a6": {
+    "asset": 1586372485030,
+    "meta": 1586410607641,
+    "relativePath": "Sprite/collection_45.png"
+  },
+  "a5bbe124-d360-4709-9692-e17e2edd5d8f": {
+    "asset": 1586372486695,
+    "meta": 1586410607643,
+    "relativePath": "Sprite/collection_46.png"
+  },
+  "e5d31d41-3a04-4dcc-8260-b26e9434665c": {
+    "asset": 1586372488413,
+    "meta": 1586410607657,
+    "relativePath": "Sprite/collection_47.png"
+  },
+  "e7b7a1fe-cce9-4125-8847-7222fe5952ae": {
+    "asset": 1586372489383,
+    "meta": 1586410607659,
+    "relativePath": "Sprite/collection_48.png"
+  },
+  "b93c1201-6b23-4225-92bd-248f9d3278db": {
+    "asset": 1586372490804,
+    "meta": 1586410607673,
+    "relativePath": "Sprite/collection_49.png"
+  },
+  "dc62ad0c-7765-4876-b325-6f84cb009adf": {
+    "asset": 1586372492721,
+    "meta": 1586410607675,
+    "relativePath": "Sprite/collection_5.png"
+  },
+  "ef342f1a-389b-4115-90fb-8a5be24541be": {
+    "asset": 1586372494871,
+    "meta": 1586410607689,
+    "relativePath": "Sprite/collection_50.png"
+  },
+  "7c1dd16c-576b-46b1-b179-30d33063b2c2": {
+    "asset": 1586372497218,
+    "meta": 1586410607691,
+    "relativePath": "Sprite/collection_51.png"
+  },
+  "dc8f2661-9a9b-4e16-8d84-c8bce3bc5f9e": {
+    "asset": 1586372500730,
+    "meta": 1586410607710,
+    "relativePath": "Sprite/collection_53.png"
+  },
+  "6a23e876-8b61-406e-be1f-ce7c5642c986": {
+    "asset": 1586372499662,
+    "meta": 1586410607711,
+    "relativePath": "Sprite/collection_52.png"
+  },
+  "89f8eddd-e75a-4f7a-8175-cc95940be9ff": {
+    "asset": 1586372502151,
+    "meta": 1586410607728,
+    "relativePath": "Sprite/collection_54.png"
+  },
+  "2de49ba6-d75a-46c7-8f3d-28565c24e40c": {
+    "asset": 1586372503654,
+    "meta": 1586410607730,
+    "relativePath": "Sprite/collection_55.png"
+  },
+  "4a9d4cc1-b14a-4211-afac-ca9605a51892": {
+    "asset": 1586372505150,
+    "meta": 1586410607746,
+    "relativePath": "Sprite/collection_56.png"
+  },
+  "86496889-746e-4a49-b485-242d9ff974be": {
+    "asset": 1586372506670,
+    "meta": 1586410607747,
+    "relativePath": "Sprite/collection_57.png"
+  },
+  "20b9105c-fcb0-455b-a8bc-f7d95a0b2895": {
+    "asset": 1586372506350,
+    "meta": 1586410607761,
+    "relativePath": "Sprite/collection_58.png"
+  },
+  "e81e96d8-73d3-4c06-81e7-d2b4122c2c73": {
+    "asset": 1586372507881,
+    "meta": 1586410607763,
+    "relativePath": "Sprite/collection_6.png"
+  },
+  "b58ef818-0792-483e-90be-fcc0f058917d": {
+    "asset": 1586372508965,
+    "meta": 1586410607779,
+    "relativePath": "Sprite/collection_8.png"
+  },
+  "24050b85-f000-4e30-9d71-ec281cd5d077": {
+    "asset": 1586372508099,
+    "meta": 1586410607781,
+    "relativePath": "Sprite/collection_7.png"
+  },
+  "94093910-7ef6-4d79-bde7-5027fa3c5cb5": {
+    "asset": 1586372510049,
+    "meta": 1586410607794,
+    "relativePath": "Sprite/dokusyo_ie.png"
+  },
+  "232f218e-62f6-4e0d-b9f1-e274de31239a": {
+    "asset": 1586372509029,
+    "meta": 1586410607796,
+    "relativePath": "Sprite/collection_9.png"
+  },
+  "23b5b3d5-74f6-446e-b39a-16788649aa82": {
+    "asset": 1586372512129,
+    "meta": 1586410607818,
+    "relativePath": "Sprite/dougu_01_2.png"
+  },
+  "95afc311-34d2-4ab2-8fba-38f2f826d998": {
+    "asset": 1586372512272,
+    "meta": 1586410607821,
+    "relativePath": "Sprite/dougu_01_3.png"
+  },
+  "1f81cc36-69bc-4937-9725-4805a31a920d": {
+    "asset": 1586372510232,
+    "meta": 1586410607846,
+    "relativePath": "Sprite/dougu_01.png"
+  },
+  "94f7b3b9-5db4-4d36-8956-65203f42924f": {
+    "asset": 1586372515370,
+    "meta": 1586410607848,
+    "relativePath": "Sprite/dougu_01_4.png"
+  },
+  "56a0635c-5034-481e-a7e3-2728bce3c1ef": {
+    "asset": 1586372516827,
+    "meta": 1586410607887,
+    "relativePath": "Sprite/dougu_02_3.png"
+  },
+  "915fed12-b188-4271-9136-b55847b4c4d1": {
+    "asset": 1586372515507,
+    "meta": 1586410607890,
+    "relativePath": "Sprite/dougu_02_2.png"
+  },
+  "0c741f74-9ca5-4657-971c-aa5bad6d616b": {
+    "asset": 1586372516443,
+    "meta": 1586410607910,
+    "relativePath": "Sprite/dougu_02_4.png"
+  },
+  "0bbf52c5-3f1b-40c5-a1c5-7eb08f00adb4": {
+    "asset": 1586372513690,
+    "meta": 1586410607912,
+    "relativePath": "Sprite/dougu_02.png"
+  },
+  "f1c7792c-451a-4c0d-8432-bf182c1727bb": {
+    "asset": 1586372518403,
+    "meta": 1586410607936,
+    "relativePath": "Sprite/dougu_03_3.png"
+  },
+  "3b693bc7-bd37-4ca6-9a90-d237fcbeb219": {
+    "asset": 1586372518433,
+    "meta": 1586410607938,
+    "relativePath": "Sprite/dougu_03_2.png"
+  },
+  "b23b59bd-599d-4e95-99e0-5d55729519e5": {
+    "asset": 1586372519875,
+    "meta": 1586410607961,
+    "relativePath": "Sprite/dougu_03_4.png"
+  },
+  "a15b82a4-39e6-42e2-972e-9713f51ef35f": {
+    "asset": 1586372517463,
+    "meta": 1586410607964,
+    "relativePath": "Sprite/dougu_03.png"
+  },
+  "fbae12bb-8309-4f6f-b5be-276dfdece05b": {
+    "asset": 1586372520448,
+    "meta": 1586410607987,
+    "relativePath": "Sprite/dougu_05.png"
+  },
+  "ac69fd71-7951-4a1f-a63c-20213fe2be3d": {
+    "asset": 1586372519573,
+    "meta": 1586410607989,
+    "relativePath": "Sprite/dougu_04.png"
+  },
+  "e13113f8-153a-4aff-b649-3255e1cb7e75": {
+    "asset": 1586372520790,
+    "meta": 1586410608008,
+    "relativePath": "Sprite/dougu_f_01.png"
+  },
+  "6a31bc61-96aa-4249-a7e5-02837b9b0f4f": {
+    "asset": 1586372521202,
+    "meta": 1586410608009,
+    "relativePath": "Sprite/dougu_f_02.png"
+  },
+  "6be94f2e-921d-40a6-a4c6-ca6a87fc17a0": {
+    "asset": 1586372521944,
+    "meta": 1586410608024,
+    "relativePath": "Sprite/dougu_f_04.png"
+  },
+  "0957fb9e-d4c3-4a6e-aee5-2e998426ab76": {
+    "asset": 1586372521933,
+    "meta": 1586410608026,
+    "relativePath": "Sprite/dougu_f_03.png"
+  },
+  "9b862221-c883-41c1-9842-3b3a9762c703": {
+    "asset": 1586372523160,
+    "meta": 1586410608042,
+    "relativePath": "Sprite/dougu_f_06.png"
+  },
+  "48343007-ef6b-40a0-9b0c-fb54a6d9491e": {
+    "asset": 1586372522731,
+    "meta": 1586410608044,
+    "relativePath": "Sprite/dougu_f_05.png"
+  },
+  "51f75280-63eb-4c88-8dab-2da5f8d99d5c": {
+    "asset": 1586372523426,
+    "meta": 1586410608062,
+    "relativePath": "Sprite/dougu_f_07.png"
+  },
+  "a1042c77-db5f-495a-ace8-f96a3e207c34": {
+    "asset": 1586372524407,
+    "meta": 1586410608064,
+    "relativePath": "Sprite/dougu_f_08.png"
+  },
+  "ed0883df-5f1f-4a00-9d8e-6c521df98fd2": {
+    "asset": 1586372525905,
+    "meta": 1586410608078,
+    "relativePath": "Sprite/dougu_f_10.png"
+  },
+  "70d4f920-576f-4867-8f5c-05c50572b341": {
+    "asset": 1586372524627,
+    "meta": 1586410608079,
+    "relativePath": "Sprite/dougu_f_09.png"
+  },
+  "51752c49-f82a-4cc4-8946-cc30a11871d7": {
+    "asset": 1586372525840,
+    "meta": 1586410608096,
+    "relativePath": "Sprite/dougu_k_01.png"
+  },
+  "f1672e31-859b-48d6-aaf8-e9377f2ac4fa": {
+    "asset": 1586372527033,
+    "meta": 1586410608097,
+    "relativePath": "Sprite/dougu_k_02.png"
+  },
+  "8fa2259a-8dfc-4737-86ce-4b64d25344e8": {
+    "asset": 1586372527160,
+    "meta": 1586410608111,
+    "relativePath": "Sprite/dougu_k_03.png"
+  },
+  "77d0704c-4147-4553-a1d9-80aee7b17bb1": {
+    "asset": 1586372528234,
+    "meta": 1586410608113,
+    "relativePath": "Sprite/dougu_k_04.png"
+  },
+  "1449d9f6-a303-4252-92dc-464d3aac1f21": {
+    "asset": 1586372527973,
+    "meta": 1586410608127,
+    "relativePath": "Sprite/dougu_k_05.png"
+  },
+  "adc07f64-227a-43e0-8b06-46c3782f0d8b": {
+    "asset": 1586372529377,
+    "meta": 1586410608129,
+    "relativePath": "Sprite/dougu_k_06.png"
+  },
+  "574637a3-f691-432f-97ea-af6914c5c6b2": {
+    "asset": 1586372529051,
+    "meta": 1586410608143,
+    "relativePath": "Sprite/dougu_k_07.png"
+  },
+  "1b73859c-7d92-4867-a705-64f250fd1034": {
+    "asset": 1586372530142,
+    "meta": 1586410608145,
+    "relativePath": "Sprite/dougu_k_08.png"
+  },
+  "040f5938-281a-41d2-92d9-861209153e54": {
+    "asset": 1586372530158,
+    "meta": 1586410608159,
+    "relativePath": "Sprite/dougu_k_09.png"
+  },
+  "ccdeb8a2-fdee-466a-b449-43dda851ee7c": {
+    "asset": 1586372531449,
+    "meta": 1586410608161,
+    "relativePath": "Sprite/dougu_n_01.png"
+  },
+  "6dd8275c-13e6-4e0b-9fab-24cc7b817627": {
+    "asset": 1586372531099,
+    "meta": 1586410608175,
+    "relativePath": "Sprite/dougu_n_02.png"
+  },
+  "509bef06-5e7c-4305-bb38-a2897788a7e6": {
+    "asset": 1586372531875,
+    "meta": 1586410608177,
+    "relativePath": "Sprite/dougu_n_03.png"
+  },
+  "95a2adee-aabe-4289-92f0-3559de411b07": {
+    "asset": 1586372532791,
+    "meta": 1586410608193,
+    "relativePath": "Sprite/dougu_n_05.png"
+  },
+  "659343ec-a73e-43b7-b977-a0ed8d577ddd": {
+    "asset": 1586372532861,
+    "meta": 1586410608195,
+    "relativePath": "Sprite/dougu_n_04.png"
+  },
+  "ca98ffc0-b2d7-4937-806a-ad526bf43b2a": {
+    "asset": 1586372534162,
+    "meta": 1586410608209,
+    "relativePath": "Sprite/dougu_n_06.png"
+  },
+  "fc606c9f-2ae7-4e92-bc60-f990f3e114b7": {
+    "asset": 1586372534074,
+    "meta": 1586410608211,
+    "relativePath": "Sprite/dougu_n_07.png"
+  },
+  "cefa30a4-1628-494c-8620-d9b604da2cb2": {
+    "asset": 1586372534945,
+    "meta": 1586410608225,
+    "relativePath": "Sprite/dougu_n_08.png"
+  },
+  "2d6d0cf2-cadf-49f3-9cfa-3499d9a80840": {
+    "asset": 1586372534957,
+    "meta": 1586410608227,
+    "relativePath": "Sprite/dougu_n_09.png"
+  },
+  "d8e7ce77-56c2-4c55-aa80-6f61e838f477": {
+    "asset": 1586372535705,
+    "meta": 1586410608242,
+    "relativePath": "Sprite/dougu_n_10.png"
+  },
+  "db44e0e5-a629-4a16-8941-5b2360533454": {
+    "asset": 1586372536218,
+    "meta": 1586410608245,
+    "relativePath": "Sprite/dougu_owan_01.png"
+  },
+  "9e22a0af-a909-4684-b07b-9fe80ed62a38": {
+    "asset": 1586372536531,
+    "meta": 1586410608260,
+    "relativePath": "Sprite/dougu_owan_02.png"
+  },
+  "f5969b3f-b2ea-47c4-b4fe-037c3f955a2e": {
+    "asset": 1586372536922,
+    "meta": 1586410608262,
+    "relativePath": "Sprite/dougu_t_01.png"
+  },
+  "45df8847-bbd9-4cbb-84ea-6dc81134b02d": {
+    "asset": 1586372537651,
+    "meta": 1586410608278,
+    "relativePath": "Sprite/dougu_t_02.png"
+  },
+  "8862897d-cb0b-421f-8248-703eef50c00b": {
+    "asset": 1586372538035,
+    "meta": 1586410608280,
+    "relativePath": "Sprite/dougu_t_03.png"
+  },
+  "8e1c6262-1cb0-43d1-8941-6d16af6201ba": {
+    "asset": 1586372539175,
+    "meta": 1586410608296,
+    "relativePath": "Sprite/dougu_t_04.png"
+  },
+  "cf3839c7-277d-47c7-b33d-e2dac190a429": {
+    "asset": 1586372538822,
+    "meta": 1586410608298,
+    "relativePath": "Sprite/dougu_t_05.png"
+  },
+  "0bc674a1-4570-444e-b59d-0630a29fa899": {
+    "asset": 1586372539592,
+    "meta": 1586410608315,
+    "relativePath": "Sprite/dougu_t_06.png"
+  },
+  "98279c53-d2bb-4953-9274-bd324410227f": {
+    "asset": 1586372540235,
+    "meta": 1586410608317,
+    "relativePath": "Sprite/dougu_t_07.png"
+  },
+  "da1e2771-a8eb-4956-80e6-aaf87e9737cd": {
+    "asset": 1586372540903,
+    "meta": 1586410608334,
+    "relativePath": "Sprite/dougu_t_09.png"
+  },
+  "20a161c7-4498-4b8c-9cb4-0af27d465f3a": {
+    "asset": 1586372540760,
+    "meta": 1586410608335,
+    "relativePath": "Sprite/dougu_t_08.png"
+  },
+  "fc1828a2-4b95-4de1-8f28-a032773e99d6": {
+    "asset": 1586372541922,
+    "meta": 1586410608349,
+    "relativePath": "Sprite/doui_no.png"
+  },
+  "13302c51-6a7a-43bf-b414-96c67de866bc": {
+    "asset": 1586372541607,
+    "meta": 1586410608352,
+    "relativePath": "Sprite/doui_yes.png"
+  },
+  "f7475807-34ed-4c2a-bb6b-9d2be92e35e5": {
+    "asset": 1586372543087,
+    "meta": 1586410608365,
+    "relativePath": "Sprite/doutyuu_f_02.png"
+  },
+  "58cc1ade-f9e6-41a2-8f2b-05c84f20fd4f": {
+    "asset": 1586372542303,
+    "meta": 1586410608367,
+    "relativePath": "Sprite/doutyuu_f_01.png"
+  },
+  "d7f6c394-f07e-4623-9f83-57d3e19bed6b": {
+    "asset": 1586372543096,
+    "meta": 1586410608381,
+    "relativePath": "Sprite/doutyuu_f_03.png"
+  },
+  "0fa3bdeb-e7b2-408f-ae95-898008cb62a5": {
+    "asset": 1586372544248,
+    "meta": 1586410608383,
+    "relativePath": "Sprite/doutyuu_f_04.png"
+  },
+  "a8258931-1413-4e91-a53e-9b6aff8a8baf": {
+    "asset": 1586372544023,
+    "meta": 1586410608398,
+    "relativePath": "Sprite/doutyuu_f_05.png"
+  },
+  "4f3ea0b7-a2a2-4300-9b1b-b3c7b1435d71": {
+    "asset": 1586372545244,
+    "meta": 1586410608399,
+    "relativePath": "Sprite/doutyuu_k_01l.png"
+  },
+  "9df4882a-748d-4c39-8709-a6407bcf2be7": {
+    "asset": 1586372545994,
+    "meta": 1586410608413,
+    "relativePath": "Sprite/doutyuu_k_02l.png"
+  },
+  "a05a57e0-087f-4d35-8f86-0c1ed0722487": {
+    "asset": 1586372545374,
+    "meta": 1586410608415,
+    "relativePath": "Sprite/doutyuu_k_01r.png"
+  },
+  "65f6c49c-3f6b-4cda-bb52-a0de3ebd6a7b": {
+    "asset": 1586372546010,
+    "meta": 1586410608428,
+    "relativePath": "Sprite/doutyuu_k_02r.png"
+  },
+  "7564e565-8430-466e-a1b2-3d6617edcc14": {
+    "asset": 1586372547120,
+    "meta": 1586410608430,
+    "relativePath": "Sprite/doutyuu_k_03.png"
+  },
+  "1bfb09c5-d61e-4d04-95a5-2155b822887e": {
+    "asset": 1586372547523,
+    "meta": 1586410608442,
+    "relativePath": "Sprite/doutyuu_k_04r.png"
+  },
+  "d76a4d1f-0318-4635-b815-f6bf1ebf3e68": {
+    "asset": 1586372546697,
+    "meta": 1586410608444,
+    "relativePath": "Sprite/doutyuu_k_04l.png"
+  },
+  "f96677fb-505d-4867-b06a-821e85c1ced1": {
+    "asset": 1586372547870,
+    "meta": 1586410608458,
+    "relativePath": "Sprite/doutyuu_k_05l.png"
+  },
+  "a248810e-6771-4d18-9c01-0bb7aa3c40a5": {
+    "asset": 1586372548204,
+    "meta": 1586410608459,
+    "relativePath": "Sprite/doutyuu_k_05r.png"
+  },
+  "bba42f1b-701a-42dc-9d1b-d32143d10a86": {
+    "asset": 1586372549570,
+    "meta": 1586410608473,
+    "relativePath": "Sprite/doutyuu_n_02.png"
+  },
+  "9c85a3d8-5c86-4e08-976d-b867b6e3ab3a": {
+    "asset": 1586372548988,
+    "meta": 1586410608475,
+    "relativePath": "Sprite/doutyuu_n_01.png"
+  },
+  "f44063e5-cce5-4457-a636-2c7775f73ecd": {
+    "asset": 1586372550274,
+    "meta": 1586410608489,
+    "relativePath": "Sprite/doutyuu_n_03.png"
+  },
+  "b27b5666-2eed-45c8-baec-468b4d01d473": {
+    "asset": 1586372551015,
+    "meta": 1586410608491,
+    "relativePath": "Sprite/doutyuu_n_04.png"
+  },
+  "710f12d9-f5b2-43f0-8458-0d5d7143005d": {
+    "asset": 1586372551023,
+    "meta": 1586410608504,
+    "relativePath": "Sprite/doutyuu_n_05.png"
+  },
+  "1cf29f78-8dc2-4a5e-a5a9-a221d9b6924d": {
+    "asset": 1586372551754,
+    "meta": 1586410608505,
+    "relativePath": "Sprite/doutyuu_t_01.png"
+  },
+  "ec63f4a1-fdbc-4a23-a354-9561bb1682b1": {
+    "asset": 1586372552180,
+    "meta": 1586410608519,
+    "relativePath": "Sprite/doutyuu_t_02.png"
+  },
+  "da0b1555-a622-438c-ada7-a6f8abff74cf": {
+    "asset": 1586372552509,
+    "meta": 1586410608521,
+    "relativePath": "Sprite/doutyuu_t_03.png"
+  },
+  "e1c8ac0d-f263-403a-9845-94a4f745d2fa": {
+    "asset": 1586372552951,
+    "meta": 1586410608537,
+    "relativePath": "Sprite/doutyuu_t_04.png"
+  },
+  "38a4fe4d-6cf9-421a-b6f5-5db0b834371c": {
+    "asset": 1586372553230,
+    "meta": 1586410608539,
+    "relativePath": "Sprite/doutyuu_t_05.png"
+  },
+  "b4ff2e31-252f-40dc-8d1e-70e6339ec214": {
+    "asset": 1586372554428,
+    "meta": 1586410608552,
+    "relativePath": "Sprite/DropdownArrow.png"
+  },
+  "107086a8-fbdd-4901-ab69-9d6e68af134f": {
+    "asset": 1586372553950,
+    "meta": 1586410608557,
+    "relativePath": "Sprite/frame_01.png"
+  },
+  "f020dd5a-20f9-4b98-afbb-1fa3994d0740": {
+    "asset": 1586372555121,
+    "meta": 1586410608567,
+    "relativePath": "Sprite/frame_02.png"
+  },
+  "22289c7d-4de9-4e53-8842-8dafdbb5e237": {
+    "asset": 1586372555222,
+    "meta": 1586410608572,
+    "relativePath": "Sprite/frame_03.png"
+  },
+  "24bf2442-4c07-4fc2-9fa1-a9cffbf2cafc": {
+    "asset": 1586372556445,
+    "meta": 1586410608581,
+    "relativePath": "Sprite/frame_empty.png"
+  },
+  "4f9f4228-10a2-4537-84f9-39ff25d127ed": {
+    "asset": 1586372555965,
+    "meta": 1586410608588,
+    "relativePath": "Sprite/frame_kaban.png"
+  },
+  "92ef0e63-6b6e-4acb-8580-bca01e646fdb": {
+    "asset": 1586372556600,
+    "meta": 1586410608593,
+    "relativePath": "Sprite/frame_name.png"
+  },
+  "2f3af998-86f1-4f5f-ba20-5c0e6732d299": {
+    "asset": 1586372557317,
+    "meta": 1586410608602,
+    "relativePath": "Sprite/frame_small.png"
+  },
+  "90a0031f-129b-4f4f-a05a-227d6967b5f3": {
+    "asset": 1586372557484,
+    "meta": 1586410608610,
+    "relativePath": "Sprite/frame_tsukue.png"
+  },
+  "8a3cff5c-41a9-4bec-ac8f-86fb0c449820": {
+    "asset": 1586372558754,
+    "meta": 1586410608618,
+    "relativePath": "Sprite/frog_0.png"
+  },
+  "b4639519-c646-458b-9c01-3263f0c50e1e": {
+    "asset": 1586372558983,
+    "meta": 1586410608626,
+    "relativePath": "Sprite/frog_1.png"
+  },
+  "ebfcb060-317f-48d7-a1e3-1d120ea802b1": {
+    "asset": 1586372559723,
+    "meta": 1586410608634,
+    "relativePath": "Sprite/frog_2.png"
+  },
+  "4fdc86a7-73d6-4281-9a32-5480a2f3ce03": {
+    "asset": 1586372559990,
+    "meta": 1586410608640,
+    "relativePath": "Sprite/frog_3.png"
+  },
+  "251a7f3f-80e0-429d-9715-90bea0b1cef1": {
+    "asset": 1586372560645,
+    "meta": 1586410608651,
+    "relativePath": "Sprite/frog_4.png"
+  },
+  "4f5cb043-45e5-48d8-b770-970fb340ba3b": {
+    "asset": 1586372560731,
+    "meta": 1586410608653,
+    "relativePath": "Sprite/gomibako.png"
+  },
+  "c3b58773-b3cd-4ec4-a671-23e36c95fab6": {
+    "asset": 1586372562018,
+    "meta": 1586410608667,
+    "relativePath": "Sprite/goods_0.png"
+  },
+  "4ef4d5df-e0eb-4024-a3fa-50feabf9f36e": {
+    "asset": 1586372561669,
+    "meta": 1586410608669,
+    "relativePath": "Sprite/goods_1.png"
+  },
+  "c146c8c7-adbe-49ea-9cb8-cee085f99f18": {
+    "asset": 1586372563348,
+    "meta": 1586410608683,
+    "relativePath": "Sprite/goods_10.png"
+  },
+  "78cb6a74-dbdb-4eb3-af2c-50da99de1e3d": {
+    "asset": 1586372563242,
+    "meta": 1586410608685,
+    "relativePath": "Sprite/goods_11.png"
+  },
+  "8d07c200-3c49-4d5d-8d56-fe75ebc92503": {
+    "asset": 1586372564281,
+    "meta": 1586410608698,
+    "relativePath": "Sprite/goods_12.png"
+  },
+  "010e97a3-a3e5-473d-8736-834f37fc1f9e": {
+    "asset": 1586372564400,
+    "meta": 1586410608700,
+    "relativePath": "Sprite/goods_13.png"
+  },
+  "9ed7cf7c-409b-4ba2-8bd9-9f6c10b2be71": {
+    "asset": 1586372565222,
+    "meta": 1586410608715,
+    "relativePath": "Sprite/goods_15.png"
+  },
+  "c6d94d1e-dddd-4b90-bf0d-9afb4da326c9": {
+    "asset": 1586372565177,
+    "meta": 1586410608717,
+    "relativePath": "Sprite/goods_14.png"
+  },
+  "149882de-c879-45b7-a1ea-ec103d2e186d": {
+    "asset": 1586372566655,
+    "meta": 1586410608731,
+    "relativePath": "Sprite/goods_16.png"
+  },
+  "01b9252d-6042-4273-adc7-910a52fb75dd": {
+    "asset": 1586372568324,
+    "meta": 1586410608733,
+    "relativePath": "Sprite/goods_17.png"
+  },
+  "2151fc6b-b00b-42fe-9b78-91f4e4d6a521": {
+    "asset": 1586372567867,
+    "meta": 1586410608749,
+    "relativePath": "Sprite/goods_18.png"
+  },
+  "0b4441ff-4758-45e2-a934-b9eab22dcf07": {
+    "asset": 1586372569499,
+    "meta": 1586410608751,
+    "relativePath": "Sprite/goods_2.png"
+  },
+  "b003e1fd-0a66-49ab-b771-f3112677cd97": {
+    "asset": 1586372569938,
+    "meta": 1586410608765,
+    "relativePath": "Sprite/goods_3.png"
+  },
+  "73841587-751b-43b2-a50c-844bf72695a1": {
+    "asset": 1586372570996,
+    "meta": 1586410608767,
+    "relativePath": "Sprite/goods_4.png"
+  },
+  "8ccbcdd0-d028-488a-8b2b-4a8ab18b0435": {
+    "asset": 1586372570814,
+    "meta": 1586410608780,
+    "relativePath": "Sprite/goods_5.png"
+  },
+  "4c8acc4d-0dcd-45ad-95e0-dd8dace984ff": {
+    "asset": 1586372571731,
+    "meta": 1586410608782,
+    "relativePath": "Sprite/goods_6.png"
+  },
+  "32bfef06-e40f-45e3-acd7-9308dec298f3": {
+    "asset": 1586372572810,
+    "meta": 1586410608798,
+    "relativePath": "Sprite/goods_8.png"
+  },
+  "a8eadd1e-a413-4697-bcfe-98762bc830d9": {
+    "asset": 1586372571842,
+    "meta": 1586410608800,
+    "relativePath": "Sprite/goods_7.png"
+  },
+  "e36d6a05-2885-4744-89e3-73f6ca1772d0": {
+    "asset": 1586372573662,
+    "meta": 1586410608815,
+    "relativePath": "Sprite/goods_9.png"
+  },
+  "362b010d-3ee3-476c-8286-b79d3f43b306": {
+    "asset": 1586372573789,
+    "meta": 1586410608817,
+    "relativePath": "Sprite/goods_hukubiki_0.png"
+  },
+  "8d2b2143-763f-40e5-b188-3efbcda411d4": {
+    "asset": 1586372574757,
+    "meta": 1586410608832,
+    "relativePath": "Sprite/goods_hukubiki_10.png"
+  },
+  "4918eaf8-253a-441b-8550-2f37dac94e47": {
+    "asset": 1586372575085,
+    "meta": 1586410608834,
+    "relativePath": "Sprite/goods_hukubiki_1.png"
+  },
+  "f6795429-d6a0-4b02-9660-95ac219dd339": {
+    "asset": 1586372576507,
+    "meta": 1586410608850,
+    "relativePath": "Sprite/goods_hukubiki_12.png"
+  },
+  "c50791b2-ec51-4621-acbd-2fcc263eba20": {
+    "asset": 1586372576198,
+    "meta": 1586410608852,
+    "relativePath": "Sprite/goods_hukubiki_11.png"
+  },
+  "c9659d41-6b32-439f-902e-d011c88ec663": {
+    "asset": 1586372577728,
+    "meta": 1586410608866,
+    "relativePath": "Sprite/goods_hukubiki_13.png"
+  },
+  "41cd0368-863e-494b-9dd3-479370f1f727": {
+    "asset": 1586372577937,
+    "meta": 1586410608867,
+    "relativePath": "Sprite/goods_hukubiki_14.png"
+  },
+  "b0bc90ae-3a39-4aac-8f45-fd661a55220a": {
+    "asset": 1586372578655,
+    "meta": 1586410608882,
+    "relativePath": "Sprite/goods_hukubiki_15.png"
+  },
+  "e7c27080-4fa9-45a5-ae5c-75159b2392b5": {
+    "asset": 1586372579488,
+    "meta": 1586410608884,
+    "relativePath": "Sprite/goods_hukubiki_16.png"
+  },
+  "dd827ef9-241b-4398-af69-97e5f5952328": {
+    "asset": 1586372579581,
+    "meta": 1586410608899,
+    "relativePath": "Sprite/goods_hukubiki_17.png"
+  },
+  "208a1b91-6de6-452d-994f-cd9e866dbb38": {
+    "asset": 1586372580420,
+    "meta": 1586410608901,
+    "relativePath": "Sprite/goods_hukubiki_18.png"
+  },
+  "6cd969bb-6e60-43fc-9fce-36f82313e452": {
+    "asset": 1586372580731,
+    "meta": 1586410608917,
+    "relativePath": "Sprite/goods_hukubiki_19.png"
+  },
+  "55c91187-8615-4480-8b64-9c485dc7cdd0": {
+    "asset": 1586372581678,
+    "meta": 1586410608919,
+    "relativePath": "Sprite/goods_hukubiki_2.png"
+  },
+  "3d34f8e0-2859-44c6-b3b5-1b4f75ac2293": {
+    "asset": 1586372582219,
+    "meta": 1586410608933,
+    "relativePath": "Sprite/goods_hukubiki_3.png"
+  },
+  "0e08c378-8b3b-4ae9-b246-c735ec39643b": {
+    "asset": 1586372582878,
+    "meta": 1586410608935,
+    "relativePath": "Sprite/goods_hukubiki_4.png"
+  },
+  "6a128841-f381-4d54-8e00-f5c61b336054": {
+    "asset": 1586372584271,
+    "meta": 1586410608951,
+    "relativePath": "Sprite/goods_hukubiki_6.png"
+  },
+  "09ecef02-9525-471c-acda-4069e1f2c6af": {
+    "asset": 1586372583348,
+    "meta": 1586410608953,
+    "relativePath": "Sprite/goods_hukubiki_5.png"
+  },
+  "8aceaea2-85de-46c7-9fc6-a9fd5f99aa15": {
+    "asset": 1586372585495,
+    "meta": 1586410608968,
+    "relativePath": "Sprite/goods_hukubiki_8.png"
+  },
+  "15fab2fb-469e-4d25-9780-736ff3c34cf6": {
+    "asset": 1586372584171,
+    "meta": 1586410608970,
+    "relativePath": "Sprite/goods_hukubiki_7.png"
+  },
+  "9afd1943-29e7-4f30-836e-3525108e5b59": {
+    "asset": 1586372585197,
+    "meta": 1586410608985,
+    "relativePath": "Sprite/goods_hukubiki_9.png"
+  },
+  "ae5008df-e40f-4471-a280-3509d759977a": {
+    "asset": 1586372586294,
+    "meta": 1586410609002,
+    "relativePath": "Sprite/haikei_01.png"
+  },
+  "450d9475-6575-4c68-826e-e1527e2f1838": {
+    "asset": 1586372603788,
+    "meta": 1586410609042,
+    "relativePath": "Sprite/haikei_niwa_akari.png"
+  },
+  "c6d2e488-63eb-451a-b02a-3d886595ce9d": {
+    "asset": 1586372598735,
+    "meta": 1586410609057,
+    "relativePath": "Sprite/haikei_niwa.png"
+  },
+  "206da121-020a-41ec-a4aa-8c0b6ab73fa7": {
+    "asset": 1586372603795,
+    "meta": 1586410609068,
+    "relativePath": "Sprite/hayasi_01.png"
+  },
+  "75806a89-a522-4beb-856b-c17469f4392f": {
+    "asset": 1586372604568,
+    "meta": 1586410609070,
+    "relativePath": "Sprite/help.png"
+  },
+  "24a9a81a-4f43-4ec9-9aff-a2c9bca80d47": {
+    "asset": 1586372605441,
+    "meta": 1586410609085,
+    "relativePath": "Sprite/HelpPic_0_2.png"
+  },
+  "6a62e074-7b45-4809-9127-d652d654f732": {
+    "asset": 1586372604892,
+    "meta": 1586410609087,
+    "relativePath": "Sprite/HelpPic_0_1.png"
+  },
+  "c175a1c3-04ad-40db-952a-8caad5c4e676": {
+    "asset": 1586372606724,
+    "meta": 1586410609103,
+    "relativePath": "Sprite/HelpPic_2_1.png"
+  },
+  "0c3fa890-ca1f-4293-9dc9-df13725826af": {
+    "asset": 1586372605601,
+    "meta": 1586410609105,
+    "relativePath": "Sprite/helpPic_1_1.png"
+  },
+  "49634f68-35ae-4fc6-8074-73e75474d52c": {
+    "asset": 1586372607934,
+    "meta": 1586410609120,
+    "relativePath": "Sprite/helpPic_3_1.png"
+  },
+  "6b077014-c194-4348-81db-fe7b11d8bdb4": {
+    "asset": 1586372606887,
+    "meta": 1586410609122,
+    "relativePath": "Sprite/helpPic_2_2.png"
+  },
+  "40488896-febb-4b5d-8f7a-6b112da176b1": {
+    "asset": 1586372608053,
+    "meta": 1586410609135,
+    "relativePath": "Sprite/helpPic_3_2.png"
+  },
+  "5323e1b1-2bc6-4c24-bb7f-358051dc972e": {
+    "asset": 1586372609181,
+    "meta": 1586410609137,
+    "relativePath": "Sprite/HelpPic_3_3.png"
+  },
+  "6fb5cf9d-5c0f-40a8-93ee-e5a2e5575695": {
+    "asset": 1586372608860,
+    "meta": 1586410609151,
+    "relativePath": "Sprite/helpPic_4_1.png"
+  },
+  "ff0e9a3a-382c-4b5b-af8e-7681652b33d9": {
+    "asset": 1586372610536,
+    "meta": 1586410609154,
+    "relativePath": "Sprite/helpPic_5_1.png"
+  },
+  "ec874dbf-83ca-4c56-b28d-231d7a1b3443": {
+    "asset": 1586372610407,
+    "meta": 1586410609167,
+    "relativePath": "Sprite/helpPic_5_2.png"
+  },
+  "c83292c3-e114-4327-a6d1-01c5642f9312": {
+    "asset": 1586372611732,
+    "meta": 1586410609169,
+    "relativePath": "Sprite/HelpPic_5_3.png"
+  },
+  "09b0554c-092d-4605-b7ee-780d9e7d27cf": {
+    "asset": 1586372612940,
+    "meta": 1586410609185,
+    "relativePath": "Sprite/hi_rousoku.png"
+  },
+  "0fd98c37-593a-43d7-a234-097c23e2d910": {
+    "asset": 1586372612857,
+    "meta": 1586410609187,
+    "relativePath": "Sprite/hi_syokudai.png"
+  },
+  "699cd606-5401-4108-b4c8-8811d0c585f3": {
+    "asset": 1586372614014,
+    "meta": 1586410609200,
+    "relativePath": "Sprite/hozon_yes.png"
+  },
+  "4537a8a2-1b37-483a-a123-040914b54c75": {
+    "asset": 1586372611570,
+    "meta": 1586410609202,
+    "relativePath": "Sprite/hikki_ie.png"
+  },
+  "f2f9a825-2feb-4dba-b615-b701b1d12dac": {
+    "asset": 1586372615128,
+    "meta": 1586410609219,
+    "relativePath": "Sprite/icon_camera_84_88.png"
+  },
+  "faa72180-c610-4963-a051-c5823c8ab19c": {
+    "asset": 1586372613799,
+    "meta": 1586410609221,
+    "relativePath": "Sprite/hplogo.png"
+  },
+  "75cffacb-0049-4536-97a5-3b0c880c6806": {
+    "asset": 1586372614857,
+    "meta": 1586410609236,
+    "relativePath": "Sprite/icon_help_84_88.png"
+  },
+  "17a08e3f-2b38-44aa-bb3a-a2f87b875d84": {
+    "asset": 1586372616117,
+    "meta": 1586410609237,
+    "relativePath": "Sprite/icon_house_84_88.png"
+  },
+  "38b59358-e9df-43b8-afb7-ce710b145776": {
+    "asset": 1586372616311,
+    "meta": 1586410609252,
+    "relativePath": "Sprite/icon_item_84_88.png"
+  },
+  "74256d5c-35c9-494c-8e7c-69c4ccd40669": {
+    "asset": 1586372617329,
+    "meta": 1586410609253,
+    "relativePath": "Sprite/icon_menu_92_96.png"
+  },
+  "116b86f5-bf27-4dcb-b900-4e2ce9dd355f": {
+    "asset": 1586372617504,
+    "meta": 1586410609266,
+    "relativePath": "Sprite/icon_name.png"
+  },
+  "98fef413-b16b-4ae5-8661-71ebdb720687": {
+    "asset": 1586372618574,
+    "meta": 1586410609268,
+    "relativePath": "Sprite/icon_out_84_88.png"
+  },
+  "15350ffa-0280-462c-99be-1135408b9cad": {
+    "asset": 1586372619728,
+    "meta": 1586410609282,
+    "relativePath": "Sprite/icon_syougou.png"
+  },
+  "616fda21-33e6-4dee-a712-9bc84530b87b": {
+    "asset": 1586372618633,
+    "meta": 1586410609283,
+    "relativePath": "Sprite/icon_shop_84_88.png"
+  },
+  "c81c76b5-3619-485f-821f-28f8b0843750": {
+    "asset": 1586372619810,
+    "meta": 1586410609297,
+    "relativePath": "Sprite/icon_urabeya_84_88.png"
+  },
+  "a9539a40-a690-4469-af7f-aad4f895250c": {
+    "asset": 1586372621332,
+    "meta": 1586410609300,
+    "relativePath": "Sprite/inemuri_ie.png"
+  },
+  "26279157-6be9-4504-b0e4-00894a4e222c": {
+    "asset": 1586372620533,
+    "meta": 1586410609310,
+    "relativePath": "Sprite/ippin.png"
+  },
+  "2c0f6e3a-846c-490f-8aa3-6942d5944a32": {
+    "asset": 1586372621568,
+    "meta": 1586410609322,
+    "relativePath": "Sprite/isigame_niwa.png"
+  },
+  "f28c1983-070f-4e9f-a368-a9bb2e5e07f8": {
+    "asset": 1586372622460,
+    "meta": 1586410609326,
+    "relativePath": "Sprite/item_back.png"
+  },
+  "83124715-b3f4-45d4-957b-961116f6272f": {
+    "asset": 1586372623647,
+    "meta": 1586410609338,
+    "relativePath": "Sprite/kaban_frame_01.png"
+  },
+  "b57d33bd-eda1-4f68-bfae-45dd919d5c18": {
+    "asset": 1586372623602,
+    "meta": 1586410609341,
+    "relativePath": "Sprite/kaban_frame_02.png"
+  },
+  "d0211f44-235c-4428-99dd-fc8fcd27c839": {
+    "asset": 1586372624930,
+    "meta": 1586410609353,
+    "relativePath": "Sprite/kaban_frame_03.png"
+  },
+  "975e1221-b0b2-4af5-b2e8-73642d8d88a2": {
+    "asset": 1586372622677,
+    "meta": 1586410609355,
+    "relativePath": "Sprite/kaban.png"
+  },
+  "87c40760-a207-48d6-a909-17155938f38d": {
+    "asset": 1586372625624,
+    "meta": 1586410609367,
+    "relativePath": "Sprite/kanryou.png"
+  },
+  "09bebd3f-149d-4d05-8dbf-51ab67f0a85e": {
+    "asset": 1586372624824,
+    "meta": 1586410609369,
+    "relativePath": "Sprite/kaeru_niwa.png"
+  },
+  "081feac4-6c4a-4da3-b920-d4f02d35f27b": {
+    "asset": 1586372626106,
+    "meta": 1586410609382,
+    "relativePath": "Sprite/katadukeru.png"
+  },
+  "fd0a75c1-8608-4c02-ab7b-6249c6d1e9df": {
+    "asset": 1586372626848,
+    "meta": 1586410609392,
+    "relativePath": "Sprite/katatsumuri_niwa.png"
+  },
+  "15831198-67b8-4276-9881-312ee954a8e2": {
+    "asset": 1586372627279,
+    "meta": 1586410609394,
+    "relativePath": "Sprite/keihin.png"
+  },
+  "940bab6a-8776-4eda-aed2-fd4638145005": {
+    "asset": 1586372638654,
+    "meta": 1586410609420,
+    "relativePath": "Sprite/ki_02.png"
+  },
+  "baaf57fa-8144-4b49-ab7a-3d4c5c4ae4e6": {
+    "asset": 1586372638668,
+    "meta": 1586410609425,
+    "relativePath": "Sprite/ki_01.png"
+  },
+  "19c69031-a5db-467e-bbc4-b8fae7383bfe": {
+    "asset": 1586372639980,
+    "meta": 1586410609438,
+    "relativePath": "Sprite/ki_03.png"
+  },
+  "bb8d112e-4c63-4ba6-b2c0-e6ac6335f066": {
+    "asset": 1586372640670,
+    "meta": 1586410609443,
+    "relativePath": "Sprite/ki_04.png"
+  },
+  "66369fe2-8ecd-44a4-bff1-3cf838e6322a": {
+    "asset": 1586372641423,
+    "meta": 1586410609452,
+    "relativePath": "Sprite/koke_01.png"
+  },
+  "e8004d05-114a-4b6a-b858-c32b76ea5ddc": {
+    "asset": 1586372642657,
+    "meta": 1586410609461,
+    "relativePath": "Sprite/koke_02.png"
+  },
+  "92e9334c-de5d-4d87-b429-098f1bc8491c": {
+    "asset": 1586372641704,
+    "meta": 1586410609462,
+    "relativePath": "Sprite/ki_05.png"
+  },
+  "c2391478-1f1c-4775-9e99-d0f66ab84a7d": {
+    "asset": 1586372642422,
+    "meta": 1586410609471,
+    "relativePath": "Sprite/koke_03.png"
+  },
+  "1ce6cc50-4534-49bd-8e64-d594dd36c08b": {
+    "asset": 1586372643714,
+    "meta": 1586410609472,
+    "relativePath": "Sprite/koke_04.png"
+  },
+  "2add0797-285e-414d-972f-77704ec94370": {
+    "asset": 1586372643881,
+    "meta": 1586410609480,
+    "relativePath": "Sprite/koke_05.png"
+  },
+  "6a8c1d4d-e6ca-46b9-9ae1-ae20633be4fe": {
+    "asset": 1586372644509,
+    "meta": 1586410609481,
+    "relativePath": "Sprite/koke_06.png"
+  },
+  "6048c5ba-0507-41ce-a1d5-5f4429c56f45": {
+    "asset": 1586372645741,
+    "meta": 1586410609490,
+    "relativePath": "Sprite/koke_08.png"
+  },
+  "8a0f3c18-5036-46cb-b155-91131c311c9e": {
+    "asset": 1586372644711,
+    "meta": 1586410609491,
+    "relativePath": "Sprite/koke_07.png"
+  },
+  "464f78d3-bae1-407e-9fb8-956965e6cec5": {
+    "asset": 1586372645874,
+    "meta": 1586410609499,
+    "relativePath": "Sprite/koke_09.png"
+  },
+  "a4246a1a-440f-4f54-9f4e-c5a082f0aed2": {
+    "asset": 1586372646849,
+    "meta": 1586410609499,
+    "relativePath": "Sprite/koke_10.png"
+  },
+  "89c1eef6-8f48-47f2-bc16-bd91fe747d06": {
+    "asset": 1586372648156,
+    "meta": 1586410609511,
+    "relativePath": "Sprite/kumo_01.png"
+  },
+  "cec1b87e-9b89-4e38-8581-ffcf654fd4f4": {
+    "asset": 1586372647407,
+    "meta": 1586410609513,
+    "relativePath": "Sprite/konkuri_01.png"
+  },
+  "d1c7c6cf-ff83-4aee-bc37-01c3c36e0dab": {
+    "asset": 1586372649429,
+    "meta": 1586410609521,
+    "relativePath": "Sprite/kumo_03.png"
+  },
+  "d891ba9b-6a0f-4be4-8062-f6096602e0bc": {
+    "asset": 1586372650378,
+    "meta": 1586410609525,
+    "relativePath": "Sprite/kumo_02.png"
+  },
+  "7a527b07-ee4f-47dc-91f2-0f62cb1144b3": {
+    "asset": 1586372650334,
+    "meta": 1586410609529,
+    "relativePath": "Sprite/kumo_04.png"
+  },
+  "57609b7e-643b-47fc-82e6-a2c1a91c0e75": {
+    "asset": 1586372651621,
+    "meta": 1586410609533,
+    "relativePath": "Sprite/kumo_05.png"
+  },
+  "7560576a-0d06-40f0-97ef-466cf7a379e1": {
+    "asset": 1586372651844,
+    "meta": 1586410609537,
+    "relativePath": "Sprite/kumo_06.png"
+  },
+  "797abb8c-3ca6-44df-92af-1049db796722": {
+    "asset": 1586372652334,
+    "meta": 1586410609541,
+    "relativePath": "Sprite/kusa_01.png"
+  },
+  "41eed760-fe86-4fb1-9162-6aea6c442574": {
+    "asset": 1586372652968,
+    "meta": 1586410609546,
+    "relativePath": "Sprite/kusa_02.png"
+  },
+  "d567b143-fcde-494e-88fc-620ece822535": {
+    "asset": 1586372653120,
+    "meta": 1586410609548,
+    "relativePath": "Sprite/kusa_03.png"
+  },
+  "a0c04239-a782-417c-952e-ab58498cf7b8": {
+    "asset": 1586372653905,
+    "meta": 1586410609555,
+    "relativePath": "Sprite/kusa_04.png"
+  },
+  "eab755ae-d242-4a4f-bc9c-6fde98087b5e": {
+    "asset": 1586372654055,
+    "meta": 1586410609558,
+    "relativePath": "Sprite/kusa_05.png"
+  },
+  "51e21b66-103b-40f7-b780-af5d19a1a9ba": {
+    "asset": 1586372655107,
+    "meta": 1586410609567,
+    "relativePath": "Sprite/kusa_07.png"
+  },
+  "0ebdf9ff-f404-4f94-be3b-1377702aa270": {
+    "asset": 1586372656657,
+    "meta": 1586410609570,
+    "relativePath": "Sprite/kusa_06.png"
+  },
+  "9df98633-945b-401a-8bc0-6bd6a31c211d": {
+    "asset": 1586372656415,
+    "meta": 1586410609574,
+    "relativePath": "Sprite/kusa_08.png"
+  },
+  "c739d90e-1e2b-4840-bd34-89c1009a77ae": {
+    "asset": 1586372657556,
+    "meta": 1586410609577,
+    "relativePath": "Sprite/kusa_09.png"
+  },
+  "ad1c0aa3-e212-44e8-bb4c-b74c290be317": {
+    "asset": 1586372657426,
+    "meta": 1586410609583,
+    "relativePath": "Sprite/kusa_10.png"
+  },
+  "6bbf21b7-b6e6-47e8-aac8-98a88f31e460": {
+    "asset": 1586372658602,
+    "meta": 1586410609585,
+    "relativePath": "Sprite/kusa_11.png"
+  },
+  "60ec5e92-1aa5-470a-bc07-0e059a9dc2db": {
+    "asset": 1586372659393,
+    "meta": 1586410609593,
+    "relativePath": "Sprite/label_01.png"
+  },
+  "d1add041-e0d6-45db-8ed0-4d4ea3461227": {
+    "asset": 1586372658753,
+    "meta": 1586410609594,
+    "relativePath": "Sprite/kutu_01.png"
+  },
+  "9281321c-66e7-43d1-a0ad-ee69d6bd6022": {
+    "asset": 1586372660221,
+    "meta": 1586410609603,
+    "relativePath": "Sprite/label_02.png"
+  },
+  "654be150-6d95-4388-8e82-467a8e38bf40": {
+    "asset": 1586372660419,
+    "meta": 1586410609604,
+    "relativePath": "Sprite/label_03.png"
+  },
+  "b2f93ecd-1d6f-4a6e-bb15-c3cdc4195c22": {
+    "asset": 1586372661679,
+    "meta": 1586410609613,
+    "relativePath": "Sprite/line_01.png"
+  },
+  "20aefa20-602c-4304-9218-defd75c05a66": {
+    "asset": 1586372660909,
+    "meta": 1586410609614,
+    "relativePath": "Sprite/label_04.png"
+  },
+  "5afa828e-18ea-4fed-b8c0-a3fb8f5395d2": {
+    "asset": 1586372663280,
+    "meta": 1586410609623,
+    "relativePath": "Sprite/loading_off.png"
+  },
+  "37a2c636-25d9-4a5a-9f6f-c320fc592d0b": {
+    "asset": 1586372664204,
+    "meta": 1586410609630,
+    "relativePath": "Sprite/loading_on.png"
+  },
+  "ab94c395-2ec3-45bc-97f7-f678c8b9725a": {
+    "asset": 1586372662918,
+    "meta": 1586410609639,
+    "relativePath": "Sprite/loading_dorai.png"
+  },
+  "d3c8c7d6-5dde-48fb-adef-0b7e893cf8c5": {
+    "asset": 1586372661607,
+    "meta": 1586410609640,
+    "relativePath": "Sprite/loading.png"
+  },
+  "16658e9d-e8e4-4b12-9376-c45ca8934a5e": {
+    "asset": 1586372663939,
+    "meta": 1586410609650,
+    "relativePath": "Sprite/lottery_ball_01.png"
+  },
+  "49daad85-3e62-486e-8a10-64567f309e88": {
+    "asset": 1586372665072,
+    "meta": 1586410609651,
+    "relativePath": "Sprite/lottery_ball_02.png"
+  },
+  "3eda3808-a4d3-4715-84eb-de35dee581b2": {
+    "asset": 1586372666360,
+    "meta": 1586410609661,
+    "relativePath": "Sprite/lottery_ball_04.png"
+  },
+  "7a5a1e55-7d90-4eee-88d6-91fb3352e39b": {
+    "asset": 1586372665386,
+    "meta": 1586410609662,
+    "relativePath": "Sprite/lottery_ball_03.png"
+  },
+  "1bc2194f-b2e9-4390-8af1-1132e16cb8d2": {
+    "asset": 1586372667349,
+    "meta": 1586410609672,
+    "relativePath": "Sprite/lottery_ball_05.png"
+  },
+  "782e0148-a58c-4231-a3b3-6e064f5ad75d": {
+    "asset": 1586372668614,
+    "meta": 1586410609680,
+    "relativePath": "Sprite/lottery_frame_01.png"
+  },
+  "5f06ee06-1beb-4aec-ad15-7b726cb4fc50": {
+    "asset": 1586372667569,
+    "meta": 1586410609688,
+    "relativePath": "Sprite/lottery_dodai.png"
+  },
+  "fbf6ad4a-d038-48c4-a61b-385089442598": {
+    "asset": 1586372668759,
+    "meta": 1586410609689,
+    "relativePath": "Sprite/lottery_frame_02.png"
+  },
+  "9cbe1d98-c747-4321-8361-59d5b72ec860": {
+    "asset": 1586372669468,
+    "meta": 1586410609698,
+    "relativePath": "Sprite/lottery_frame_03.png"
+  },
+  "8d425a5a-794c-4b80-95cc-1ecc00055aec": {
+    "asset": 1586372670808,
+    "meta": 1586410609698,
+    "relativePath": "Sprite/lottery_frame_04.png"
+  },
+  "56c93837-7659-4be9-bfbe-38f42e78f693": {
+    "asset": 1586372671941,
+    "meta": 1586410609709,
+    "relativePath": "Sprite/lottery_hukubiki.png"
+  },
+  "e4a6f365-c40a-4073-8b46-788ccd12e179": {
+    "asset": 1586372670392,
+    "meta": 1586410609710,
+    "relativePath": "Sprite/lottery_frame_05.png"
+  },
+  "80320960-be9a-40b9-af2e-fe3bd8b6812b": {
+    "asset": 1586372671600,
+    "meta": 1586410609718,
+    "relativePath": "Sprite/lottery_keihin.png"
+  },
+  "41d9634b-aac2-4998-98f0-07c6296344c8": {
+    "asset": 1586372672348,
+    "meta": 1586410609719,
+    "relativePath": "Sprite/lottery_mawasu.png"
+  },
+  "ed1103e8-daf7-41c5-9fca-54abaf8a6dde": {
+    "asset": 1586372673265,
+    "meta": 1586410609728,
+    "relativePath": "Sprite/lottery_syozi.png"
+  },
+  "0938fa6d-bfb3-4ddf-8fcf-bfcc5dacd3e0": {
+    "asset": 1586372673719,
+    "meta": 1586410609732,
+    "relativePath": "Sprite/lottery_tenpo_sita.png"
+  },
+  "39c36b18-a0f5-4fe0-ad22-7ef668d1a1a2": {
+    "asset": 1586372674593,
+    "meta": 1586410609738,
+    "relativePath": "Sprite/lottery_tenpo_ue.png"
+  },
+  "3a110dec-e5ac-4e8b-942b-6506c0e429ae": {
+    "asset": 1586372675191,
+    "meta": 1586410609743,
+    "relativePath": "Sprite/lottery_zoom_frame.png"
+  },
+  "8bdad850-4bc5-4e34-acea-66a75646b502": {
+    "asset": 1586372676108,
+    "meta": 1586410609750,
+    "relativePath": "Sprite/lottery_zoom_tray_01.png"
+  },
+  "ec3319b7-990a-407a-b5a0-f24f42e38336": {
+    "asset": 1586372676730,
+    "meta": 1586410609755,
+    "relativePath": "Sprite/lottery_zoom_tray_02.png"
+  },
+  "dca9c0f2-8b09-493e-bfd3-0a7e81762f32": {
+    "asset": 1586372677351,
+    "meta": 1586410609757,
+    "relativePath": "Sprite/mail_hukubiki.png"
+  },
+  "814bf35d-9665-4de2-af54-7c57d79ce82d": {
+    "asset": 1586372677604,
+    "meta": 1586410609764,
+    "relativePath": "Sprite/mail_isigame.png"
+  },
+  "8f067b71-d4ff-4251-a1ce-2b73ddbb11a0": {
+    "asset": 1586372678560,
+    "meta": 1586410609765,
+    "relativePath": "Sprite/mail_katatsumuri.png"
+  },
+  "87cd470e-9a4f-42df-a9e0-082403340228": {
+    "asset": 1586372679291,
+    "meta": 1586410609774,
+    "relativePath": "Sprite/mail_mituba.png"
+  },
+  "f0a0cfd1-abdd-4ecb-a931-fa5bd2ec4bbb": {
+    "asset": 1586372678468,
+    "meta": 1586410609774,
+    "relativePath": "Sprite/mail_mitsubati.png"
+  },
+  "26618c89-de33-426b-bd98-8934d81b36ac": {
+    "asset": 1586372680620,
+    "meta": 1586410609781,
+    "relativePath": "Sprite/mail_tirashi.png"
+  },
+  "d01ed8ef-6587-41b8-86b4-ad89c2766968": {
+    "asset": 1586372679300,
+    "meta": 1586410609782,
+    "relativePath": "Sprite/mail_olluketori.png"
+  },
+  "db5ceb8f-1a83-483c-a656-4cbec237d93e": {
+    "asset": 1586372680630,
+    "meta": 1586410609790,
+    "relativePath": "Sprite/mail_uketori.png"
+  },
+  "8c2416f4-d303-4896-811e-107b7defba10": {
+    "asset": 1586372681367,
+    "meta": 1586410609790,
+    "relativePath": "Sprite/mail_yotuba.png"
+  },
+  "157b68bb-1328-4e14-bf2a-5b48ce0f99e5": {
+    "asset": 1586372682518,
+    "meta": 1586410609797,
+    "relativePath": "Sprite/meibutu.png"
+  },
+  "4db48c14-7f6f-43d8-83d6-a831ea31a56e": {
+    "asset": 1586372681567,
+    "meta": 1586410609798,
+    "relativePath": "Sprite/MainOut_mail_tuuti.png"
+  },
+  "54ab4664-98e5-415a-b506-2c6ce65cc396": {
+    "asset": 1586372683111,
+    "meta": 1586410609810,
+    "relativePath": "Sprite/meisyo_01.png"
+  },
+  "e815f8d8-52cb-40ae-9211-609a5090318f": {
+    "asset": 1586372686487,
+    "meta": 1586410609813,
+    "relativePath": "Sprite/meisyo_02.png"
+  },
+  "8d7bf5e7-cfbb-4bef-ad34-a1b6503d7491": {
+    "asset": 1586372684534,
+    "meta": 1586410609822,
+    "relativePath": "Sprite/meisyo_03.png"
+  },
+  "194a4f2c-3361-4d4b-a550-fd3bcf322c20": {
+    "asset": 1586372687269,
+    "meta": 1586410609825,
+    "relativePath": "Sprite/meisyo_04.png"
+  },
+  "e8240333-188f-4994-bae2-7b6001d383ca": {
+    "asset": 1586372688984,
+    "meta": 1586410609837,
+    "relativePath": "Sprite/meisyo_06.png"
+  },
+  "477dd676-68d9-48c4-bac4-b7ff2cda7b05": {
+    "asset": 1586372688976,
+    "meta": 1586410609838,
+    "relativePath": "Sprite/meisyo_05.png"
+  },
+  "6ef7c2ce-36a4-477d-9f3c-fafb0e9a1257": {
+    "asset": 1586372690745,
+    "meta": 1586410609851,
+    "relativePath": "Sprite/meisyo_07.png"
+  },
+  "2d7936eb-3f07-41aa-b3b8-d91e58218bd8": {
+    "asset": 1586372691319,
+    "meta": 1586410609852,
+    "relativePath": "Sprite/meisyo_08.png"
+  },
+  "07c9ba4b-c477-4f3b-ae02-f3fa22e3ed1f": {
+    "asset": 1586372694193,
+    "meta": 1586410609867,
+    "relativePath": "Sprite/meisyo_10.png"
+  },
+  "570efeb1-6610-44d2-9679-3290a9650900": {
+    "asset": 1586372692037,
+    "meta": 1586410609868,
+    "relativePath": "Sprite/meisyo_09.png"
+  },
+  "44c3106c-c3ba-42ec-ada5-bc64ea734aea": {
+    "asset": 1586372694499,
+    "meta": 1586410609875,
+    "relativePath": "Sprite/meisyo_f_02.png"
+  },
+  "a140a122-f59f-44a1-a825-44957386b539": {
+    "asset": 1586372692927,
+    "meta": 1586410609877,
+    "relativePath": "Sprite/meisyo_f_01.png"
+  },
+  "f48398b9-458c-4195-abcd-68b3308c4760": {
+    "asset": 1586372694910,
+    "meta": 1586410609884,
+    "relativePath": "Sprite/meisyo_f_03.png"
+  },
+  "2623cb42-6c4c-4a20-93b9-cdc757997bf4": {
+    "asset": 1586372695686,
+    "meta": 1586410609886,
+    "relativePath": "Sprite/meisyo_f_04.png"
+  },
+  "6e1a86ae-9a96-4067-890d-8c27c9cc74d2": {
+    "asset": 1586372696031,
+    "meta": 1586410609892,
+    "relativePath": "Sprite/meisyo_f_05.png"
+  },
+  "a9a5d0dc-e6bc-4062-833a-153e5bd9cf09": {
+    "asset": 1586372696835,
+    "meta": 1586410609892,
+    "relativePath": "Sprite/meisyo_f_06.png"
+  },
+  "57f805b1-f9ec-4f53-a9d5-11c1271701b1": {
+    "asset": 1586372697532,
+    "meta": 1586410609900,
+    "relativePath": "Sprite/meisyo_f_08.png"
+  },
+  "a3091de8-5f60-4fd3-95fa-a347511200a9": {
+    "asset": 1586372696788,
+    "meta": 1586410609901,
+    "relativePath": "Sprite/meisyo_f_07.png"
+  },
+  "d4ff9e1f-c2a0-4e73-939e-10553d3ab723": {
+    "asset": 1586372699038,
+    "meta": 1586410609908,
+    "relativePath": "Sprite/meisyo_f_10.png"
+  },
+  "0a609546-48bc-4245-9309-4155f87620f2": {
+    "asset": 1586372697691,
+    "meta": 1586410609910,
+    "relativePath": "Sprite/meisyo_f_09.png"
+  },
+  "20c4cea8-d090-46d6-8313-5dd373590076": {
+    "asset": 1586372698602,
+    "meta": 1586410609919,
+    "relativePath": "Sprite/meisyo_f_11.png"
+  },
+  "507a4392-10e5-4ef0-b322-6e97bde8ffe6": {
+    "asset": 1586372699459,
+    "meta": 1586410609920,
+    "relativePath": "Sprite/meisyo_f_12.png"
+  },
+  "813ab6de-82ce-4dd1-9326-8e962f9d15c8": {
+    "asset": 1586372700139,
+    "meta": 1586410609929,
+    "relativePath": "Sprite/meisyo_f_13.png"
+  },
+  "efe1ca6f-e3ee-4733-85fd-3d645c6ea19e": {
+    "asset": 1586372700153,
+    "meta": 1586410609931,
+    "relativePath": "Sprite/meisyo_f_14.png"
+  },
+  "2a7ffe0c-b205-4912-83a1-864edcca7e40": {
+    "asset": 1586372701435,
+    "meta": 1586410609940,
+    "relativePath": "Sprite/meisyo_k_02.png"
+  },
+  "0ac198dc-27af-4443-ba27-545e49e4d584": {
+    "asset": 1586372701302,
+    "meta": 1586410609941,
+    "relativePath": "Sprite/meisyo_k_01.png"
+  },
+  "c67bcf23-d13e-46f3-a468-6e81a7bf2045": {
+    "asset": 1586372702175,
+    "meta": 1586410609950,
+    "relativePath": "Sprite/meisyo_k_03.png"
+  },
+  "047d9a06-08f4-48f8-bcb6-d2e000b7c1ea": {
+    "asset": 1586372702370,
+    "meta": 1586410609950,
+    "relativePath": "Sprite/meisyo_k_04.png"
+  },
+  "a771cee4-ade5-47c8-a8a8-10a5ea92d56d": {
+    "asset": 1586372703520,
+    "meta": 1586410609959,
+    "relativePath": "Sprite/meisyo_k_06.png"
+  },
+  "50854830-2d68-4a15-a670-f411efd55fe8": {
+    "asset": 1586372703566,
+    "meta": 1586410609960,
+    "relativePath": "Sprite/meisyo_k_05.png"
+  },
+  "d104a2c0-bd94-49b7-aca2-74794559261d": {
+    "asset": 1586372704338,
+    "meta": 1586410609969,
+    "relativePath": "Sprite/meisyo_k_08.png"
+  },
+  "5ecfe417-a41f-4005-afc8-32b4ab5b4384": {
+    "asset": 1586372704527,
+    "meta": 1586410609970,
+    "relativePath": "Sprite/meisyo_k_07.png"
+  },
+  "8cf39a70-b5a0-438a-93e2-2539d839b8f7": {
+    "asset": 1586372705201,
+    "meta": 1586410609980,
+    "relativePath": "Sprite/meisyo_k_10.png"
+  },
+  "c2942492-5fea-4a70-9ee5-459cb8d12d49": {
+    "asset": 1586372704996,
+    "meta": 1586410609982,
+    "relativePath": "Sprite/meisyo_k_09.png"
+  },
+  "ffca691e-15c6-4bfa-8ccd-5ba7d8979d09": {
+    "asset": 1586372706395,
+    "meta": 1586410609995,
+    "relativePath": "Sprite/meisyo_n_02.png"
+  },
+  "6fb6e6a6-cbdf-4eca-88fd-9db9c46540eb": {
+    "asset": 1586372706121,
+    "meta": 1586410609996,
+    "relativePath": "Sprite/meisyo_n_01.png"
+  },
+  "1170a0a0-024e-4b72-8cad-86c10e0215d5": {
+    "asset": 1586372707003,
+    "meta": 1586410610012,
+    "relativePath": "Sprite/meisyo_n_03.png"
+  },
+  "d95571a0-7b55-411e-a83d-89b8f5215070": {
+    "asset": 1586372707652,
+    "meta": 1586410610013,
+    "relativePath": "Sprite/meisyo_n_04.png"
+  },
+  "4f32d4d5-ac12-45da-9d72-4243a1abd91b": {
+    "asset": 1586372708721,
+    "meta": 1586410610025,
+    "relativePath": "Sprite/meisyo_n_06.png"
+  },
+  "878d187e-7d6f-411f-91d9-ffc56d152816": {
+    "asset": 1586372707744,
+    "meta": 1586410610026,
+    "relativePath": "Sprite/meisyo_n_05.png"
+  },
+  "d7c186a1-4480-4ea1-b665-a80d4002c21b": {
+    "asset": 1586372709468,
+    "meta": 1586410610040,
+    "relativePath": "Sprite/meisyo_n_08.png"
+  },
+  "df43745c-261f-4cd7-a610-53d96f41b26b": {
+    "asset": 1586372708688,
+    "meta": 1586410610042,
+    "relativePath": "Sprite/meisyo_n_07.png"
+  },
+  "c734c0e5-8a97-4340-be58-def01b613ffd": {
+    "asset": 1586372710760,
+    "meta": 1586410610055,
+    "relativePath": "Sprite/meisyo_n_10.png"
+  },
+  "9bd99500-5d33-425e-abd2-738112390269": {
+    "asset": 1586372709847,
+    "meta": 1586410610057,
+    "relativePath": "Sprite/meisyo_n_09.png"
+  },
+  "dd6f718d-625b-4090-ad28-71eda5b9b798": {
+    "asset": 1586372711425,
+    "meta": 1586410610069,
+    "relativePath": "Sprite/meisyo_t_02.png"
+  },
+  "b5b84eed-bea9-4af5-952a-aa04883942b9": {
+    "asset": 1586372711215,
+    "meta": 1586410610072,
+    "relativePath": "Sprite/meisyo_t_01.png"
+  },
+  "9e0ce0a4-7109-40fb-a3df-1906408b3b09": {
+    "asset": 1586372712401,
+    "meta": 1586410610083,
+    "relativePath": "Sprite/meisyo_t_03.png"
+  },
+  "c2d38e20-c2ce-40c0-a7a6-05f415a05a9f": {
+    "asset": 1586372712162,
+    "meta": 1586410610087,
+    "relativePath": "Sprite/meisyo_t_04.png"
+  },
+  "add651d3-6e21-4f05-a9dd-f72f71fe1e2e": {
+    "asset": 1586372712965,
+    "meta": 1586410610094,
+    "relativePath": "Sprite/meisyo_t_05.png"
+  },
+  "d5a0c249-25f9-460e-b541-68c7261b10b4": {
+    "asset": 1586372713035,
+    "meta": 1586410610097,
+    "relativePath": "Sprite/meisyo_t_06.png"
+  },
+  "d2372f7d-62bd-46a7-8ba2-e394c18573d1": {
+    "asset": 1586372714052,
+    "meta": 1586410610108,
+    "relativePath": "Sprite/meisyo_t_07.png"
+  },
+  "1e31e2d9-a47b-4312-9b19-d2d4b7bfaaf1": {
+    "asset": 1586372714719,
+    "meta": 1586410610109,
+    "relativePath": "Sprite/meisyo_t_08.png"
+  },
+  "8dffbaf8-db38-4a51-b49f-a2b9d7b10833": {
+    "asset": 1586372715986,
+    "meta": 1586410610118,
+    "relativePath": "Sprite/meisyo_t_10.png"
+  },
+  "ba778992-475f-4c6d-9dd7-7e701da72f5b": {
+    "asset": 1586372714791,
+    "meta": 1586410610121,
+    "relativePath": "Sprite/meisyo_t_09.png"
+  },
+  "caae8a43-34e9-41df-8948-baa8ecd48e94": {
+    "asset": 1586372715753,
+    "meta": 1586410610134,
+    "relativePath": "Sprite/mitsubati_niwa.png"
+  },
+  "778b0715-be51-47f7-9a49-bb1141e67ccf": {
+    "asset": 1586372716847,
+    "meta": 1586410610134,
+    "relativePath": "Sprite/mori_01.png"
+  },
+  "3d567029-494d-446b-b294-6d0e3d46c38e": {
+    "asset": 1586372717050,
+    "meta": 1586410610145,
+    "relativePath": "Sprite/motimono.png"
+  },
+  "c399578b-97a8-43d7-8e13-c38431596b72": {
+    "asset": 1586372718042,
+    "meta": 1586410610146,
+    "relativePath": "Sprite/motimono_tuuti.png"
+  },
+  "5b2bf831-80cf-41bd-b7c7-38f3f51a613b": {
+    "asset": 1586372719101,
+    "meta": 1586410610155,
+    "relativePath": "Sprite/no.png"
+  },
+  "257b1e02-a8fb-4ae5-99c2-905c6c1d0d76": {
+    "asset": 1586372717939,
+    "meta": 1586410610159,
+    "relativePath": "Sprite/nekko_01.png"
+  },
+  "9ea5f7ad-e1c1-4193-b82f-14fdf54511db": {
+    "asset": 1586372718767,
+    "meta": 1586410610164,
+    "relativePath": "Sprite/off_off.png"
+  },
+  "d4c145e8-3921-425b-bd45-8485f279499a": {
+    "asset": 1586372719657,
+    "meta": 1586410610168,
+    "relativePath": "Sprite/off_on.png"
+  },
+  "c2a5fc32-b9fc-4d8a-a59a-98a1dcc03dec": {
+    "asset": 1586372720251,
+    "meta": 1586410610174,
+    "relativePath": "Sprite/ok.png"
+  },
+  "3e00f91e-4089-4f32-9851-9f0f004631c8": {
+    "asset": 1586372720481,
+    "meta": 1586410610176,
+    "relativePath": "Sprite/omiyage.png"
+  },
+  "a598897f-622f-432d-9a60-e00673f2477a": {
+    "asset": 1586372720965,
+    "meta": 1586410610184,
+    "relativePath": "Sprite/on_off.png"
+  },
+  "aead15bf-23fe-417b-8f1c-2e62c5157f82": {
+    "asset": 1586372721169,
+    "meta": 1586410610185,
+    "relativePath": "Sprite/on_on.png"
+  },
+  "83dafca6-9250-4dab-984c-7f217ce8c273": {
+    "asset": 1586372721905,
+    "meta": 1586410610194,
+    "relativePath": "Sprite/otiba_01.png"
+  },
+  "ee773abe-b089-498e-8be5-c83d68d65e89": {
+    "asset": 1586372722335,
+    "meta": 1586410610195,
+    "relativePath": "Sprite/otiba_02.png"
+  },
+  "13494954-e298-467c-b342-c26d4aeefbe0": {
+    "asset": 1586372723505,
+    "meta": 1586410610207,
+    "relativePath": "Sprite/otiba_04.png"
+  },
+  "20dcde46-a26a-4aa5-a315-0092d90c5c04": {
+    "asset": 1586372722826,
+    "meta": 1586410610208,
+    "relativePath": "Sprite/otiba_03.png"
+  },
+  "6347b2da-d284-45a4-96ca-f9545d7d3f84": {
+    "asset": 1586372724260,
+    "meta": 1586410610218,
+    "relativePath": "Sprite/otiba_05.png"
+  },
+  "fb6b1982-38e9-4ec9-b7a2-745ab0731622": {
+    "asset": 1586372724657,
+    "meta": 1586410610219,
+    "relativePath": "Sprite/otiba_06.png"
+  },
+  "e8a50f78-3aa4-4f31-ba24-39767720b0bc": {
+    "asset": 1586372725942,
+    "meta": 1586410610231,
+    "relativePath": "Sprite/otiba_08.png"
+  },
+  "9bae2eb6-b7bb-427a-a59a-ba43e2f27c33": {
+    "asset": 1586372724950,
+    "meta": 1586410610232,
+    "relativePath": "Sprite/otiba_07.png"
+  },
+  "495ccead-6175-4890-8281-86c007cccaba": {
+    "asset": 1586372726193,
+    "meta": 1586410610241,
+    "relativePath": "Sprite/otiba_09.png"
+  },
+  "01426c5e-fec8-4db7-877c-1288edf01e01": {
+    "asset": 1586372727172,
+    "meta": 1586410610242,
+    "relativePath": "Sprite/otiba_10.png"
+  },
+  "08d26eed-7dab-428c-bc11-bdb2792e1f67": {
+    "asset": 1586372727343,
+    "meta": 1586410610253,
+    "relativePath": "Sprite/otiba_11.png"
+  },
+  "de3f71e0-2cf2-4473-b411-12c1d03e4c0a": {
+    "asset": 1586372728437,
+    "meta": 1586410610254,
+    "relativePath": "Sprite/otiba_12.png"
+  },
+  "189fd690-0685-4b31-824f-6ddd7ad36d1a": {
+    "asset": 1586372728609,
+    "meta": 1586410610265,
+    "relativePath": "Sprite/otiba_13.png"
+  },
+  "5a9f8426-78c0-4827-a89d-78572e2810ff": {
+    "asset": 1586372729159,
+    "meta": 1586410610266,
+    "relativePath": "Sprite/otiba_14.png"
+  },
+  "b2797736-3ece-4bce-91cf-52da990cb757": {
+    "asset": 1586372729406,
+    "meta": 1586410610276,
+    "relativePath": "Sprite/otiba_15.png"
+  },
+  "8d572100-bba5-4761-b786-1ac8c7acba76": {
+    "asset": 1586372729812,
+    "meta": 1586410610277,
+    "relativePath": "Sprite/otiba_16.png"
+  },
+  "06c92565-a175-4645-b2d6-9bc6791b691a": {
+    "asset": 1586372731115,
+    "meta": 1586410610286,
+    "relativePath": "Sprite/otiba_17.png"
+  },
+  "a1f86c0e-2803-4057-80a9-44acf6252799": {
+    "asset": 1586372730690,
+    "meta": 1586410610287,
+    "relativePath": "Sprite/otiba_18.png"
+  },
+  "92da3c10-ff72-47ed-8fd3-42cc1d07174f": {
+    "asset": 1586372731977,
+    "meta": 1586410610296,
+    "relativePath": "Sprite/page_02.png"
+  },
+  "3ff250b2-0765-499a-bb4a-f4e7ebf9e859": {
+    "asset": 1586372731701,
+    "meta": 1586410610297,
+    "relativePath": "Sprite/page_01.png"
+  },
+  "64ff7c4e-b373-434e-a4c9-8ecaad1fbfee": {
+    "asset": 1586372733368,
+    "meta": 1586410610305,
+    "relativePath": "Sprite/question.png"
+  },
+  "2fc90433-1980-4017-a562-b5016adb6b12": {
+    "asset": 1586372732437,
+    "meta": 1586410610308,
+    "relativePath": "Sprite/photo_frame.png"
+  },
+  "4146bbce-8273-420e-9664-a4c8d7b5ab5e": {
+    "asset": 1586372733626,
+    "meta": 1586410610313,
+    "relativePath": "Sprite/raffle_84_88.png"
+  },
+  "826621e4-5ce1-4384-a99e-80662a370aef": {
+    "asset": 1586372734540,
+    "meta": 1586410610318,
+    "relativePath": "Sprite/sagyou_ie.png"
+  },
+  "74af8944-015a-4e9b-bd53-791c870ead4c": {
+    "asset": 1586372735057,
+    "meta": 1586410610321,
+    "relativePath": "Sprite/saku_01.png"
+  },
+  "4dd3a215-bc8c-43fa-8215-7f56f5d14fbf": {
+    "asset": 1586372735431,
+    "meta": 1586410610328,
+    "relativePath": "Sprite/saku_02.png"
+  },
+  "9fe94949-e23b-48f9-8f6a-71a36aed294d": {
+    "asset": 1586372735944,
+    "meta": 1586410610331,
+    "relativePath": "Sprite/saku_03.png"
+  },
+  "0f621acf-6311-4896-8a5b-6a675cc885e5": {
+    "asset": 1586372736128,
+    "meta": 1586410610335,
+    "relativePath": "Sprite/scroll_l.png"
+  },
+  "2beb146e-e726-4881-825f-aca387cc819d": {
+    "asset": 1586372736767,
+    "meta": 1586410610338,
+    "relativePath": "Sprite/scroll_r.png"
+  },
+  "fb98c65d-c746-455b-9f12-552c23bb47db": {
+    "asset": 1586372738728,
+    "meta": 1586410610343,
+    "relativePath": "Sprite/se_off.png"
+  },
+  "05d6429c-ddef-47f8-ba3b-9594d4195be0": {
+    "asset": 1586372740289,
+    "meta": 1586410610346,
+    "relativePath": "Sprite/se_on.png"
+  },
+  "7e7d7806-b44a-461b-ac31-ca107a323758": {
+    "asset": 1586372737307,
+    "meta": 1586410610351,
+    "relativePath": "Sprite/se.png"
+  },
+  "645bcc22-e710-4e8e-a701-903b8c4d8318": {
+    "asset": 1586372737539,
+    "meta": 1586410610356,
+    "relativePath": "Sprite/sentaku.png"
+  },
+  "8f666d67-7176-4775-82db-5e1d42453c4b": {
+    "asset": 1586372738606,
+    "meta": 1586410610358,
+    "relativePath": "Sprite/settei.png"
+  },
+  "6a2e5c45-a594-44bd-87db-b4999a7b0d61": {
+    "asset": 1586372740976,
+    "meta": 1586410610365,
+    "relativePath": "Sprite/share_android.png"
+  },
+  "cdb4c49e-67fb-4136-b628-4d7dd8e5595f": {
+    "asset": 1586372741439,
+    "meta": 1586410610366,
+    "relativePath": "Sprite/share_ios.png"
+  },
+  "22fdaa58-0fd6-4f33-8927-25658924293b": {
+    "asset": 1586372743236,
+    "meta": 1586410610374,
+    "relativePath": "Sprite/shop_kago_b.png"
+  },
+  "d720ccd3-585a-4aed-a95a-d4df75fea576": {
+    "asset": 1586372742701,
+    "meta": 1586410610375,
+    "relativePath": "Sprite/shop_kago_g.png"
+  },
+  "2373ccd8-4547-48f0-b6b9-1b034f5f6db5": {
+    "asset": 1586372744674,
+    "meta": 1586410610385,
+    "relativePath": "Sprite/shop_kago_y.png"
+  },
+  "41f94ebc-146f-4513-b15f-d379329a21df": {
+    "asset": 1586372743829,
+    "meta": 1586410610386,
+    "relativePath": "Sprite/shop_kago_p.png"
+  },
+  "c4824d3c-672d-413b-975b-278cf1990a7f": {
+    "asset": 1586372745889,
+    "meta": 1586410610393,
+    "relativePath": "Sprite/shop_kounyuu.png"
+  },
+  "6e909392-8a3f-435f-978b-086e81467906": {
+    "asset": 1586372744994,
+    "meta": 1586410610394,
+    "relativePath": "Sprite/shop_koumoku.png"
+  },
+  "0681aa23-4cf1-4ed1-b688-2f78963e9366": {
+    "asset": 1586372746025,
+    "meta": 1586410610402,
+    "relativePath": "Sprite/shop_setumei.png"
+  },
+  "75ccc82e-531a-47d6-a5df-4dcb372dc567": {
+    "asset": 1586372747061,
+    "meta": 1586410610410,
+    "relativePath": "Sprite/shop_tana.png"
+  },
+  "3ce8a51d-3698-45bb-a095-a2b64a1424de": {
+    "asset": 1586372748525,
+    "meta": 1586410610414,
+    "relativePath": "Sprite/shop_tenpo_sita.png"
+  },
+  "80174274-ddab-4dae-9ee6-db049938ccac": {
+    "asset": 1586372747842,
+    "meta": 1586410610419,
+    "relativePath": "Sprite/shop_tenpo_ue.png"
+  },
+  "4eeb2c51-f1c4-43b4-a10c-e5d10e72fd19": {
+    "asset": 1586372748996,
+    "meta": 1586410610421,
+    "relativePath": "Sprite/shop_urikire.png"
+  },
+  "d20bd2c2-ad51-4840-a2a0-3c7ef2a319b7": {
+    "asset": 1586372749731,
+    "meta": 1586410610428,
+    "relativePath": "Sprite/slider_a.png"
+  },
+  "d826e00c-a171-4db3-8dc7-45edf7163467": {
+    "asset": 1586372749615,
+    "meta": 1586410610431,
+    "relativePath": "Sprite/sitaku_ie.png"
+  },
+  "6c130b0d-3047-4dcf-818f-e3452161c7d3": {
+    "asset": 1586372750365,
+    "meta": 1586410610434,
+    "relativePath": "Sprite/slider_b.png"
+  },
+  "49b6250f-34da-4847-80ee-0f73d1a3464b": {
+    "asset": 1586372751185,
+    "meta": 1586410610446,
+    "relativePath": "Sprite/sora_02.png"
+  },
+  "1132d77e-30d3-46f7-a8a8-262cfaff5b9a": {
+    "asset": 1586372750497,
+    "meta": 1586410610448,
+    "relativePath": "Sprite/sora_01.png"
+  },
+  "c8436b4e-6e83-4539-ad24-fc8b981badef": {
+    "asset": 1586372752711,
+    "meta": 1586410610459,
+    "relativePath": "Sprite/sora_04.png"
+  },
+  "083e98b1-fb17-40da-8e43-6b8489372ede": {
+    "asset": 1586372751850,
+    "meta": 1586410610462,
+    "relativePath": "Sprite/sora_03.png"
+  },
+  "8ada62d8-354c-4a54-bd40-613562fa012b": {
+    "asset": 1586372753524,
+    "meta": 1586410610473,
+    "relativePath": "Sprite/sora_06.png"
+  },
+  "986b40fd-169c-4472-933f-7182aa26037f": {
+    "asset": 1586372753323,
+    "meta": 1586410610476,
+    "relativePath": "Sprite/sora_05.png"
+  },
+  "34cd26ca-6e16-4fef-be8d-3fb53af2ffde": {
+    "asset": 1586372754723,
+    "meta": 1586410610487,
+    "relativePath": "Sprite/sora_08.png"
+  },
+  "159cbb3b-d6c7-47a6-a84d-32bbff91ab3f": {
+    "asset": 1586372754671,
+    "meta": 1586410610490,
+    "relativePath": "Sprite/sora_07.png"
+  },
+  "57504e0f-f338-4d34-917d-8ecf5b235199": {
+    "asset": 1586372760581,
+    "meta": 1586410610505,
+    "relativePath": "Sprite/sora_10.png"
+  },
+  "2c56cf8a-8c59-4288-8874-9dc16a282da2": {
+    "asset": 1586372761632,
+    "meta": 1586410610508,
+    "relativePath": "Sprite/sora_09.png"
+  },
+  "4ccecdcb-a048-4273-9bbf-381fe731b90c": {
+    "asset": 1586372763169,
+    "meta": 1586410610519,
+    "relativePath": "Sprite/sora_12.png"
+  },
+  "443afcdf-0e45-4fa8-a1d1-03d38b651bd7": {
+    "asset": 1586372762178,
+    "meta": 1586410610522,
+    "relativePath": "Sprite/sora_11.png"
+  },
+  "806d5636-37de-4c86-9962-0ff2273e46c7": {
+    "asset": 1586372763660,
+    "meta": 1586410610527,
+    "relativePath": "Sprite/sousin.png"
+  },
+  "6c37da39-7935-44b8-a043-94a75c4654c7": {
+    "asset": 1586372763904,
+    "meta": 1586410610527,
+    "relativePath": "Sprite/Square.png"
+  },
+  "dafac59d-c69d-4e28-a71d-c96fb56f8557": {
+    "asset": 1586372765033,
+    "meta": 1586410610536,
+    "relativePath": "Sprite/sumi.png"
+  },
+  "36555b2d-1bcb-4dc2-8024-78197103132f": {
+    "asset": 1586372764910,
+    "meta": 1586410610537,
+    "relativePath": "Sprite/start.png"
+  },
+  "8eac7471-8224-4870-b615-4fbfcde20f87": {
+    "asset": 1586372765837,
+    "meta": 1586410610544,
+    "relativePath": "Sprite/syougou.png"
+  },
+  "15645e2b-35ba-46c3-9586-33cc231c3578": {
+    "asset": 1586372766556,
+    "meta": 1586410610549,
+    "relativePath": "Sprite/syokuzi_ie.png"
+  },
+  "a1325752-f151-4a17-95eb-2aa13e347ab3": {
+    "asset": 1586372766563,
+    "meta": 1586410610551,
+    "relativePath": "Sprite/sys_clover_window.png"
+  },
+  "ab5e1fe9-4ae9-471c-8f3c-6b2ec334731e": {
+    "asset": 1586372767653,
+    "meta": 1586410610556,
+    "relativePath": "Sprite/sys_num_20_29_0.png"
+  },
+  "c9aacedd-88c2-4b10-9f25-45703251cdcd": {
+    "asset": 1586372768040,
+    "meta": 1586410610558,
+    "relativePath": "Sprite/sys_num_20_29_1.png"
+  },
+  "9d3f177d-3759-4fa6-aeee-e275f71a8671": {
+    "asset": 1586372769083,
+    "meta": 1586410610563,
+    "relativePath": "Sprite/sys_num_20_29_2.png"
+  },
+  "556adc22-841f-4358-9e7f-1e61c9e1158d": {
+    "asset": 1586372769096,
+    "meta": 1586410610565,
+    "relativePath": "Sprite/sys_num_20_29_3.png"
+  },
+  "fa956228-6efc-4bc0-8789-3a5ae71cfaeb": {
+    "asset": 1586372770106,
+    "meta": 1586410610570,
+    "relativePath": "Sprite/sys_num_20_29_4.png"
+  },
+  "e73b85ce-caae-459c-ac66-6c7fb369ab8a": {
+    "asset": 1586372770119,
+    "meta": 1586410610571,
+    "relativePath": "Sprite/sys_num_20_29_5.png"
+  },
+  "e01f533c-7384-40ce-9e89-e89fc47f8806": {
+    "asset": 1586372771841,
+    "meta": 1586410610579,
+    "relativePath": "Sprite/sys_num_20_29_6.png"
+  },
+  "1413556b-6f79-4091-b4c1-93173f5e3eed": {
+    "asset": 1586372772879,
+    "meta": 1586410610579,
+    "relativePath": "Sprite/sys_num_20_29_7.png"
+  },
+  "d87ba28a-8f44-4e26-a185-9345d2df4c8b": {
+    "asset": 1586372772866,
+    "meta": 1586410610588,
+    "relativePath": "Sprite/sys_num_20_29_8.png"
+  },
+  "30ec0546-2e2d-4678-84c3-84044cac8a00": {
+    "asset": 1586372774391,
+    "meta": 1586410610589,
+    "relativePath": "Sprite/sys_num_20_29_9.png"
+  },
+  "81458994-97d0-4552-95ca-93f879f9b4c3": {
+    "asset": 1586372775027,
+    "meta": 1586410610597,
+    "relativePath": "Sprite/sys_num_24_36_0.png"
+  },
+  "617a962a-c5c3-4f30-9da5-e4b663f72585": {
+    "asset": 1586372775426,
+    "meta": 1586410610598,
+    "relativePath": "Sprite/sys_num_24_36_1.png"
+  },
+  "c908dbe4-79d5-421f-98a5-bbc7b351c007": {
+    "asset": 1586372776961,
+    "meta": 1586410610610,
+    "relativePath": "Sprite/sys_num_24_36_3.png"
+  },
+  "23c9db82-4198-4273-80aa-12721f5dbeef": {
+    "asset": 1586372775933,
+    "meta": 1586410610611,
+    "relativePath": "Sprite/sys_num_24_36_2.png"
+  },
+  "15549b63-65d2-4bf5-bf2a-11cb7c424cc0": {
+    "asset": 1586372777473,
+    "meta": 1586410610622,
+    "relativePath": "Sprite/sys_num_24_36_4.png"
+  },
+  "44d34a56-1d4f-4294-9a5d-266f2154ceb3": {
+    "asset": 1586372778394,
+    "meta": 1586410610623,
+    "relativePath": "Sprite/sys_num_24_36_5.png"
+  },
+  "255f807e-3dbf-4494-b8be-9b3594e09fff": {
+    "asset": 1586372779843,
+    "meta": 1586410610634,
+    "relativePath": "Sprite/sys_num_24_36_7.png"
+  },
+  "c5aa3b38-3eb8-4cab-afa4-fe7d373202fc": {
+    "asset": 1586372779007,
+    "meta": 1586410610635,
+    "relativePath": "Sprite/sys_num_24_36_6.png"
+  },
+  "7d341866-074b-480f-aa43-50cc005a4d79": {
+    "asset": 1586372779949,
+    "meta": 1586410610645,
+    "relativePath": "Sprite/sys_num_24_36_8.png"
+  },
+  "c524ba1f-0045-4325-bfd6-647b65345723": {
+    "asset": 1586372780750,
+    "meta": 1586410610646,
+    "relativePath": "Sprite/sys_num_24_36_9.png"
+  },
+  "6296f601-b9ca-40f5-837d-eb0ee7efae7d": {
+    "asset": 1586372781107,
+    "meta": 1586410610656,
+    "relativePath": "Sprite/tab_dougu_off.png"
+  },
+  "627e3edd-6368-4626-9b89-e817cfcb1383": {
+    "asset": 1586372781920,
+    "meta": 1586410610657,
+    "relativePath": "Sprite/tab_dougu_on.png"
+  },
+  "3182e66e-9874-483d-94a5-fb7c9d0e060a": {
+    "asset": 1586372783717,
+    "meta": 1586410610668,
+    "relativePath": "Sprite/tab_meibutsu_on.png"
+  },
+  "6f465794-478a-41db-afa5-9d29f4416fe6": {
+    "asset": 1586372781875,
+    "meta": 1586410610669,
+    "relativePath": "Sprite/tab_meibutsu_off.png"
+  },
+  "b6c96c5f-a0f6-4c1f-b008-3af1e0b46753": {
+    "asset": 1586372783145,
+    "meta": 1586410610681,
+    "relativePath": "Sprite/tab_obentou_off.png"
+  },
+  "2b47f331-c016-409a-868e-0dd1cfbeee70": {
+    "asset": 1586372784617,
+    "meta": 1586410610683,
+    "relativePath": "Sprite/tab_obentou_on.png"
+  },
+  "620859b6-ee37-41f4-8f9a-0bcbf4d8fdb2": {
+    "asset": 1586372784517,
+    "meta": 1586410610694,
+    "relativePath": "Sprite/tab_omamori_off.png"
+  },
+  "cd0d5d33-17b1-40c7-8d5e-b810c0bea075": {
+    "asset": 1586372785766,
+    "meta": 1586410610695,
+    "relativePath": "Sprite/tab_omamori_on.png"
+  },
+  "4c1dd554-3714-4fa7-af0c-b096b801300e": {
+    "asset": 1586372785837,
+    "meta": 1586410610708,
+    "relativePath": "Sprite/title.png"
+  },
+  "f14aa903-ea6d-409e-95f6-55f0b9ccd9e2": {
+    "asset": 1586372797099,
+    "meta": 1586410610716,
+    "relativePath": "Sprite/tokusyu_01.png"
+  },
+  "5d0fa343-006a-4f65-bc7b-5ba369736af1": {
+    "asset": 1586372797108,
+    "meta": 1586410610728,
+    "relativePath": "Sprite/tokusyu_02.png"
+  },
+  "5fb24198-56d6-43b9-8846-1fa628b6d81c": {
+    "asset": 1586372798565,
+    "meta": 1586410610736,
+    "relativePath": "Sprite/tokusyu_03.png"
+  },
+  "e4ae6e8f-e4d2-4ecd-a0a8-3b2ad20fd55a": {
+    "asset": 1586372799652,
+    "meta": 1586410610744,
+    "relativePath": "Sprite/tokusyu_05_f.png"
+  },
+  "870bcf31-6156-4732-b728-160e1c1b3d8e": {
+    "asset": 1586372799641,
+    "meta": 1586410610752,
+    "relativePath": "Sprite/tokusyu_05_k.png"
+  },
+  "a1bdc357-d936-41b2-8c35-2cd4c0e4b09d": {
+    "asset": 1586372801377,
+    "meta": 1586410610760,
+    "relativePath": "Sprite/tokusyu_05_n.png"
+  },
+  "ad9ff0d3-e989-43be-8c3c-e433833e2758": {
+    "asset": 1586372801760,
+    "meta": 1586410610768,
+    "relativePath": "Sprite/tokusyu_05_t.png"
+  },
+  "dcad369a-8a88-4dd9-a2ad-22ea90d9cd45": {
+    "asset": 1586372798620,
+    "meta": 1586410610777,
+    "relativePath": "Sprite/tokusyu_05.png"
+  },
+  "6c9f1ae0-bfbe-4e38-bec0-9be73c8268a9": {
+    "asset": 1586372803028,
+    "meta": 1586410610787,
+    "relativePath": "Sprite/tokusyu_06.png"
+  },
+  "f22a35ce-edfa-407c-bb1f-54d99d0d83d8": {
+    "asset": 1586372803013,
+    "meta": 1586410610796,
+    "relativePath": "Sprite/tokusyu_07.png"
+  },
+  "9c9ccf32-b522-4b24-ad6d-6442939a183a": {
+    "asset": 1586372804147,
+    "meta": 1586410610806,
+    "relativePath": "Sprite/tokusyu_08.png"
+  },
+  "579e3170-20c8-46ab-8dbe-1bf8ff79e042": {
+    "asset": 1586372804429,
+    "meta": 1586410610814,
+    "relativePath": "Sprite/tokusyu_09.png"
+  },
+  "e20494a8-b6c9-499c-9b55-0c01b941211c": {
+    "asset": 1586372815413,
+    "meta": 1586410610825,
+    "relativePath": "Sprite/tokusyu_10.png"
+  },
+  "37ce4d10-ae61-4cdd-a102-28e2d9cda304": {
+    "asset": 1586372815398,
+    "meta": 1586410610834,
+    "relativePath": "Sprite/tokusyu_11.png"
+  },
+  "533571b9-808f-41f2-a0a7-aa94f201e93f": {
+    "asset": 1586372816885,
+    "meta": 1586410610844,
+    "relativePath": "Sprite/tokusyu_12.png"
+  },
+  "85a5defd-5c5e-4b0f-9546-b5af9f78c8af": {
+    "asset": 1586372827927,
+    "meta": 1586410610853,
+    "relativePath": "Sprite/tokusyu_13.png"
+  },
+  "fbf906c8-dc8b-4415-a5d7-babb21dfd931": {
+    "asset": 1586372827951,
+    "meta": 1586410610865,
+    "relativePath": "Sprite/tokusyu_14.png"
+  },
+  "ed16072f-61e8-49df-afac-8c4cc29adac1": {
+    "asset": 1586372835365,
+    "meta": 1586410610872,
+    "relativePath": "Sprite/tokusyu_15.png"
+  },
+  "c1cfba77-1123-4057-a9ab-40140801543c": {
+    "asset": 1586372835348,
+    "meta": 1586410610883,
+    "relativePath": "Sprite/tokusyu_16.png"
+  },
+  "77818f2b-f131-4cf2-90d8-f8b42f4312c0": {
+    "asset": 1586372836498,
+    "meta": 1586410610887,
+    "relativePath": "Sprite/tokusyu_17_f.png"
+  },
+  "02650c59-fa8e-4aeb-91d6-d8737580cb8e": {
+    "asset": 1586372837948,
+    "meta": 1586410610897,
+    "relativePath": "Sprite/tokusyu_17_k.png"
+  },
+  "43cf45ee-3c15-4ab4-b686-94bafa149ebc": {
+    "asset": 1586372837551,
+    "meta": 1586410610900,
+    "relativePath": "Sprite/tokusyu_17_n.png"
+  },
+  "1b12ebc9-8da0-4104-896a-3c4b0602cd78": {
+    "asset": 1586372839295,
+    "meta": 1586410610911,
+    "relativePath": "Sprite/tokusyu_17_t.png"
+  },
+  "36a8dc8f-cf32-423d-a99f-1cff87861792": {
+    "asset": 1586372836760,
+    "meta": 1586410610918,
+    "relativePath": "Sprite/tokusyu_17.png"
+  },
+  "0bb872c2-7993-46a1-9a0e-2edc6ad974c0": {
+    "asset": 1586372840854,
+    "meta": 1586410610929,
+    "relativePath": "Sprite/tokusyu_18.png"
+  },
+  "0f7218b9-0cd9-4c09-94c6-51b16800c8fd": {
+    "asset": 1586372841898,
+    "meta": 1586410610933,
+    "relativePath": "Sprite/tokusyu_19_k.png"
+  },
+  "f1cdc8f2-f540-410a-8602-1c5ffafde2ed": {
+    "asset": 1586372842576,
+    "meta": 1586410610946,
+    "relativePath": "Sprite/tokusyu_19_n.png"
+  },
+  "80153182-edd6-46f5-8c7d-899763b3a26a": {
+    "asset": 1586372843455,
+    "meta": 1586410610949,
+    "relativePath": "Sprite/tokusyu_19_t.png"
+  },
+  "5700c028-ce25-4aeb-89eb-337dba7cd30f": {
+    "asset": 1586372840821,
+    "meta": 1586410610964,
+    "relativePath": "Sprite/tokusyu_19.png"
+  },
+  "8992bfca-854b-4e6c-ba27-ea476ba2cd06": {
+    "asset": 1586372843919,
+    "meta": 1586410610967,
+    "relativePath": "Sprite/tokusyu_20.png"
+  },
+  "553cce8c-f23f-4621-bc64-474684e17ed5": {
+    "asset": 1586372844677,
+    "meta": 1586410610975,
+    "relativePath": "Sprite/torihikiho_button.png"
+  },
+  "b93619fe-6805-40df-91d3-4abe9c17aa60": {
+    "asset": 1586372845044,
+    "meta": 1586410610979,
+    "relativePath": "Sprite/tokusyu_21.png"
+  },
+  "502e1fe1-f5a2-4db2-9143-4018fb2e1686": {
+    "asset": 1586372846342,
+    "meta": 1586410610986,
+    "relativePath": "Sprite/tsukue_frame_01.png"
+  },
+  "4535d94d-8d6a-4fdd-91ee-b693bfac30b0": {
+    "asset": 1586372846603,
+    "meta": 1586410610988,
+    "relativePath": "Sprite/tsukue_frame_02.png"
+  },
+  "1675bca0-9368-40a6-8c05-4c94f8cf3ff1": {
+    "asset": 1586372847770,
+    "meta": 1586410610997,
+    "relativePath": "Sprite/tsukue_frame_03.png"
+  },
+  "bf04f502-0251-4df7-97ae-4235327f45e9": {
+    "asset": 1586372845832,
+    "meta": 1586410610998,
+    "relativePath": "Sprite/tsukue.png"
+  },
+  "6c223f22-5c63-461b-880a-a180bec6d6cc": {
+    "asset": 1586372847903,
+    "meta": 1586410611006,
+    "relativePath": "Sprite/tuuti.png"
+  },
+  "a97d1660-519b-423f-ac7e-d9de8099339d": {
+    "asset": 1586372849157,
+    "meta": 1586410611007,
+    "relativePath": "Sprite/UIMask.png"
+  },
+  "9c59271b-cd24-412e-9f73-d6f41a49d820": {
+    "asset": 1586372849081,
+    "meta": 1586410611013,
+    "relativePath": "Sprite/UISprite.png"
+  },
+  "a03fba5b-77f8-4f1a-9a83-cc61f43d42ef": {
+    "asset": 1586372850358,
+    "meta": 1586410611020,
+    "relativePath": "Sprite/umi_01.png"
+  },
+  "cc25d560-15f4-4e3f-8d50-b97d79873843": {
+    "asset": 1586372850535,
+    "meta": 1586410611026,
+    "relativePath": "Sprite/umi_02.png"
+  },
+  "55480cfd-7799-434d-a5f9-1f0a1119f233": {
+    "asset": 1586372852244,
+    "meta": 1586410611034,
+    "relativePath": "Sprite/umi_03.png"
+  },
+  "178a254d-e72d-4853-b22a-977f639ef695": {
+    "asset": 1586372852403,
+    "meta": 1586410611039,
+    "relativePath": "Sprite/umi_04.png"
+  },
+  "6c0cb21d-acf9-48a3-9ca1-f210fc87d9c4": {
+    "asset": 1586372853243,
+    "meta": 1586410611047,
+    "relativePath": "Sprite/umi_05.png"
+  },
+  "808519bc-fced-40ea-ab8c-311341f08987": {
+    "asset": 1586372855239,
+    "meta": 1586410611052,
+    "relativePath": "Sprite/umi_06.png"
+  },
+  "93210ed2-d84f-4a8c-993d-d5aedd30286a": {
+    "asset": 1586372854976,
+    "meta": 1586410611058,
+    "relativePath": "Sprite/UnitySplash-cube.png"
+  },
+  "a087df41-fe48-46ff-8d9b-1ba8bfb8b7dc": {
+    "asset": 1586372856211,
+    "meta": 1586410611060,
+    "relativePath": "Sprite/urabeya.png"
+  },
+  "a7a0c196-824e-4414-b652-61a5b42f4c64": {
+    "asset": 1586372856061,
+    "meta": 1586410611067,
+    "relativePath": "Sprite/volume_cursor.png"
+  },
+  "d2ff7816-4914-46d1-b6cb-73b5729b0a37": {
+    "asset": 1586372857241,
+    "meta": 1586410611068,
+    "relativePath": "Sprite/volume_off.png"
+  },
+  "6d6f7893-aff6-4e83-a64f-55399be926c6": {
+    "asset": 1586372857147,
+    "meta": 1586410611075,
+    "relativePath": "Sprite/volume_on.png"
+  },
+  "94a98792-b4d5-4fa1-874d-68155365ff5c": {
+    "asset": 1586372859069,
+    "meta": 1586410611083,
+    "relativePath": "Sprite/yama_01.png"
+  },
+  "3e403b73-a73c-4ab8-9c37-9faf97fc9587": {
+    "asset": 1586372859062,
+    "meta": 1586410611091,
+    "relativePath": "Sprite/yama_02.png"
+  },
+  "a462dd4c-011d-4a55-90af-264215d4bfe3": {
+    "asset": 1586372860221,
+    "meta": 1586410611099,
+    "relativePath": "Sprite/yes.png"
+  },
+  "e52b597e-e639-432a-90bf-8609945fb575": {
+    "asset": 1586372860522,
+    "meta": 1586410611099,
+    "relativePath": "Sprite/yama_03.png"
+  },
+  "78c26713-f320-4276-a7fc-11055180917d": {
+    "asset": 1586372861498,
+    "meta": 1586410611107,
+    "relativePath": "Sprite/yubisasi_a.png"
+  },
+  "0d6f37ce-684e-4237-a145-3fca4dca79a9": {
+    "asset": 1586372861668,
+    "meta": 1586410611107,
+    "relativePath": "Sprite/yubisasi_b.png"
+  },
+  "94f42604-dda0-4de6-b5da-700325d74981": {
+    "asset": 1586372862639,
+    "meta": 1586410611116,
+    "relativePath": "Sprite/yubisasi_d.png"
+  },
+  "7b3c0783-aa4a-4447-8d40-dac27e393b81": {
+    "asset": 1586372862665,
+    "meta": 1586410611117,
+    "relativePath": "Sprite/yubisasi_c.png"
+  },
+  "b04b2b54-fdd6-4688-8e68-ccbb419c0f59": {
+    "asset": 1586372863472,
+    "meta": 1586410611124,
+    "relativePath": "Sprite/yuubin.png"
+  },
+  "1f4446c8-36f8-4fc4-a91e-496ac0ad55fa": {
+    "asset": 1586372868534,
+    "meta": 1586410611133,
+    "relativePath": "Sprite/zimen_01.png"
+  },
+  "ae9d9edc-0b24-4101-8454-74158ef745da": {
+    "asset": 1586372867575,
+    "meta": 1586410611136,
+    "relativePath": "Sprite/zimen_02.png"
+  },
+  "385f7e8e-93cc-4c38-b3c6-f3552285d9e1": {
+    "asset": 1586372869433,
+    "meta": 1586410611142,
+    "relativePath": "Sprite/zukan_ippin_off.png"
+  },
+  "80232757-b7b0-47f0-88dd-d45ca04d7fb7": {
+    "asset": 1586372870377,
+    "meta": 1586410611149,
+    "relativePath": "Sprite/zukan_ippin_on.png"
+  },
+  "22d53788-23a7-4d81-9196-8821a4eb4a5c": {
+    "asset": 1586372869118,
+    "meta": 1586410611153,
+    "relativePath": "Sprite/zukan_dodai.png"
+  },
+  "446b07a4-112e-43ca-9cff-ad003b138ad8": {
+    "asset": 1586372870559,
+    "meta": 1586410611156,
+    "relativePath": "Sprite/zukan_meibutsu_off.png"
+  },
+  "0fd47544-65c1-4440-be93-b6597247f9de": {
+    "asset": 1586372871312,
+    "meta": 1586410611160,
+    "relativePath": "Sprite/zukan_meibutsu_on.png"
+  },
+  "79743544-4ff8-4c51-a19a-68eeb3b28bb7": {
+    "asset": 1586372871967,
+    "meta": 1586410611164,
+    "relativePath": "Sprite/zukan_panel.png"
+  },
+  "59e2a5aa-d384-453f-9651-e0fa5fb7d37a": {
+    "asset": 1586372872048,
+    "meta": 1586410611167,
+    "relativePath": "Sprite/zukan_santi.png"
+  },
+  "3f5b43e2-308c-47e5-a05c-5fc7010f8aa0": {
+    "asset": 1586372872949,
+    "meta": 1586410611171,
+    "relativePath": "Sprite/zukan_title.png"
+  },
+  "2a533a75-8a73-4861-9407-61cf19475a2d": {
+    "asset": 1586372873162,
+    "meta": 1586410611174,
+    "relativePath": "Sprite/したく.png"
+  },
+  "f577aef4-421a-4487-8e20-22894eeba99f": {
+    "asset": 1586410606967,
+    "meta": 1586410606850,
+    "relativePath": "Texture2D"
+  },
+  "c142a2b9-d562-49c3-9ae5-dbf672184923": {
+    "asset": 1586372874150,
+    "meta": 1586410611179,
+    "relativePath": "Sprite/もどる_84_88.png"
+  },
+  "34d05054-7988-4984-bd7e-c549e89a3424": {
+    "asset": 1586371996495,
+    "meta": 1586410611182,
+    "relativePath": "Texture2D/album_150_150.png"
+  },
+  "d951c6d9-ea68-41fe-b46d-fb0408cd54f6": {
+    "asset": 1586371996766,
+    "meta": 1586410611189,
+    "relativePath": "Texture2D/album.png"
+  },
+  "62b1e27a-917a-468a-9972-4d4efba34812": {
+    "asset": 1586371998198,
+    "meta": 1586410611200,
+    "relativePath": "Texture2D/album_dodai.png"
+  },
+  "4d00906a-72d1-493e-9643-5d0e44c7c1de": {
+    "asset": 1586371997931,
+    "meta": 1586410611203,
+    "relativePath": "Texture2D/asphalt_01.png"
+  },
+  "419493e6-b432-4e81-b48b-9180ea5677ed": {
+    "asset": 1586372000579,
+    "meta": 1586410611213,
+    "relativePath": "Texture2D/back_mainOut_2_L.png"
+  },
+  "5077cdd8-1635-4046-95f3-d6b8c7b5c78d": {
+    "asset": 1586372002284,
+    "meta": 1586410611226,
+    "relativePath": "Texture2D/back_mainOut_2_R.png"
+  },
+  "19046ee8-db36-4994-ac62-4c1c7589e50c": {
+    "asset": 1586372004075,
+    "meta": 1586410611229,
+    "relativePath": "Texture2D/back_mainIn.png"
+  },
+  "c99d54e1-d81e-419a-8cbb-984d6300523b": {
+    "asset": 1586371998827,
+    "meta": 1586410611233,
+    "relativePath": "Texture2D/Background.png"
+  },
+  "ffe6c9e0-b80d-439c-8e2d-d7d1d48b4fdf": {
+    "asset": 1586372004484,
+    "meta": 1586410611236,
+    "relativePath": "Texture2D/bgm_off.png"
+  },
+  "10af086a-606f-4c58-918d-1d90444a749a": {
+    "asset": 1586372005460,
+    "meta": 1586410611242,
+    "relativePath": "Texture2D/bgm_on.png"
+  },
+  "af9caa69-e66d-4004-8f19-97a588fc3567": {
+    "asset": 1586372003433,
+    "meta": 1586410611243,
+    "relativePath": "Texture2D/bgm.png"
+  },
+  "3ca3a725-e4b8-4957-860a-b0ec204d4883": {
+    "asset": 1586372006294,
+    "meta": 1586410611250,
+    "relativePath": "Texture2D/box.png"
+  },
+  "e7fd36fd-2ec1-4afd-a6c7-77895fdbad28": {
+    "asset": 1586372006080,
+    "meta": 1586410611251,
+    "relativePath": "Texture2D/bousi_ie.png"
+  },
+  "0a02b5c1-5b6c-49b3-8992-f600b81c5f1f": {
+    "asset": 1586372007005,
+    "meta": 1586410611259,
+    "relativePath": "Texture2D/button active.png"
+  },
+  "82ef1677-3c76-466b-a589-6d8a18a80dbd": {
+    "asset": 1586372007854,
+    "meta": 1586410611260,
+    "relativePath": "Texture2D/button hover.png"
+  },
+  "21353bc9-d5ae-402b-a77a-efe656b4f590": {
+    "asset": 1586372008222,
+    "meta": 1586410611267,
+    "relativePath": "Texture2D/button on hover.png"
+  },
+  "e4108ed1-cf03-4ec4-b2a8-35085f037528": {
+    "asset": 1586372008788,
+    "meta": 1586410611267,
+    "relativePath": "Texture2D/button on.png"
+  },
+  "e56521c3-c47d-4e10-9794-60ca76c2ee5e": {
+    "asset": 1586372010480,
+    "meta": 1586410611277,
+    "relativePath": "Texture2D/button_01.png"
+  },
+  "b67e8e73-13bd-4d21-b873-397fb871c4f8": {
+    "asset": 1586372010535,
+    "meta": 1586410611278,
+    "relativePath": "Texture2D/button_02.png"
+  },
+  "6f65a979-02df-4c7d-90f0-aeaf67e3a4dc": {
+    "asset": 1586372011871,
+    "meta": 1586410611286,
+    "relativePath": "Texture2D/button_03.png"
+  },
+  "478b18ef-e773-42c6-a843-7e202032afd5": {
+    "asset": 1586372012191,
+    "meta": 1586410611287,
+    "relativePath": "Texture2D/button_04.png"
+  },
+  "7188592b-e9a7-4eea-abb4-8ffb58995062": {
+    "asset": 1586372013213,
+    "meta": 1586410611297,
+    "relativePath": "Texture2D/button_empty.png"
+  },
+  "32f8628c-fb23-4a4a-bc3d-a8aac0786e1f": {
+    "asset": 1586372013668,
+    "meta": 1586410611298,
+    "relativePath": "Texture2D/button_05.png"
+  },
+  "8f9b0588-a060-41f7-ad3a-d6c998acd0dc": {
+    "asset": 1586372009108,
+    "meta": 1586410611309,
+    "relativePath": "Texture2D/button.png"
+  },
+  "24a2efe2-3371-413d-9a35-ca33dfe260b9": {
+    "asset": 1586372014579,
+    "meta": 1586410611310,
+    "relativePath": "Texture2D/cancel.png"
+  },
+  "098c3dd1-01ce-4b37-b307-8c92f842d4ba": {
+    "asset": 1586372015056,
+    "meta": 1586410611320,
+    "relativePath": "Texture2D/checkmark #293063.png"
+  },
+  "38a28f8e-e202-4243-819f-04bf2f127693": {
+    "asset": 1586372015472,
+    "meta": 1586410611321,
+    "relativePath": "Texture2D/Checkmark.png"
+  },
+  "652cff87-c17b-42f4-a2d0-e8216524e1c5": {
+    "asset": 1586372015893,
+    "meta": 1586410611329,
+    "relativePath": "Texture2D/close.png"
+  },
+  "6598eb11-1f54-492f-ae35-7bca2298b033": {
+    "asset": 1586372016432,
+    "meta": 1586410611331,
+    "relativePath": "Texture2D/clover_154.png"
+  },
+  "40d81ed5-9771-43e9-9615-9bf1b2d3eb3c": {
+    "asset": 1586372016776,
+    "meta": 1586410611340,
+    "relativePath": "Texture2D/clover_160.png"
+  },
+  "bfabb50a-d973-453d-b94d-20678fa34354": {
+    "asset": 1586372018525,
+    "meta": 1586410611342,
+    "relativePath": "Texture2D/clover_166.png"
+  },
+  "462c005b-098f-406c-92f5-9eac8ff23c6e": {
+    "asset": 1586372020191,
+    "meta": 1586410611350,
+    "relativePath": "Texture2D/clover_kounyuu_button.png"
+  },
+  "a5df3590-d45f-474b-aad3-fa99ef11ed32": {
+    "asset": 1586372018374,
+    "meta": 1586410611351,
+    "relativePath": "Texture2D/clover_kounyuu.png"
+  },
+  "7179d3cb-f17e-4a24-bb7b-80d43ba2065f": {
+    "asset": 1586372021131,
+    "meta": 1586410611359,
+    "relativePath": "Texture2D/collection_150_150.png"
+  },
+  "ff2cae11-9017-4967-8db6-8083215b32a9": {
+    "asset": 1586372022367,
+    "meta": 1586410611367,
+    "relativePath": "Texture2D/dokusyo_ie.png"
+  },
+  "fc983d56-1783-49a7-9da3-be0db94d0ab1": {
+    "asset": 1586372034554,
+    "meta": 1586410611380,
+    "relativePath": "Texture2D/dougu_01_2.png"
+  },
+  "ea0bfa1b-2561-4588-8c50-bca9720d8575": {
+    "asset": 1586372039976,
+    "meta": 1586410611395,
+    "relativePath": "Texture2D/dougu_01_3.png"
+  },
+  "d3633196-5b6e-4052-92d1-0f8f05fe5b8b": {
+    "asset": 1586372046152,
+    "meta": 1586410611409,
+    "relativePath": "Texture2D/collection.png"
+  },
+  "ca583d8a-28ec-4df7-bb67-58371c3afabc": {
+    "asset": 1586372044113,
+    "meta": 1586410611415,
+    "relativePath": "Texture2D/dougu_01_4.png"
+  },
+  "1326a803-2275-4b87-8425-a6fcd35086c5": {
+    "asset": 1586372026326,
+    "meta": 1586410611428,
+    "relativePath": "Texture2D/dougu_01.png"
+  },
+  "a12c1775-e223-4613-b029-30a795ac5753": {
+    "asset": 1586372047280,
+    "meta": 1586410611432,
+    "relativePath": "Texture2D/dougu_02_2.png"
+  },
+  "9083451a-9894-4196-b5fb-e307cf6e7790": {
+    "asset": 1586372047469,
+    "meta": 1586410611448,
+    "relativePath": "Texture2D/dougu_02_3.png"
+  },
+  "a570527a-ce87-406e-9206-1d33fd5f8642": {
+    "asset": 1586372048480,
+    "meta": 1586410611451,
+    "relativePath": "Texture2D/dougu_02_4.png"
+  },
+  "0d8491ba-44cb-4b50-82ef-57cc1852632f": {
+    "asset": 1586372046136,
+    "meta": 1586410611469,
+    "relativePath": "Texture2D/dougu_02.png"
+  },
+  "553397b1-ceac-4287-9f35-cea5c8e91689": {
+    "asset": 1586372049604,
+    "meta": 1586410611471,
+    "relativePath": "Texture2D/dougu_03_2.png"
+  },
+  "7246dfb5-4472-4d86-b7e7-e1de95547783": {
+    "asset": 1586372051800,
+    "meta": 1586410611489,
+    "relativePath": "Texture2D/dougu_03_3.png"
+  },
+  "67ea8572-be2d-4420-950b-316d248ae215": {
+    "asset": 1586372051564,
+    "meta": 1586410611490,
+    "relativePath": "Texture2D/dougu_03_4.png"
+  },
+  "406a5855-d716-4f3d-b014-3d23aabf1740": {
+    "asset": 1586372052729,
+    "meta": 1586410611505,
+    "relativePath": "Texture2D/dougu_04.png"
+  },
+  "4cedec7d-facb-435a-8d54-088e0270e7e7": {
+    "asset": 1586372048667,
+    "meta": 1586410611507,
+    "relativePath": "Texture2D/dougu_03.png"
+  },
+  "277b96d7-b22e-46c3-97eb-d07363fbfca3": {
+    "asset": 1586372054143,
+    "meta": 1586410611518,
+    "relativePath": "Texture2D/dougu_f_01.png"
+  },
+  "54ced822-9643-4642-b32d-2553c9aaa16c": {
+    "asset": 1586372053383,
+    "meta": 1586410611521,
+    "relativePath": "Texture2D/dougu_05.png"
+  },
+  "847ce5aa-79ec-481c-a816-4390a6096211": {
+    "asset": 1586372054918,
+    "meta": 1586410611531,
+    "relativePath": "Texture2D/dougu_f_02.png"
+  },
+  "84558100-7122-4cc9-a2b1-d9bb126c8663": {
+    "asset": 1586372055174,
+    "meta": 1586410611533,
+    "relativePath": "Texture2D/dougu_f_03.png"
+  },
+  "78219f50-a6b4-4575-9252-9b5678cc4bee": {
+    "asset": 1586372056057,
+    "meta": 1586410611544,
+    "relativePath": "Texture2D/dougu_f_04.png"
+  },
+  "84f6ea27-5284-4361-9687-6ff2b70b2416": {
+    "asset": 1586372056116,
+    "meta": 1586410611547,
+    "relativePath": "Texture2D/dougu_f_05.png"
+  },
+  "c5e56e06-18b8-4dd6-84d7-aa290799895b": {
+    "asset": 1586372057103,
+    "meta": 1586410611558,
+    "relativePath": "Texture2D/dougu_f_06.png"
+  },
+  "5062909d-ffaf-490f-9790-57dbcf847d74": {
+    "asset": 1586372057993,
+    "meta": 1586410611559,
+    "relativePath": "Texture2D/dougu_f_07.png"
+  },
+  "5553b42e-eb91-46e7-97b8-ec092aeb7a32": {
+    "asset": 1586372058781,
+    "meta": 1586410611568,
+    "relativePath": "Texture2D/dougu_f_08.png"
+  },
+  "ffb0b311-7bc5-4e56-ad0b-43cb1c35a867": {
+    "asset": 1586372060021,
+    "meta": 1586410611570,
+    "relativePath": "Texture2D/dougu_f_09.png"
+  },
+  "ddce616a-3d4e-4c21-a418-fe4ea4f59792": {
+    "asset": 1586372060254,
+    "meta": 1586410611586,
+    "relativePath": "Texture2D/dougu_f_10.png"
+  },
+  "56dce2e7-61b9-453b-b923-faa92b0cfffe": {
+    "asset": 1586372061452,
+    "meta": 1586410611587,
+    "relativePath": "Texture2D/dougu_k_01.png"
+  },
+  "53a883ff-bc35-4075-8fc6-83b4af4fea1e": {
+    "asset": 1586372062693,
+    "meta": 1586410611603,
+    "relativePath": "Texture2D/dougu_k_03.png"
+  },
+  "7618e49a-d627-4612-8503-c768f937a306": {
+    "asset": 1586372061272,
+    "meta": 1586410611604,
+    "relativePath": "Texture2D/dougu_k_02.png"
+  },
+  "f2923b13-f70d-452e-96c2-e9a1b4735180": {
+    "asset": 1586372062855,
+    "meta": 1586410611617,
+    "relativePath": "Texture2D/dougu_k_04.png"
+  },
+  "e20d7417-ec8c-4bf8-98f8-e6a4f7446e4a": {
+    "asset": 1586372064136,
+    "meta": 1586410611618,
+    "relativePath": "Texture2D/dougu_k_05.png"
+  },
+  "6676bc1c-ae8f-4b28-a6d5-c68d196410c4": {
+    "asset": 1586372066033,
+    "meta": 1586410611631,
+    "relativePath": "Texture2D/dougu_k_07.png"
+  },
+  "020f6bff-c9d7-4172-95b4-5d746a409d1c": {
+    "asset": 1586372064023,
+    "meta": 1586410611633,
+    "relativePath": "Texture2D/dougu_k_06.png"
+  },
+  "f321f0ab-2495-40a9-94e1-b2d76e82252d": {
+    "asset": 1586372068516,
+    "meta": 1586410611648,
+    "relativePath": "Texture2D/dougu_k_08.png"
+  },
+  "9d3e9c7a-35ca-424f-b8f5-51b77fba40f2": {
+    "asset": 1586372068822,
+    "meta": 1586410611649,
+    "relativePath": "Texture2D/dougu_k_09.png"
+  },
+  "82c2b711-0b0c-4975-9c57-77eca2f64207": {
+    "asset": 1586372069461,
+    "meta": 1586410611664,
+    "relativePath": "Texture2D/dougu_n_01.png"
+  },
+  "2e470c61-24e2-4203-adfc-9b13b00a4086": {
+    "asset": 1586372071560,
+    "meta": 1586410611666,
+    "relativePath": "Texture2D/dougu_n_02.png"
+  },
+  "2a360099-491a-473c-9432-601f18de644c": {
+    "asset": 1586372073035,
+    "meta": 1586410611681,
+    "relativePath": "Texture2D/dougu_n_04.png"
+  },
+  "c3e0fcd6-6626-4268-94fe-bc24c1a57914": {
+    "asset": 1586372070755,
+    "meta": 1586410611683,
+    "relativePath": "Texture2D/dougu_n_03.png"
+  },
+  "dbfd2d6c-4998-4315-9d77-f57517b415a4": {
+    "asset": 1586372073048,
+    "meta": 1586410611697,
+    "relativePath": "Texture2D/dougu_n_05.png"
+  },
+  "bc9d663d-f7d8-47fe-820c-7792b9ba9e95": {
+    "asset": 1586372074676,
+    "meta": 1586410611699,
+    "relativePath": "Texture2D/dougu_n_06.png"
+  },
+  "630c6fe6-9b86-4eab-bc7c-3c18649c2c8f": {
+    "asset": 1586372074164,
+    "meta": 1586410611714,
+    "relativePath": "Texture2D/dougu_n_07.png"
+  },
+  "bce1651e-38ea-4c0d-8232-14d83c5c764b": {
+    "asset": 1586372075540,
+    "meta": 1586410611716,
+    "relativePath": "Texture2D/dougu_n_08.png"
+  },
+  "766708af-0ac8-4fce-9c9d-cf72acd7c52f": {
+    "asset": 1586372076993,
+    "meta": 1586410611730,
+    "relativePath": "Texture2D/dougu_n_10.png"
+  },
+  "c838fb04-98e7-4ec3-80bc-acd8e586f64e": {
+    "asset": 1586372075599,
+    "meta": 1586410611732,
+    "relativePath": "Texture2D/dougu_n_09.png"
+  },
+  "fdce6dab-ec3f-4196-bcb7-427e38d835ad": {
+    "asset": 1586372078063,
+    "meta": 1586410611749,
+    "relativePath": "Texture2D/dougu_owan_02.png"
+  },
+  "72798273-3c77-4281-b553-4f8eab2ea373": {
+    "asset": 1586372076467,
+    "meta": 1586410611750,
+    "relativePath": "Texture2D/dougu_owan_01.png"
+  },
+  "de0c3c05-20c8-4d3d-899f-6347b54c6fdf": {
+    "asset": 1586372078584,
+    "meta": 1586410611766,
+    "relativePath": "Texture2D/dougu_t_01.png"
+  },
+  "91fbdbf4-95e5-4983-849a-61d91bc52944": {
+    "asset": 1586372079499,
+    "meta": 1586410611767,
+    "relativePath": "Texture2D/dougu_t_02.png"
+  },
+  "963e138d-bef0-469d-a768-c76884dd9b61": {
+    "asset": 1586372079531,
+    "meta": 1586410611783,
+    "relativePath": "Texture2D/dougu_t_03.png"
+  },
+  "73d124dc-c972-46f6-9c6c-d6bda9bec34b": {
+    "asset": 1586372081664,
+    "meta": 1586410611785,
+    "relativePath": "Texture2D/dougu_t_04.png"
+  },
+  "e9e26a2f-b380-4697-ae04-e35af38dc3a4": {
+    "asset": 1586372082747,
+    "meta": 1586410611802,
+    "relativePath": "Texture2D/dougu_t_06.png"
+  },
+  "ea20cc0c-67a9-4029-b9f7-cebec282befe": {
+    "asset": 1586372081749,
+    "meta": 1586410611804,
+    "relativePath": "Texture2D/dougu_t_05.png"
+  },
+  "d75785f9-a976-49b7-b306-d14c2208a5fb": {
+    "asset": 1586372082951,
+    "meta": 1586410611820,
+    "relativePath": "Texture2D/dougu_t_07.png"
+  },
+  "1eff4f12-b700-4829-8997-e4f7133fd309": {
+    "asset": 1586372083637,
+    "meta": 1586410611821,
+    "relativePath": "Texture2D/dougu_t_08.png"
+  },
+  "47fd8239-561d-4edc-9199-2cea6cd23bf2": {
+    "asset": 1586372084534,
+    "meta": 1586410611834,
+    "relativePath": "Texture2D/doui_no.png"
+  },
+  "1c07ff18-b55b-4c90-8a89-6c6ebe8c58a6": {
+    "asset": 1586372084364,
+    "meta": 1586410611836,
+    "relativePath": "Texture2D/dougu_t_09.png"
+  },
+  "ff2a1171-ebe9-4c56-a6b5-90555675bf44": {
+    "asset": 1586372085852,
+    "meta": 1586410611849,
+    "relativePath": "Texture2D/doui_yes.png"
+  },
+  "fe0f58c7-4169-4759-8554-737b04f5452d": {
+    "asset": 1586372086135,
+    "meta": 1586410611850,
+    "relativePath": "Texture2D/doutyuu_f_01.png"
+  },
+  "67a4ed7f-d20c-4b74-87df-d1ba7ad96616": {
+    "asset": 1586372087651,
+    "meta": 1586410611862,
+    "relativePath": "Texture2D/doutyuu_f_03.png"
+  },
+  "742a494b-83f7-46b8-91eb-1b544a05d4f0": {
+    "asset": 1586372086746,
+    "meta": 1586410611864,
+    "relativePath": "Texture2D/doutyuu_f_02.png"
+  },
+  "a903ddff-be76-47a8-b114-7256773162ae": {
+    "asset": 1586372089292,
+    "meta": 1586410611877,
+    "relativePath": "Texture2D/doutyuu_f_05.png"
+  },
+  "e39f2fdb-3089-4a29-837a-fbde4c4fe998": {
+    "asset": 1586372087724,
+    "meta": 1586410611878,
+    "relativePath": "Texture2D/doutyuu_f_04.png"
+  },
+  "46b7698c-4158-469d-973e-a750e9aa1516": {
+    "asset": 1586372089801,
+    "meta": 1586410611893,
+    "relativePath": "Texture2D/doutyuu_k_01r.png"
+  },
+  "bb1b2ec0-3f4c-43a7-8650-bb6dcd33b680": {
+    "asset": 1586372088779,
+    "meta": 1586410611896,
+    "relativePath": "Texture2D/doutyuu_k_01l.png"
+  },
+  "487a4b27-f041-4d30-bcb1-be3052774a7d": {
+    "asset": 1586372090222,
+    "meta": 1586410611909,
+    "relativePath": "Texture2D/doutyuu_k_02l.png"
+  },
+  "64d0008e-bf2a-4994-ac3f-79ac2545a51a": {
+    "asset": 1586372090885,
+    "meta": 1586410611911,
+    "relativePath": "Texture2D/doutyuu_k_02r.png"
+  },
+  "931fbcb7-0231-4da0-aa85-624dfdcd7676": {
+    "asset": 1586372092025,
+    "meta": 1586410611925,
+    "relativePath": "Texture2D/doutyuu_k_04l.png"
+  },
+  "5a2b10a6-3e20-4951-b723-37821eab79f5": {
+    "asset": 1586372091139,
+    "meta": 1586410611926,
+    "relativePath": "Texture2D/doutyuu_k_03.png"
+  },
+  "795318ce-ed5e-41e7-b8b9-376af43cc75a": {
+    "asset": 1586372093458,
+    "meta": 1586410611940,
+    "relativePath": "Texture2D/doutyuu_k_05l.png"
+  },
+  "aed70102-4b37-4e0d-aaaa-57dd7f43f4d4": {
+    "asset": 1586372092143,
+    "meta": 1586410611942,
+    "relativePath": "Texture2D/doutyuu_k_04r.png"
+  },
+  "fb45352e-5329-43f1-8acd-e3b4098669a7": {
+    "asset": 1586372093656,
+    "meta": 1586410611954,
+    "relativePath": "Texture2D/doutyuu_k_05r.png"
+  },
+  "dec3d330-9dda-408a-ab76-900bdc2d6b84": {
+    "asset": 1586372095799,
+    "meta": 1586410611955,
+    "relativePath": "Texture2D/doutyuu_n_01.png"
+  },
+  "90f19ce2-7701-4304-95f4-fccba311afc1": {
+    "asset": 1586372095635,
+    "meta": 1586410611969,
+    "relativePath": "Texture2D/doutyuu_n_03.png"
+  },
+  "34b5d821-a911-41b7-bb77-2d4bd1826fe9": {
+    "asset": 1586372094611,
+    "meta": 1586410611970,
+    "relativePath": "Texture2D/doutyuu_n_02.png"
+  },
+  "8667e614-f971-4dc1-bdcd-d9544d423c83": {
+    "asset": 1586372097153,
+    "meta": 1586410611984,
+    "relativePath": "Texture2D/doutyuu_n_05.png"
+  },
+  "d2d7699e-2f9d-468f-95da-2d877ffc7e1e": {
+    "asset": 1586372097179,
+    "meta": 1586410611986,
+    "relativePath": "Texture2D/doutyuu_n_04.png"
+  },
+  "ce0cf259-edc5-45ea-868d-8cd90e8f075a": {
+    "asset": 1586372099031,
+    "meta": 1586410611999,
+    "relativePath": "Texture2D/doutyuu_t_02.png"
+  },
+  "0c8d9472-88a9-4349-a8fc-9bdb414eb35c": {
+    "asset": 1586372098704,
+    "meta": 1586410612001,
+    "relativePath": "Texture2D/doutyuu_t_01.png"
+  },
+  "ae3eed3b-8cdd-4f8d-9f87-eecd87e6dadc": {
+    "asset": 1586372099539,
+    "meta": 1586410612017,
+    "relativePath": "Texture2D/doutyuu_t_03.png"
+  },
+  "f8ae16e5-cdd1-4f62-8cfa-9abdf897c7c6": {
+    "asset": 1586372099904,
+    "meta": 1586410612018,
+    "relativePath": "Texture2D/doutyuu_t_04.png"
+  },
+  "82e966d5-777f-4ff7-9526-25e36d725a99": {
+    "asset": 1586372100722,
+    "meta": 1586410612031,
+    "relativePath": "Texture2D/DropdownArrow.png"
+  },
+  "620a83b1-cf49-499f-a116-d2f9935c9cd6": {
+    "asset": 1586372100378,
+    "meta": 1586410612032,
+    "relativePath": "Texture2D/doutyuu_t_05.png"
+  },
+  "fe197211-cb77-49ff-9d88-2f78d5fb033a": {
+    "asset": 1586372101691,
+    "meta": 1586410612044,
+    "relativePath": "Texture2D/EscToExit_Text.png"
+  },
+  "3c672d7f-0376-4537-a605-48694383008e": {
+    "asset": 1586372101775,
+    "meta": 1586410612045,
+    "relativePath": "Texture2D/EscToExit_back.png"
+  },
+  "16b78732-160a-427e-87f5-b1014ac71a29": {
+    "asset": 1586372103302,
+    "meta": 1586410612061,
+    "relativePath": "Texture2D/frame_02.png"
+  },
+  "b6da01c6-3ffb-4cdc-95ad-3d072f4f7e3e": {
+    "asset": 1586372103395,
+    "meta": 1586410612063,
+    "relativePath": "Texture2D/frame_01.png"
+  },
+  "b1267e68-4878-469f-b53d-0e9c2aa9c322": {
+    "asset": 1586372104850,
+    "meta": 1586410612076,
+    "relativePath": "Texture2D/frame_empty.png"
+  },
+  "5c31a175-f0ed-4b1a-bbd7-09768d91eacb": {
+    "asset": 1586372104160,
+    "meta": 1586410612077,
+    "relativePath": "Texture2D/frame_03.png"
+  },
+  "fb0402b9-620b-4db2-87f3-339842442fde": {
+    "asset": 1586372105757,
+    "meta": 1586410612091,
+    "relativePath": "Texture2D/frame_name.png"
+  },
+  "f01508ee-d544-44ff-a926-a911fb91a3dd": {
+    "asset": 1586372105051,
+    "meta": 1586410612093,
+    "relativePath": "Texture2D/frame_kaban.png"
+  },
+  "a3758b45-3dc4-4fb0-9bef-df9d5c326d95": {
+    "asset": 1586372105883,
+    "meta": 1586410612106,
+    "relativePath": "Texture2D/frame_small.png"
+  },
+  "be48f231-6a86-4f58-b6d6-a92f1bfc8c0e": {
+    "asset": 1586372107232,
+    "meta": 1586410612108,
+    "relativePath": "Texture2D/frame_tsukue.png"
+  },
+  "280cedb1-fa66-4c8c-b856-23860d1139dd": {
+    "asset": 1586372109219,
+    "meta": 1586410612120,
+    "relativePath": "Texture2D/gomibako.png"
+  },
+  "4bffc625-32de-4bd2-8e29-bd9dc3d35c5e": {
+    "asset": 1586372107450,
+    "meta": 1586410612125,
+    "relativePath": "Texture2D/frog.png"
+  },
+  "9e8c52c4-bd76-4a49-a2b6-b489cfd825f7": {
+    "asset": 1586372115547,
+    "meta": 1586410612146,
+    "relativePath": "Texture2D/goods_hukubiki.png"
+  },
+  "9fbc0682-6bf0-4f93-81f4-6057b3259dc9": {
+    "asset": 1586372117535,
+    "meta": 1586410612154,
+    "relativePath": "Texture2D/goods.png"
+  },
+  "37391a3d-1d59-4af3-a71b-2f5d75d628cf": {
+    "asset": 1586372117502,
+    "meta": 1586410612175,
+    "relativePath": "Texture2D/haikei_01.png"
+  },
+  "c76a488e-2dc7-4d2d-9aae-99fa3a7bbc2f": {
+    "asset": 1586372147354,
+    "meta": 1586410612205,
+    "relativePath": "Texture2D/haikei_niwa_akari.png"
+  },
+  "75ba04a8-40a6-4994-8941-3e1242bdb6c4": {
+    "asset": 1586372147348,
+    "meta": 1586410612227,
+    "relativePath": "Texture2D/haikei_niwa.png"
+  },
+  "99a75940-d1c4-44c8-9609-d9b4f614191c": {
+    "asset": 1586372148721,
+    "meta": 1586410612228,
+    "relativePath": "Texture2D/hayasi_01.png"
+  },
+  "44805faf-1f15-481e-ae29-e4aad5006a3c": {
+    "asset": 1586372148766,
+    "meta": 1586410612239,
+    "relativePath": "Texture2D/help.png"
+  },
+  "ee494759-11b8-4a4a-ab44-d750deec0dfc": {
+    "asset": 1586372149924,
+    "meta": 1586410612242,
+    "relativePath": "Texture2D/HelpPic_0_1.png"
+  },
+  "b721759e-98f2-499d-9446-387586ebe83c": {
+    "asset": 1586372151342,
+    "meta": 1586410612253,
+    "relativePath": "Texture2D/HelpPic_0_2.png"
+  },
+  "06cc18a4-39e4-40a6-a3c5-aea8a5f45e79": {
+    "asset": 1586372151537,
+    "meta": 1586410612256,
+    "relativePath": "Texture2D/helpPic_1_1.png"
+  },
+  "a2d8aab2-8438-4bfa-bb3c-262e0d8edb82": {
+    "asset": 1586372152330,
+    "meta": 1586410612267,
+    "relativePath": "Texture2D/HelpPic_2_1.png"
+  },
+  "0ce36a69-419f-4818-8fd0-d4c51020486c": {
+    "asset": 1586372153118,
+    "meta": 1586410612272,
+    "relativePath": "Texture2D/helpPic_2_2.png"
+  },
+  "7e923011-13f5-448c-984f-72fd5677f33c": {
+    "asset": 1586372153928,
+    "meta": 1586410612280,
+    "relativePath": "Texture2D/helpPic_3_1.png"
+  },
+  "5df1bf5d-7682-48e8-b495-8d3c2766395a": {
+    "asset": 1586372155165,
+    "meta": 1586410612284,
+    "relativePath": "Texture2D/helpPic_3_2.png"
+  },
+  "9e439414-b873-4ce8-ad1e-d70126dfcdd3": {
+    "asset": 1586372155086,
+    "meta": 1586410612295,
+    "relativePath": "Texture2D/HelpPic_3_3.png"
+  },
+  "f752ad7d-4d1f-440f-b054-9aab9c2f881c": {
+    "asset": 1586372156785,
+    "meta": 1586410612297,
+    "relativePath": "Texture2D/helpPic_4_1.png"
+  },
+  "acec0329-6a02-4dd6-8bea-e29a79088ced": {
+    "asset": 1586372156774,
+    "meta": 1586410612310,
+    "relativePath": "Texture2D/helpPic_5_1.png"
+  },
+  "601e7aa7-2527-421c-aadd-a478e728e440": {
+    "asset": 1586372158391,
+    "meta": 1586410612312,
+    "relativePath": "Texture2D/helpPic_5_2.png"
+  },
+  "ace49047-0b87-4715-9f6e-f798e14148bf": {
+    "asset": 1586372158369,
+    "meta": 1586410612323,
+    "relativePath": "Texture2D/HelpPic_5_3.png"
+  },
+  "6b489569-7c2d-485a-9c84-523cd5775e5d": {
+    "asset": 1586372159902,
+    "meta": 1586410612325,
+    "relativePath": "Texture2D/hi_rousoku.png"
+  },
+  "f24aa4f8-4200-41c0-af6d-5ac4838a059f": {
+    "asset": 1586372160773,
+    "meta": 1586410612336,
+    "relativePath": "Texture2D/hi_syokudai.png"
+  },
+  "e81f8f3f-e4a8-46f3-bf51-61a54d454df0": {
+    "asset": 1586372159938,
+    "meta": 1586410612339,
+    "relativePath": "Texture2D/hikki_ie.png"
+  },
+  "fb2cadbc-9526-477e-a031-dc19db8ee7c4": {
+    "asset": 1586372160941,
+    "meta": 1586410612347,
+    "relativePath": "Texture2D/horizontal scrollbar thumb.png"
+  },
+  "41a69d68-6e5c-456d-9d63-5225285a51ea": {
+    "asset": 1586372162562,
+    "meta": 1586410612350,
+    "relativePath": "Texture2D/horizontal scrollbar.png"
+  },
+  "db049250-f40a-49d4-9755-30ff554f7096": {
+    "asset": 1586372161944,
+    "meta": 1586410612356,
+    "relativePath": "Texture2D/horizontalslider.png"
+  },
+  "20e8ca9d-f6af-43d0-bcd5-2dbbe201a16f": {
+    "asset": 1586372163618,
+    "meta": 1586410612362,
+    "relativePath": "Texture2D/hozon_yes.png"
+  },
+  "aff63991-56be-4e78-bf5f-537ce8d6dd57": {
+    "asset": 1586372163636,
+    "meta": 1586410612370,
+    "relativePath": "Texture2D/hplogo.png"
+  },
+  "9ea5c70e-56ae-4e20-b84c-e74020403199": {
+    "asset": 1586372165016,
+    "meta": 1586410612374,
+    "relativePath": "Texture2D/icon_camera_84_88.png"
+  },
+  "48fc5c35-8a63-4c7e-8fda-5bd9ad7503a8": {
+    "asset": 1586372165260,
+    "meta": 1586410612381,
+    "relativePath": "Texture2D/icon_help_84_88.png"
+  },
+  "ca41e79b-77cc-4f70-aca8-cd40966d4ba1": {
+    "asset": 1586372166052,
+    "meta": 1586410612386,
+    "relativePath": "Texture2D/icon_house_84_88.png"
+  },
+  "b4d400b0-98d8-48fc-8e7b-b1cd7bed0a22": {
+    "asset": 1586372166061,
+    "meta": 1586410612393,
+    "relativePath": "Texture2D/icon_item_84_88.png"
+  },
+  "95993a90-4126-4d72-8885-426eb04552f8": {
+    "asset": 1586372167506,
+    "meta": 1586410612398,
+    "relativePath": "Texture2D/icon_menu_92_96.png"
+  },
+  "425f4982-af0f-462f-8d21-81634980d01e": {
+    "asset": 1586372167173,
+    "meta": 1586410612405,
+    "relativePath": "Texture2D/icon_name.png"
+  },
+  "76baab2a-327e-483c-8ef0-ebfdf315eae3": {
+    "asset": 1586372168292,
+    "meta": 1586410612410,
+    "relativePath": "Texture2D/icon_out_84_88.png"
+  },
+  "e9952de2-1af7-4d48-915e-3d59ec907b96": {
+    "asset": 1586372169087,
+    "meta": 1586410612417,
+    "relativePath": "Texture2D/icon_shop_84_88.png"
+  },
+  "c060d05c-dbc2-4e51-a4c8-745513adc409": {
+    "asset": 1586372169235,
+    "meta": 1586410612421,
+    "relativePath": "Texture2D/icon_syougou.png"
+  },
+  "12c13a0a-3dfe-4569-bcdd-14fa2cc22923": {
+    "asset": 1586372170418,
+    "meta": 1586410612428,
+    "relativePath": "Texture2D/icon_urabeya_84_88.png"
+  },
+  "fd87adc0-faee-44c8-ab4b-81d000d04758": {
+    "asset": 1586372170697,
+    "meta": 1586410612438,
+    "relativePath": "Texture2D/inemuri_ie.png"
+  },
+  "547ba0ad-f21a-48db-8d51-3b62c12e03ec": {
+    "asset": 1586372171340,
+    "meta": 1586410612439,
+    "relativePath": "Texture2D/ippin.png"
+  },
+  "7f951601-0d07-4f07-8257-40eb7527a454": {
+    "asset": 1586372172382,
+    "meta": 1586410612453,
+    "relativePath": "Texture2D/item_back.png"
+  },
+  "915124ee-6e32-4ab8-b2a8-064ac06e05a9": {
+    "asset": 1586372171862,
+    "meta": 1586410612461,
+    "relativePath": "Texture2D/isigame_niwa.png"
+  },
+  "20e78d3c-3e16-4776-b7eb-c1c9f1a43d9c": {
+    "asset": 1586372173322,
+    "meta": 1586410612467,
+    "relativePath": "Texture2D/kaban_frame_01.png"
+  },
+  "06d26d3e-c59e-493a-86df-723322103164": {
+    "asset": 1586372174825,
+    "meta": 1586410612474,
+    "relativePath": "Texture2D/kaban_frame_02.png"
+  },
+  "8073eabc-f9d9-4313-b7d8-7bff1255998a": {
+    "asset": 1586372175038,
+    "meta": 1586410612480,
+    "relativePath": "Texture2D/kaban_frame_03.png"
+  },
+  "c3d3de64-b872-479b-8dc9-e2a970a2fee6": {
+    "asset": 1586372173578,
+    "meta": 1586410612485,
+    "relativePath": "Texture2D/kaban.png"
+  },
+  "7e946ce7-04c1-4580-a282-57000c2a68ef": {
+    "asset": 1586372177546,
+    "meta": 1586410612492,
+    "relativePath": "Texture2D/kaeru_niwa.png"
+  },
+  "e9f1322d-b5b3-495a-b3d3-665a88934d46": {
+    "asset": 1586372175921,
+    "meta": 1586410612495,
+    "relativePath": "Texture2D/kanryou.png"
+  },
+  "d51f81f1-9306-4a11-b2a3-58fa3e5f3f49": {
+    "asset": 1586372178016,
+    "meta": 1586410612505,
+    "relativePath": "Texture2D/katadukeru.png"
+  },
+  "65e98577-8d49-4c8a-a7bd-701f9f7de572": {
+    "asset": 1586372179971,
+    "meta": 1586410612517,
+    "relativePath": "Texture2D/keihin.png"
+  },
+  "98de86dc-c6a1-4c4c-a54c-e23368e3a752": {
+    "asset": 1586372179235,
+    "meta": 1586410612519,
+    "relativePath": "Texture2D/katatsumuri_niwa.png"
+  },
+  "149a729d-e22b-4b60-8a22-b6ade3a757b9": {
+    "asset": 1586372181771,
+    "meta": 1586410612545,
+    "relativePath": "Texture2D/ki_02.png"
+  },
+  "28630a11-8795-436b-8056-929ca438951c": {
+    "asset": 1586372180491,
+    "meta": 1586410612550,
+    "relativePath": "Texture2D/ki_01.png"
+  },
+  "33b85626-5e53-443e-9bd0-a573fa648ed9": {
+    "asset": 1586372181396,
+    "meta": 1586410612562,
+    "relativePath": "Texture2D/ki_03.png"
+  },
+  "e4ac46fa-0e96-4423-bba8-12e60cdebd87": {
+    "asset": 1586372183462,
+    "meta": 1586410612568,
+    "relativePath": "Texture2D/ki_04.png"
+  },
+  "89822868-fc58-4df5-aece-6e6b959952dc": {
+    "asset": 1586372184953,
+    "meta": 1586410612579,
+    "relativePath": "Texture2D/koke_01.png"
+  },
+  "ffb07f5f-ae17-4951-b818-cf03bcfe37f7": {
+    "asset": 1586372186106,
+    "meta": 1586410612590,
+    "relativePath": "Texture2D/koke_02.png"
+  },
+  "e7780323-adf5-4066-b51a-52a5c88c50d9": {
+    "asset": 1586372184687,
+    "meta": 1586410612591,
+    "relativePath": "Texture2D/ki_05.png"
+  },
+  "f882074d-19ee-4e81-8b0d-da8be786b251": {
+    "asset": 1586372187410,
+    "meta": 1586410612600,
+    "relativePath": "Texture2D/koke_04.png"
+  },
+  "bbbe815d-7bc7-41dd-932c-d424cdea0f46": {
+    "asset": 1586372185949,
+    "meta": 1586410612602,
+    "relativePath": "Texture2D/koke_03.png"
+  },
+  "e6800fe0-3cab-4527-8bd4-40de2754fdeb": {
+    "asset": 1586372187131,
+    "meta": 1586410612613,
+    "relativePath": "Texture2D/koke_05.png"
+  },
+  "5d403d2d-b9af-4751-a293-a63afcff9b22": {
+    "asset": 1586372188354,
+    "meta": 1586410612614,
+    "relativePath": "Texture2D/koke_06.png"
+  },
+  "1905901a-5a87-4405-9739-f169367b3768": {
+    "asset": 1586372190405,
+    "meta": 1586410612627,
+    "relativePath": "Texture2D/koke_08.png"
+  },
+  "a009601a-2d65-46bd-bd2e-37c1549d9e69": {
+    "asset": 1586372189185,
+    "meta": 1586410612628,
+    "relativePath": "Texture2D/koke_07.png"
+  },
+  "b9f303ad-4d3d-4d87-b60c-16c420a2e7de": {
+    "asset": 1586372190706,
+    "meta": 1586410612639,
+    "relativePath": "Texture2D/koke_09.png"
+  },
+  "fd5c18cb-2b69-4226-9d4e-850c7faded3a": {
+    "asset": 1586372192059,
+    "meta": 1586410612640,
+    "relativePath": "Texture2D/koke_10.png"
+  },
+  "c51472f8-fccb-4c49-93f7-fbdb36877afc": {
+    "asset": 1586372193717,
+    "meta": 1586410612655,
+    "relativePath": "Texture2D/kumo_01.png"
+  },
+  "85bd20be-6b7a-4876-b769-7365cd472640": {
+    "asset": 1586372192337,
+    "meta": 1586410612659,
+    "relativePath": "Texture2D/konkuri_01.png"
+  },
+  "fcdc977c-7b87-4b6b-b4cc-25032da213ab": {
+    "asset": 1586372195132,
+    "meta": 1586410612671,
+    "relativePath": "Texture2D/kumo_03.png"
+  },
+  "ca4d532d-7608-40c2-a897-55130b7732e3": {
+    "asset": 1586372194068,
+    "meta": 1586410612678,
+    "relativePath": "Texture2D/kumo_02.png"
+  },
+  "d7c23541-87eb-469c-9b66-702d483c155f": {
+    "asset": 1586372195116,
+    "meta": 1586410612683,
+    "relativePath": "Texture2D/kumo_04.png"
+  },
+  "7c50aadd-686c-4e83-875c-c9e5b8e9e29f": {
+    "asset": 1586372198604,
+    "meta": 1586410612690,
+    "relativePath": "Texture2D/kumo_05.png"
+  },
+  "385d5be7-ddea-4894-84cb-655798bea8b5": {
+    "asset": 1586372196269,
+    "meta": 1586410612694,
+    "relativePath": "Texture2D/kumo_06.png"
+  },
+  "a352dd2c-b078-4231-bc97-35188abb6f7c": {
+    "asset": 1586372198382,
+    "meta": 1586410612699,
+    "relativePath": "Texture2D/kusa_01.png"
+  },
+  "4f9037c6-b400-49f1-9bf3-90cabd1a637f": {
+    "asset": 1586372199946,
+    "meta": 1586410612706,
+    "relativePath": "Texture2D/kusa_02.png"
+  },
+  "53cd273f-a2f6-44f3-a7c0-e6d27ef779c1": {
+    "asset": 1586372200012,
+    "meta": 1586410612711,
+    "relativePath": "Texture2D/kusa_03.png"
+  },
+  "183faa53-0499-419c-9404-79c613126dcc": {
+    "asset": 1586372201522,
+    "meta": 1586410612721,
+    "relativePath": "Texture2D/kusa_04.png"
+  },
+  "08a0c636-5ac7-452f-931a-1473ee4467f6": {
+    "asset": 1586372201502,
+    "meta": 1586410612728,
+    "relativePath": "Texture2D/kusa_05.png"
+  },
+  "ae848844-08ae-445d-8773-5cf3626d1314": {
+    "asset": 1586372203139,
+    "meta": 1586410612744,
+    "relativePath": "Texture2D/kusa_07.png"
+  },
+  "db6d0622-f2b8-4826-ba77-1adeaa69df38": {
+    "asset": 1586372205544,
+    "meta": 1586410612745,
+    "relativePath": "Texture2D/kusa_06.png"
+  },
+  "e5165743-5bbd-456a-9184-4d33f2968203": {
+    "asset": 1586372204048,
+    "meta": 1586410612754,
+    "relativePath": "Texture2D/kusa_08.png"
+  },
+  "9181c289-1d08-42b7-8d69-47a6c2043105": {
+    "asset": 1586372205485,
+    "meta": 1586410612755,
+    "relativePath": "Texture2D/kusa_09.png"
+  },
+  "46c3f815-ae3b-409a-a5fc-ad09c7a22721": {
+    "asset": 1586372206892,
+    "meta": 1586410612767,
+    "relativePath": "Texture2D/kusa_10.png"
+  },
+  "a6cfc183-1796-464e-bcc3-eba76b4d41a1": {
+    "asset": 1586372206534,
+    "meta": 1586410612769,
+    "relativePath": "Texture2D/kusa_11.png"
+  },
+  "3379e123-3588-4927-af4f-885e9804b9cf": {
+    "asset": 1586372208402,
+    "meta": 1586410612781,
+    "relativePath": "Texture2D/label_01.png"
+  },
+  "b0ec05d0-9f04-44d8-8e10-f01b87dc89c4": {
+    "asset": 1586372207513,
+    "meta": 1586410612785,
+    "relativePath": "Texture2D/kutu_01.png"
+  },
+  "47943da1-67b2-4a74-b8b4-6387c16a5c39": {
+    "asset": 1586372208816,
+    "meta": 1586410612794,
+    "relativePath": "Texture2D/label_02.png"
+  },
+  "4c065e9f-20e9-4814-91ea-f6fcb1dd8e98": {
+    "asset": 1586372210330,
+    "meta": 1586410612796,
+    "relativePath": "Texture2D/label_03.png"
+  },
+  "ec52563d-3bf6-43a5-a503-7a81dd0304b3": {
+    "asset": 1586372211412,
+    "meta": 1586410612806,
+    "relativePath": "Texture2D/line_01.png"
+  },
+  "c997e480-ad53-45c4-bbd4-ba4862476cc7": {
+    "asset": 1586372209949,
+    "meta": 1586410612808,
+    "relativePath": "Texture2D/label_04.png"
+  },
+  "13f96cc6-f81f-4aac-8940-a016803d3af8": {
+    "asset": 1586372212995,
+    "meta": 1586410612819,
+    "relativePath": "Texture2D/loading_off.png"
+  },
+  "d8c253b4-4dd8-4a1a-b367-12266672bb65": {
+    "asset": 1586372214545,
+    "meta": 1586410612829,
+    "relativePath": "Texture2D/loading_on.png"
+  },
+  "14109b34-4d1d-4e15-8ba9-3f5ea15f8cf9": {
+    "asset": 1586372211401,
+    "meta": 1586410612840,
+    "relativePath": "Texture2D/loading.png"
+  },
+  "b90c515e-4080-470f-9d19-3b9daff13f1b": {
+    "asset": 1586372213166,
+    "meta": 1586410612841,
+    "relativePath": "Texture2D/loading_dorai.png"
+  },
+  "57084893-e929-4e71-991f-72d8e659ab74": {
+    "asset": 1586372214955,
+    "meta": 1586410612854,
+    "relativePath": "Texture2D/lottery_ball_02.png"
+  },
+  "3018bab1-31b7-4171-9c76-13903d9d4021": {
+    "asset": 1586372214030,
+    "meta": 1586410612855,
+    "relativePath": "Texture2D/lottery_ball_01.png"
+  },
+  "1a16c673-6fa1-4098-96b9-c4c8eef46036": {
+    "asset": 1586372215931,
+    "meta": 1586410612869,
+    "relativePath": "Texture2D/lottery_ball_03.png"
+  },
+  "06ccc839-1ec9-4d32-b4c2-d526f2099f9a": {
+    "asset": 1586372216112,
+    "meta": 1586410612870,
+    "relativePath": "Texture2D/lottery_ball_04.png"
+  },
+  "bf82e968-277f-46d3-a440-2835d3beec45": {
+    "asset": 1586372217475,
+    "meta": 1586410612883,
+    "relativePath": "Texture2D/lottery_ball_05.png"
+  },
+  "1070e607-0d90-4667-87b2-2f808ceeaaef": {
+    "asset": 1586372218537,
+    "meta": 1586410612893,
+    "relativePath": "Texture2D/lottery_frame_01.png"
+  },
+  "ca9efec9-ec33-4597-8366-b08e9d5f3005": {
+    "asset": 1586372217910,
+    "meta": 1586410612903,
+    "relativePath": "Texture2D/lottery_dodai.png"
+  },
+  "22836a42-bfd3-42f9-945f-123cc0f11a22": {
+    "asset": 1586372218858,
+    "meta": 1586410612905,
+    "relativePath": "Texture2D/lottery_frame_02.png"
+  },
+  "9d70f461-2041-4f74-b1ea-9340aa564cb0": {
+    "asset": 1586372220378,
+    "meta": 1586410612918,
+    "relativePath": "Texture2D/lottery_frame_04.png"
+  },
+  "6c77f761-a3d9-4cc2-a839-ef3a60404968": {
+    "asset": 1586372219456,
+    "meta": 1586410612919,
+    "relativePath": "Texture2D/lottery_frame_03.png"
+  },
+  "6a10fd61-f708-4805-a9b0-39f3dbb52a7f": {
+    "asset": 1586372221358,
+    "meta": 1586410612933,
+    "relativePath": "Texture2D/lottery_hukubiki.png"
+  },
+  "8fa8b3e1-e286-49e0-9514-c55c910f21c8": {
+    "asset": 1586372220844,
+    "meta": 1586410612935,
+    "relativePath": "Texture2D/lottery_frame_05.png"
+  },
+  "ce729f84-b4cd-48ec-b616-c2b805fcbec9": {
+    "asset": 1586372221829,
+    "meta": 1586410612947,
+    "relativePath": "Texture2D/lottery_keihin.png"
+  },
+  "29327904-ca66-458c-aaf0-f587bed0ffdd": {
+    "asset": 1586372223225,
+    "meta": 1586410612948,
+    "relativePath": "Texture2D/lottery_mawasu.png"
+  },
+  "458973f3-b9bf-472d-afa2-4c7d971a5b62": {
+    "asset": 1586372222833,
+    "meta": 1586410612959,
+    "relativePath": "Texture2D/lottery_syozi.png"
+  },
+  "47d59f14-af0a-4475-99b6-bd80b5512494": {
+    "asset": 1586372223859,
+    "meta": 1586410612964,
+    "relativePath": "Texture2D/lottery_tenpo_sita.png"
+  },
+  "3dcb388f-de01-49fe-ae11-927771f7ab23": {
+    "asset": 1586372224523,
+    "meta": 1586410612974,
+    "relativePath": "Texture2D/lottery_tenpo_ue.png"
+  },
+  "2a234e7c-f5d6-41ba-8134-3fd938b07b4e": {
+    "asset": 1586372224764,
+    "meta": 1586410612983,
+    "relativePath": "Texture2D/lottery_zoom_frame.png"
+  },
+  "2b580073-ea02-47af-a8c1-af330f131be3": {
+    "asset": 1586372225362,
+    "meta": 1586410612992,
+    "relativePath": "Texture2D/lottery_zoom_tray_01.png"
+  },
+  "f736246a-4ed0-4651-85ba-6e9ea3eadfba": {
+    "asset": 1586372225662,
+    "meta": 1586410612996,
+    "relativePath": "Texture2D/lottery_zoom_tray_02.png"
+  },
+  "1ab0e35c-95fb-402c-b6f5-ccb46da115eb": {
+    "asset": 1586372226517,
+    "meta": 1586410613001,
+    "relativePath": "Texture2D/mail_hukubiki.png"
+  },
+  "32aeb75a-1924-4b33-8342-611a6fa89d31": {
+    "asset": 1586372227190,
+    "meta": 1586410613006,
+    "relativePath": "Texture2D/mail_isigame.png"
+  },
+  "be61d0e5-3c25-4811-94c9-0ca86bdca892": {
+    "asset": 1586372227345,
+    "meta": 1586410613013,
+    "relativePath": "Texture2D/mail_katatsumuri.png"
+  },
+  "b743c99d-dbce-4208-8a4f-dfbfc84dcd3c": {
+    "asset": 1586372228239,
+    "meta": 1586410613018,
+    "relativePath": "Texture2D/mail_mitsubati.png"
+  },
+  "e50d7ebb-a3cf-495e-a32f-abaf9f7acfb9": {
+    "asset": 1586372228299,
+    "meta": 1586410613026,
+    "relativePath": "Texture2D/mail_mituba.png"
+  },
+  "ddeb07ae-08bc-4ab0-bc47-1bcd5d748495": {
+    "asset": 1586372229694,
+    "meta": 1586410613030,
+    "relativePath": "Texture2D/mail_olluketori.png"
+  },
+  "a2056832-53aa-4502-ad12-a2421e67cd47": {
+    "asset": 1586372229405,
+    "meta": 1586410613038,
+    "relativePath": "Texture2D/mail_tirashi.png"
+  },
+  "1d913751-5d8d-407f-a5ec-92da530c4506": {
+    "asset": 1586372230834,
+    "meta": 1586410613041,
+    "relativePath": "Texture2D/mail_uketori.png"
+  },
+  "0551efd5-a228-4f14-8566-e3c19045e8fc": {
+    "asset": 1586372230647,
+    "meta": 1586410613047,
+    "relativePath": "Texture2D/mail_yotuba.png"
+  },
+  "c423e829-63ed-4656-a3de-bd0e1abd8ce5": {
+    "asset": 1586372231737,
+    "meta": 1586410613051,
+    "relativePath": "Texture2D/MainOut_mail_tuuti.png"
+  },
+  "63996ec9-444f-4f6e-9df0-7a9642bb9d41": {
+    "asset": 1586372232442,
+    "meta": 1586410613057,
+    "relativePath": "Texture2D/meibutu.png"
+  },
+  "a3f62e4c-9159-41cd-be3d-47f4422cc189": {
+    "asset": 1586372233587,
+    "meta": 1586410613070,
+    "relativePath": "Texture2D/meisyo_01.png"
+  },
+  "1094ef59-7f2d-4f27-a0fa-6404f2ed46be": {
+    "asset": 1586372234668,
+    "meta": 1586410613079,
+    "relativePath": "Texture2D/meisyo_02.png"
+  },
+  "ea3ad619-23b1-4e3d-a5f9-b843593b8062": {
+    "asset": 1586372234722,
+    "meta": 1586410613089,
+    "relativePath": "Texture2D/meisyo_03.png"
+  },
+  "989278d7-7685-43d9-8bac-318534443e76": {
+    "asset": 1586372238168,
+    "meta": 1586410613097,
+    "relativePath": "Texture2D/meisyo_04.png"
+  },
+  "07ba72ee-21b0-41aa-a36b-59d6bbb0aff6": {
+    "asset": 1586372237732,
+    "meta": 1586410613108,
+    "relativePath": "Texture2D/meisyo_05.png"
+  },
+  "da894123-7fcc-4fe5-8b59-3d0dbdb4cb4f": {
+    "asset": 1586372238935,
+    "meta": 1586410613115,
+    "relativePath": "Texture2D/meisyo_06.png"
+  },
+  "642b9aee-758f-4535-b896-6a2e9e581607": {
+    "asset": 1586372239926,
+    "meta": 1586410613127,
+    "relativePath": "Texture2D/meisyo_07.png"
+  },
+  "a1704cf5-1077-4fb2-b5ff-50849802bf1d": {
+    "asset": 1586372240871,
+    "meta": 1586410613133,
+    "relativePath": "Texture2D/meisyo_08.png"
+  },
+  "c0e3a984-0f22-450b-b1b5-e9f15e064e41": {
+    "asset": 1586372243332,
+    "meta": 1586410613146,
+    "relativePath": "Texture2D/meisyo_09.png"
+  },
+  "e5b198da-eeae-46ec-88b2-3d5f50b832d0": {
+    "asset": 1586372242187,
+    "meta": 1586410613149,
+    "relativePath": "Texture2D/meisyo_10.png"
+  },
+  "c20327a1-f00f-470a-bd38-e3abfd27db3b": {
+    "asset": 1586372243644,
+    "meta": 1586410613161,
+    "relativePath": "Texture2D/meisyo_f_01.png"
+  },
+  "9691a9cb-81d7-46bb-a0bc-66758671fd2c": {
+    "asset": 1586372244324,
+    "meta": 1586410613162,
+    "relativePath": "Texture2D/meisyo_f_02.png"
+  },
+  "1ade2d0f-e956-4fb9-a0a4-763f9f4acbe8": {
+    "asset": 1586372245389,
+    "meta": 1586410613177,
+    "relativePath": "Texture2D/meisyo_f_03.png"
+  },
+  "53b79213-86f4-47c4-bded-1863d2351bed": {
+    "asset": 1586372245556,
+    "meta": 1586410613179,
+    "relativePath": "Texture2D/meisyo_f_04.png"
+  },
+  "21044078-7241-445e-87a1-6ab3cd370848": {
+    "asset": 1586372246955,
+    "meta": 1586410613190,
+    "relativePath": "Texture2D/meisyo_f_06.png"
+  },
+  "5d57fd3f-b9f8-44a7-bf9e-5f3b243a96ae": {
+    "asset": 1586372246815,
+    "meta": 1586410613191,
+    "relativePath": "Texture2D/meisyo_f_05.png"
+  },
+  "5ed92f4f-44d2-4314-ac63-c684c6752f12": {
+    "asset": 1586372247963,
+    "meta": 1586410613201,
+    "relativePath": "Texture2D/meisyo_f_08.png"
+  },
+  "11e5adce-90a6-4141-84f7-1310d7219e89": {
+    "asset": 1586372248649,
+    "meta": 1586410613203,
+    "relativePath": "Texture2D/meisyo_f_07.png"
+  },
+  "5ac9d4f8-e2c2-497e-aadf-ab2e3bd01266": {
+    "asset": 1586372250291,
+    "meta": 1586410613214,
+    "relativePath": "Texture2D/meisyo_f_10.png"
+  },
+  "29326485-7042-41c5-b9c1-eed767bbc583": {
+    "asset": 1586372249431,
+    "meta": 1586410613216,
+    "relativePath": "Texture2D/meisyo_f_09.png"
+  },
+  "212e5eb3-0013-416a-bd8a-e66f63d3d8a0": {
+    "asset": 1586372250371,
+    "meta": 1586410613229,
+    "relativePath": "Texture2D/meisyo_f_11.png"
+  },
+  "05f03175-ac92-4e81-942d-ec90f8a00f42": {
+    "asset": 1586372251782,
+    "meta": 1586410613231,
+    "relativePath": "Texture2D/meisyo_f_12.png"
+  },
+  "f9566a86-0dec-4675-b111-237bd0a202e6": {
+    "asset": 1586372251745,
+    "meta": 1586410613243,
+    "relativePath": "Texture2D/meisyo_f_13.png"
+  },
+  "3f60ef44-2db3-42fc-bd0d-34a1edca87db": {
+    "asset": 1586372252804,
+    "meta": 1586410613245,
+    "relativePath": "Texture2D/meisyo_f_14.png"
+  },
+  "21829998-f6e9-4e89-9a60-9795a39d0507": {
+    "asset": 1586372254351,
+    "meta": 1586410613256,
+    "relativePath": "Texture2D/meisyo_k_02.png"
+  },
+  "04acf4e1-4e31-4a01-bc8f-7849a2337e7c": {
+    "asset": 1586372252714,
+    "meta": 1586410613257,
+    "relativePath": "Texture2D/meisyo_k_01.png"
+  },
+  "900ae632-99fa-4daf-b51d-0b355fbb21ba": {
+    "asset": 1586372255702,
+    "meta": 1586410613272,
+    "relativePath": "Texture2D/meisyo_k_04.png"
+  },
+  "89bf6aa9-7a66-4549-8618-cfa71bd4e427": {
+    "asset": 1586372257239,
+    "meta": 1586410613273,
+    "relativePath": "Texture2D/meisyo_k_03.png"
+  },
+  "cdfdd801-93de-40e2-820f-a18728bafcc5": {
+    "asset": 1586372258533,
+    "meta": 1586410613284,
+    "relativePath": "Texture2D/meisyo_k_06.png"
+  },
+  "d5015d95-20bb-4bcf-bbbf-8d65341fca41": {
+    "asset": 1586372257112,
+    "meta": 1586410613285,
+    "relativePath": "Texture2D/meisyo_k_05.png"
+  },
+  "164961e3-eaf7-4f60-bdd0-558139ce7752": {
+    "asset": 1586372259450,
+    "meta": 1586410613297,
+    "relativePath": "Texture2D/meisyo_k_08.png"
+  },
+  "c7050e3e-7089-45dd-83d7-7ff615a6c49c": {
+    "asset": 1586372258712,
+    "meta": 1586410613298,
+    "relativePath": "Texture2D/meisyo_k_07.png"
+  },
+  "8ace4c33-cae3-46eb-99d6-fb29fe390402": {
+    "asset": 1586372260880,
+    "meta": 1586410613309,
+    "relativePath": "Texture2D/meisyo_k_10.png"
+  },
+  "9742bf9a-a5fd-42d7-9b82-cf6871860df9": {
+    "asset": 1586372259546,
+    "meta": 1586410613311,
+    "relativePath": "Texture2D/meisyo_k_09.png"
+  },
+  "5f1d9db3-4af5-4850-9ee8-17a33a36bbbe": {
+    "asset": 1586372262261,
+    "meta": 1586410613323,
+    "relativePath": "Texture2D/meisyo_n_02.png"
+  },
+  "5ff40f76-8312-4f18-af26-5ef66464e9d6": {
+    "asset": 1586372261077,
+    "meta": 1586410613325,
+    "relativePath": "Texture2D/meisyo_n_01.png"
+  },
+  "3026563e-0dc7-4002-895f-711c02aa3862": {
+    "asset": 1586372262039,
+    "meta": 1586410613338,
+    "relativePath": "Texture2D/meisyo_n_03.png"
+  },
+  "5e55a103-89b1-4851-853c-615692564e7b": {
+    "asset": 1586372262861,
+    "meta": 1586410613339,
+    "relativePath": "Texture2D/meisyo_n_04.png"
+  },
+  "5840f362-a3b6-44c6-88c3-216220cb6980": {
+    "asset": 1586372263859,
+    "meta": 1586410613348,
+    "relativePath": "Texture2D/meisyo_n_06.png"
+  },
+  "aa7d2f34-c83e-4808-8826-4e61995d2833": {
+    "asset": 1586372263775,
+    "meta": 1586410613349,
+    "relativePath": "Texture2D/meisyo_n_05.png"
+  },
+  "31fdc030-4984-473d-9c63-7655ec67f8e3": {
+    "asset": 1586372264815,
+    "meta": 1586410613362,
+    "relativePath": "Texture2D/meisyo_n_08.png"
+  },
+  "5d376518-69f3-43a0-a19d-eca85237f2f3": {
+    "asset": 1586372264847,
+    "meta": 1586410613364,
+    "relativePath": "Texture2D/meisyo_n_07.png"
+  },
+  "531631c5-ba69-47f8-b694-9f7893625f49": {
+    "asset": 1586372266771,
+    "meta": 1586410613375,
+    "relativePath": "Texture2D/meisyo_n_10.png"
+  },
+  "ae8ddfc5-1daf-4111-8095-78a9c2a3a101": {
+    "asset": 1586372266621,
+    "meta": 1586410613377,
+    "relativePath": "Texture2D/meisyo_n_09.png"
+  },
+  "50f2f456-5df4-42d1-b110-0f42bd25ea18": {
+    "asset": 1586372268103,
+    "meta": 1586410613388,
+    "relativePath": "Texture2D/meisyo_t_02.png"
+  },
+  "495d44a3-28eb-41c3-8db3-7a0940398150": {
+    "asset": 1586372267573,
+    "meta": 1586410613392,
+    "relativePath": "Texture2D/meisyo_t_01.png"
+  },
+  "58a37afa-916d-4adb-a39b-6475026101cb": {
+    "asset": 1586372269174,
+    "meta": 1586410613398,
+    "relativePath": "Texture2D/meisyo_t_03.png"
+  },
+  "f34b42aa-cd6b-4129-84c3-2e17a50981d9": {
+    "asset": 1586372269530,
+    "meta": 1586410613403,
+    "relativePath": "Texture2D/meisyo_t_04.png"
+  },
+  "3e97c3ba-146e-46da-acd8-cd3979fb6532": {
+    "asset": 1586372270038,
+    "meta": 1586410613410,
+    "relativePath": "Texture2D/meisyo_t_05.png"
+  },
+  "203485fc-948e-4c90-b1b1-b5ff53a56dd0": {
+    "asset": 1586372270519,
+    "meta": 1586410613414,
+    "relativePath": "Texture2D/meisyo_t_06.png"
+  },
+  "dad464f1-ffb2-4c61-879f-12f877586053": {
+    "asset": 1586372271074,
+    "meta": 1586410613428,
+    "relativePath": "Texture2D/meisyo_t_07.png"
+  },
+  "f4566165-4273-4cf8-a8a6-36b1ed0cb53c": {
+    "asset": 1586372271912,
+    "meta": 1586410613429,
+    "relativePath": "Texture2D/meisyo_t_08.png"
+  },
+  "263b792e-b80c-437f-b50c-19814b5cfdb6": {
+    "asset": 1586372273483,
+    "meta": 1586410613441,
+    "relativePath": "Texture2D/meisyo_t_10.png"
+  },
+  "14c56c6d-7418-426d-b636-d2d5897bcc9b": {
+    "asset": 1586372272175,
+    "meta": 1586410613443,
+    "relativePath": "Texture2D/meisyo_t_09.png"
+  },
+  "c3815958-b926-44b6-8ede-9a13e2785404": {
+    "asset": 1586372274386,
+    "meta": 1586410613454,
+    "relativePath": "Texture2D/mori_01.png"
+  },
+  "54a51401-e5db-45e1-8711-6724718cde10": {
+    "asset": 1586372273185,
+    "meta": 1586410613456,
+    "relativePath": "Texture2D/mitsubati_niwa.png"
+  },
+  "0156b1bf-0f32-45d4-ab1d-99f9737e31d4": {
+    "asset": 1586372274488,
+    "meta": 1586410613467,
+    "relativePath": "Texture2D/motimono.png"
+  },
+  "bd3354d8-787f-4b03-8409-2380c5d8e231": {
+    "asset": 1586372275831,
+    "meta": 1586410613468,
+    "relativePath": "Texture2D/motimono_tuuti.png"
+  },
+  "089c7f5d-89c8-4061-a823-279ea031a263": {
+    "asset": 1586372276938,
+    "meta": 1586410613480,
+    "relativePath": "Texture2D/no.png"
+  },
+  "0bc5f19f-1933-49ab-8188-2d75e89654b4": {
+    "asset": 1586372275506,
+    "meta": 1586410613484,
+    "relativePath": "Texture2D/nekko_01.png"
+  },
+  "56be0f9e-ba05-4111-b80c-1a10d4a5d964": {
+    "asset": 1586372277213,
+    "meta": 1586410613490,
+    "relativePath": "Texture2D/off_off.png"
+  },
+  "3fe53a10-fe72-44ee-b48a-e72e18d650bd": {
+    "asset": 1586372278829,
+    "meta": 1586410613494,
+    "relativePath": "Texture2D/off_on.png"
+  },
+  "d51cdbb5-07e8-4199-b4cc-f67366ea48b7": {
+    "asset": 1586372278698,
+    "meta": 1586410613499,
+    "relativePath": "Texture2D/ok.png"
+  },
+  "a5648665-20bc-4387-a15d-2608a4436061": {
+    "asset": 1586372280133,
+    "meta": 1586410613503,
+    "relativePath": "Texture2D/omiyage.png"
+  },
+  "b84ed1f0-add2-4c5c-becd-a79238fc61e1": {
+    "asset": 1586372279739,
+    "meta": 1586410613510,
+    "relativePath": "Texture2D/on_off.png"
+  },
+  "895b821b-7d94-4250-834d-57da79f50bf8": {
+    "asset": 1586372281230,
+    "meta": 1586410613515,
+    "relativePath": "Texture2D/on_on.png"
+  },
+  "d723f4a7-e82e-493e-9c81-b27019bd85ab": {
+    "asset": 1586372281089,
+    "meta": 1586410613522,
+    "relativePath": "Texture2D/otiba_01.png"
+  },
+  "17fe1627-577c-41cf-9f9f-0949289de2d3": {
+    "asset": 1586372282481,
+    "meta": 1586410613526,
+    "relativePath": "Texture2D/otiba_02.png"
+  },
+  "e982b170-3704-48e5-ae25-a671f45b41b0": {
+    "asset": 1586372282771,
+    "meta": 1586410613537,
+    "relativePath": "Texture2D/otiba_03.png"
+  },
+  "29f42c23-f7df-4a8d-b1ff-7f772f875653": {
+    "asset": 1586372283402,
+    "meta": 1586410613539,
+    "relativePath": "Texture2D/otiba_04.png"
+  },
+  "863f58bc-1c94-43a4-ad5d-9bd7ef4d1bc6": {
+    "asset": 1586372284237,
+    "meta": 1586410613547,
+    "relativePath": "Texture2D/otiba_05.png"
+  },
+  "e5bac93a-f6f9-4f0e-8cef-fbd3bbed122e": {
+    "asset": 1586372284958,
+    "meta": 1586410613548,
+    "relativePath": "Texture2D/otiba_06.png"
+  },
+  "ccf82d17-cab1-4583-b867-496792a52145": {
+    "asset": 1586372285903,
+    "meta": 1586410613559,
+    "relativePath": "Texture2D/otiba_07.png"
+  },
+  "9f0c4d43-6c64-487f-b6d4-c36cdb3bd317": {
+    "asset": 1586372286177,
+    "meta": 1586410613560,
+    "relativePath": "Texture2D/otiba_08.png"
+  },
+  "73d7daa4-bddb-4081-ab35-a95cb83b63ca": {
+    "asset": 1586372287816,
+    "meta": 1586410613571,
+    "relativePath": "Texture2D/otiba_09.png"
+  },
+  "b34ded98-df15-4f9c-b16c-02b01500c37c": {
+    "asset": 1586372287033,
+    "meta": 1586410613573,
+    "relativePath": "Texture2D/otiba_10.png"
+  },
+  "62ecdb41-0ad8-4efb-87b8-dafa3918e2f1": {
+    "asset": 1586372288562,
+    "meta": 1586410613585,
+    "relativePath": "Texture2D/otiba_11.png"
+  },
+  "bf7e88e3-32b1-4357-b718-fda85721d573": {
+    "asset": 1586372288673,
+    "meta": 1586410613586,
+    "relativePath": "Texture2D/otiba_12.png"
+  },
+  "427e2d84-00de-4364-b341-028b0dfde670": {
+    "asset": 1586372289451,
+    "meta": 1586410613598,
+    "relativePath": "Texture2D/otiba_13.png"
+  },
+  "bb401ec8-05e6-44d4-8d01-585407b61a35": {
+    "asset": 1586372289583,
+    "meta": 1586410613598,
+    "relativePath": "Texture2D/otiba_14.png"
+  },
+  "acd78ac7-245e-44a1-ac2b-be8469c46c7a": {
+    "asset": 1586372290501,
+    "meta": 1586410613610,
+    "relativePath": "Texture2D/otiba_16.png"
+  },
+  "6e588161-3d6e-4824-99ad-e955c964d2df": {
+    "asset": 1586372291295,
+    "meta": 1586410613611,
+    "relativePath": "Texture2D/otiba_15.png"
+  },
+  "9fc58116-b981-4a6f-b194-f931935b3eee": {
+    "asset": 1586372292242,
+    "meta": 1586410613621,
+    "relativePath": "Texture2D/otiba_18.png"
+  },
+  "38cd5f8a-93a5-41cd-9a83-e3202a269955": {
+    "asset": 1586372292112,
+    "meta": 1586410613622,
+    "relativePath": "Texture2D/otiba_17.png"
+  },
+  "ee25c019-8364-48dd-bcec-5e1f7836fb83": {
+    "asset": 1586372293993,
+    "meta": 1586410613632,
+    "relativePath": "Texture2D/page_01.png"
+  },
+  "366c2223-587b-413c-a235-e951f3c20732": {
+    "asset": 1586372293464,
+    "meta": 1586410613633,
+    "relativePath": "Texture2D/page_02.png"
+  },
+  "60a8ef12-03cb-4f88-819c-976657cda552": {
+    "asset": 1586372295521,
+    "meta": 1586410613642,
+    "relativePath": "Texture2D/question.png"
+  },
+  "7fb0d085-c592-4473-98f4-ea9c0843804f": {
+    "asset": 1586372295083,
+    "meta": 1586410613646,
+    "relativePath": "Texture2D/photo_frame.png"
+  },
+  "d05e47f2-e28d-4dbf-ba85-2a83ed5d655a": {
+    "asset": 1586372296622,
+    "meta": 1586410613651,
+    "relativePath": "Texture2D/raffle_84_88.png"
+  },
+  "dc83e209-2e2c-4eae-a1f2-5828608ac82c": {
+    "asset": 1586372296710,
+    "meta": 1586410613659,
+    "relativePath": "Texture2D/sagyou_ie.png"
+  },
+  "878c5253-4b70-4064-8587-f08c9dfc84cc": {
+    "asset": 1586372299458,
+    "meta": 1586410613663,
+    "relativePath": "Texture2D/saku_01.png"
+  },
+  "663e26f3-f5bf-42d0-80cd-606471eb7be6": {
+    "asset": 1586372297836,
+    "meta": 1586410613670,
+    "relativePath": "Texture2D/saku_02.png"
+  },
+  "65963029-3cc6-4123-b0e9-f8cd27d1c22a": {
+    "asset": 1586372299365,
+    "meta": 1586410613675,
+    "relativePath": "Texture2D/saku_03.png"
+  },
+  "cd9a0712-7a68-4e5c-807c-e39fff6189d9": {
+    "asset": 1586372300364,
+    "meta": 1586410613679,
+    "relativePath": "Texture2D/scroll_l.png"
+  },
+  "e0f67a13-9b20-45eb-b0c1-59b32a46f05e": {
+    "asset": 1586372301015,
+    "meta": 1586410613684,
+    "relativePath": "Texture2D/scroll_r.png"
+  },
+  "f3a76cb5-9be1-466a-a470-2d8a213302a0": {
+    "asset": 1586372303417,
+    "meta": 1586410613688,
+    "relativePath": "Texture2D/se_off.png"
+  },
+  "acee893b-043c-464e-904d-5ad12643b83d": {
+    "asset": 1586372304631,
+    "meta": 1586410613693,
+    "relativePath": "Texture2D/se_on.png"
+  },
+  "bb359b4c-d026-4d11-8718-60274349079c": {
+    "asset": 1586372301829,
+    "meta": 1586410613696,
+    "relativePath": "Texture2D/se.png"
+  },
+  "239959c5-7c24-4143-b6e1-c93508e99309": {
+    "asset": 1586372302451,
+    "meta": 1586410613704,
+    "relativePath": "Texture2D/sentaku.png"
+  },
+  "d54e67ea-5cb8-4274-854f-4d5409586939": {
+    "asset": 1586372303238,
+    "meta": 1586410613705,
+    "relativePath": "Texture2D/settei.png"
+  },
+  "7cb470ae-c210-43e0-b94f-aa47c8f228c4": {
+    "asset": 1586372304317,
+    "meta": 1586410613716,
+    "relativePath": "Texture2D/share_android.png"
+  },
+  "44958f85-c45c-4e9f-9ea7-81dd830613c3": {
+    "asset": 1586372305777,
+    "meta": 1586410613717,
+    "relativePath": "Texture2D/share_ios.png"
+  },
+  "ed347561-38d5-4841-90ec-d92febe5acbf": {
+    "asset": 1586372306072,
+    "meta": 1586410613730,
+    "relativePath": "Texture2D/shop_kago_b.png"
+  },
+  "32e03b47-5fc1-4ca1-be9c-770761ab127e": {
+    "asset": 1586372306841,
+    "meta": 1586410613730,
+    "relativePath": "Texture2D/shop_kago_g.png"
+  },
+  "33040b0a-f2c8-41d1-a11b-6de39d01bc75": {
+    "asset": 1586372308515,
+    "meta": 1586410613742,
+    "relativePath": "Texture2D/shop_kago_y.png"
+  },
+  "7e21d328-a358-47a5-a985-9e8facd27282": {
+    "asset": 1586372307718,
+    "meta": 1586410613743,
+    "relativePath": "Texture2D/shop_kago_p.png"
+  },
+  "2e095f11-3363-470b-a7e3-06a5e6d4b475": {
+    "asset": 1586372309995,
+    "meta": 1586410613750,
+    "relativePath": "Texture2D/shop_kounyuu.png"
+  },
+  "b29763c7-be21-4cf8-8d9c-bebc6e905dab": {
+    "asset": 1586372309456,
+    "meta": 1586410613752,
+    "relativePath": "Texture2D/shop_koumoku.png"
+  },
+  "6a0eb814-c758-4705-b09d-eeca70996a2e": {
+    "asset": 1586372310475,
+    "meta": 1586410613761,
+    "relativePath": "Texture2D/shop_setumei.png"
+  },
+  "226bb031-7b64-4eff-a62d-ee0907f1d1d0": {
+    "asset": 1586372311587,
+    "meta": 1586410613773,
+    "relativePath": "Texture2D/shop_tana.png"
+  },
+  "ddf1c8c0-c6dc-4c80-ae51-8a5cb2a88407": {
+    "asset": 1586372311625,
+    "meta": 1586410613777,
+    "relativePath": "Texture2D/shop_tenpo_sita.png"
+  },
+  "89de248f-da32-4fc6-bc97-48e084f332f2": {
+    "asset": 1586372313010,
+    "meta": 1586410613786,
+    "relativePath": "Texture2D/shop_tenpo_ue.png"
+  },
+  "180328fc-1694-47d7-ab99-42efb9faf0be": {
+    "asset": 1586372312519,
+    "meta": 1586410613787,
+    "relativePath": "Texture2D/shop_urikire.png"
+  },
+  "4ea9a19a-9061-4092-8870-198949f5b048": {
+    "asset": 1586372314530,
+    "meta": 1586410613794,
+    "relativePath": "Texture2D/slider thumb active.png"
+  },
+  "fc46f1d6-317e-4d2d-ac60-8f710acd5586": {
+    "asset": 1586372313684,
+    "meta": 1586410613801,
+    "relativePath": "Texture2D/sitaku_ie.png"
+  },
+  "6dfa1c94-99e0-46bf-a313-1737fe02fa90": {
+    "asset": 1586372314846,
+    "meta": 1586410613802,
+    "relativePath": "Texture2D/slider thumb.png"
+  },
+  "ad85de12-2fcb-4de4-b417-d867742a1f74": {
+    "asset": 1586372316413,
+    "meta": 1586410613812,
+    "relativePath": "Texture2D/slider_b.png"
+  },
+  "4e1c8fc9-ed30-43ea-ad0f-7d26545858d4": {
+    "asset": 1586372315767,
+    "meta": 1586410613813,
+    "relativePath": "Texture2D/slider_a.png"
+  },
+  "26fc6a9f-89dc-4949-be17-f1b0ff4d340b": {
+    "asset": 1586372315443,
+    "meta": 1586410613820,
+    "relativePath": "Texture2D/slidert humb hover.png"
+  },
+  "2814a2bd-7496-4043-b6cf-81813585054f": {
+    "asset": 1586372317581,
+    "meta": 1586410613823,
+    "relativePath": "Texture2D/Soft.png"
+  },
+  "f35d8e47-5883-4b59-ae42-c5c3724921d8": {
+    "asset": 1586372319088,
+    "meta": 1586410613838,
+    "relativePath": "Texture2D/sora_02.png"
+  },
+  "28f36f34-8cdb-4cd3-9d3e-fa0b17edd16d": {
+    "asset": 1586372317812,
+    "meta": 1586410613842,
+    "relativePath": "Texture2D/sora_01.png"
+  },
+  "6d56cfef-5a64-4c92-b038-030c103818f4": {
+    "asset": 1586372319931,
+    "meta": 1586410613855,
+    "relativePath": "Texture2D/sora_04.png"
+  },
+  "edb14339-9072-469f-83e3-306458fcc20c": {
+    "asset": 1586372319432,
+    "meta": 1586410613858,
+    "relativePath": "Texture2D/sora_03.png"
+  },
+  "619b0fef-2fe7-4cd2-bb1c-0a00f8bfd1e3": {
+    "asset": 1586372321345,
+    "meta": 1586410613871,
+    "relativePath": "Texture2D/sora_06.png"
+  },
+  "9fa03f53-6316-416a-b3ca-df1ba82ca4b0": {
+    "asset": 1586372320488,
+    "meta": 1586410613874,
+    "relativePath": "Texture2D/sora_05.png"
+  },
+  "872c84cc-86b1-4e93-9eec-efb1e5f89ac1": {
+    "asset": 1586372322413,
+    "meta": 1586410613887,
+    "relativePath": "Texture2D/sora_08.png"
+  },
+  "1f7957dd-2571-4dfc-b624-b46d1e97773d": {
+    "asset": 1586372321663,
+    "meta": 1586410613890,
+    "relativePath": "Texture2D/sora_07.png"
+  },
+  "6ff492bd-d710-4769-ac4e-c391dcd61c61": {
+    "asset": 1586372333519,
+    "meta": 1586410613904,
+    "relativePath": "Texture2D/sora_10.png"
+  },
+  "d0c223bc-9a8d-45e9-9e8f-4f889d9d2961": {
+    "asset": 1586372335133,
+    "meta": 1586410613909,
+    "relativePath": "Texture2D/sora_09.png"
+  },
+  "1125e97f-b6a7-4c9a-b283-748d8e5928f0": {
+    "asset": 1586372337127,
+    "meta": 1586410613922,
+    "relativePath": "Texture2D/sora_12.png"
+  },
+  "56118079-4374-4b14-9fca-6ef52e785595": {
+    "asset": 1586372335096,
+    "meta": 1586410613925,
+    "relativePath": "Texture2D/sora_11.png"
+  },
+  "1d0c652d-bcac-4d97-bd82-89054c23e26e": {
+    "asset": 1586372337036,
+    "meta": 1586410613930,
+    "relativePath": "Texture2D/sousin.png"
+  },
+  "288fd4e8-e0b4-431d-8b75-89bc346a8175": {
+    "asset": 1586372337892,
+    "meta": 1586410613931,
+    "relativePath": "Texture2D/Square.png"
+  },
+  "70d0bd18-e20d-4f41-83b3-f7c36b9ba5f2": {
+    "asset": 1586372338039,
+    "meta": 1586410613940,
+    "relativePath": "Texture2D/start.png"
+  },
+  "eab6aa8a-4f80-4ee4-b27f-3428e08883d3": {
+    "asset": 1586372338756,
+    "meta": 1586410613941,
+    "relativePath": "Texture2D/sumi.png"
+  },
+  "d4e87a1d-ee69-46a6-b1ee-497f9bf82283": {
+    "asset": 1586372340120,
+    "meta": 1586410613949,
+    "relativePath": "Texture2D/syougou.png"
+  },
+  "0c70852b-06a6-4364-b8f7-423eee0373fc": {
+    "asset": 1586372339589,
+    "meta": 1586410613957,
+    "relativePath": "Texture2D/syokuzi_ie.png"
+  },
+  "24b28de5-e887-41b9-b642-fe4508830495": {
+    "asset": 1586372341092,
+    "meta": 1586410613959,
+    "relativePath": "Texture2D/sys_clover_window.png"
+  },
+  "8aee3797-173b-41bb-ae87-28854b6b0c78": {
+    "asset": 1586372341101,
+    "meta": 1586410613967,
+    "relativePath": "Texture2D/sys_num_20_29.png"
+  },
+  "62361688-70b1-41ab-b7f7-e23a3366eb74": {
+    "asset": 1586372341967,
+    "meta": 1586410613968,
+    "relativePath": "Texture2D/sys_num_24_36.png"
+  },
+  "a95fd9c0-b1e8-4170-ba55-a81b584cbd91": {
+    "asset": 1586372343239,
+    "meta": 1586410613979,
+    "relativePath": "Texture2D/tab_dougu_on.png"
+  },
+  "9fba43bd-7191-4d82-a104-b5f68ba717ec": {
+    "asset": 1586372342663,
+    "meta": 1586410613980,
+    "relativePath": "Texture2D/tab_dougu_off.png"
+  },
+  "9069851f-e0d4-4bc7-9c17-490e202a5ff2": {
+    "asset": 1586372344314,
+    "meta": 1586410613990,
+    "relativePath": "Texture2D/tab_meibutsu_on.png"
+  },
+  "42569bcc-34d2-49e3-8917-ed65163064e9": {
+    "asset": 1586372343583,
+    "meta": 1586410613991,
+    "relativePath": "Texture2D/tab_meibutsu_off.png"
+  },
+  "aaf5fe9f-b54b-4e1b-83e1-39469c315789": {
+    "asset": 1586372344633,
+    "meta": 1586410614000,
+    "relativePath": "Texture2D/tab_obentou_off.png"
+  },
+  "b177214c-3ca0-4471-b4d5-bf80db12fc1c": {
+    "asset": 1586372345838,
+    "meta": 1586410614001,
+    "relativePath": "Texture2D/tab_obentou_on.png"
+  },
+  "8aa98375-8630-476e-938b-0595e15644b0": {
+    "asset": 1586372346191,
+    "meta": 1586410614010,
+    "relativePath": "Texture2D/tab_omamori_off.png"
+  },
+  "19556a87-3da0-4265-a5ca-bb2e0d38a150": {
+    "asset": 1586372346965,
+    "meta": 1586410614011,
+    "relativePath": "Texture2D/tab_omamori_on.png"
+  },
+  "54a40596-fdd6-4717-a2e7-4cd996058424": {
+    "asset": 1586372347578,
+    "meta": 1586410614019,
+    "relativePath": "Texture2D/textfield hover.png"
+  },
+  "56f7e3a6-a46c-4078-9ebd-ea0090ecc412": {
+    "asset": 1586372347952,
+    "meta": 1586410614020,
+    "relativePath": "Texture2D/textfield on.png"
+  },
+  "ba95d0c1-9ad6-485b-ba0b-7522cc231cce": {
+    "asset": 1586372348402,
+    "meta": 1586410614027,
+    "relativePath": "Texture2D/textfield.png"
+  },
+  "18e0cd03-d604-4081-850a-17718abe1bc3": {
+    "asset": 1586372349392,
+    "meta": 1586410614033,
+    "relativePath": "Texture2D/title.png"
+  },
+  "5f449598-ea75-4cb1-957d-fca8718a76e9": {
+    "asset": 1586372349365,
+    "meta": 1586410614035,
+    "relativePath": "Texture2D/toggle active.png"
+  },
+  "545cea84-9c32-421a-9920-4e84c64c0e5c": {
+    "asset": 1586372350214,
+    "meta": 1586410614042,
+    "relativePath": "Texture2D/toggle hover.png"
+  },
+  "46d246fb-c44e-42f5-8c15-29331f8c9604": {
+    "asset": 1586372350363,
+    "meta": 1586410614044,
+    "relativePath": "Texture2D/toggle on active.png"
+  },
+  "ddae5475-1be7-457b-b22a-833b00b8671d": {
+    "asset": 1586372351654,
+    "meta": 1586410614049,
+    "relativePath": "Texture2D/toggle on hover.png"
+  },
+  "566a3441-e72f-4ac3-873a-d1a229cabeb6": {
+    "asset": 1586372351753,
+    "meta": 1586410614054,
+    "relativePath": "Texture2D/toggle on.png"
+  },
+  "ba65f38b-c11a-4bed-bee4-57ddf4f3bd5c": {
+    "asset": 1586372353185,
+    "meta": 1586410614058,
+    "relativePath": "Texture2D/toggle.png"
+  },
+  "06b84a54-cb25-48b6-bebc-8d54a253900e": {
+    "asset": 1586372353947,
+    "meta": 1586410614072,
+    "relativePath": "Texture2D/tokusyu_01.png"
+  },
+  "2782709c-8b44-498c-a5b0-424b56baf3e9": {
+    "asset": 1586372354478,
+    "meta": 1586410614075,
+    "relativePath": "Texture2D/tokusyu_02.png"
+  },
+  "b3f507ed-d7ac-471f-9ffd-c19996f0c36e": {
+    "asset": 1586372357143,
+    "meta": 1586410614089,
+    "relativePath": "Texture2D/tokusyu_05_f.png"
+  },
+  "6eba0796-3d4c-4caa-b9f3-997df93b5eae": {
+    "asset": 1586372355684,
+    "meta": 1586410614091,
+    "relativePath": "Texture2D/tokusyu_03.png"
+  },
+  "b96b697c-6a5e-4d42-8a08-2d90e2418762": {
+    "asset": 1586372358374,
+    "meta": 1586410614102,
+    "relativePath": "Texture2D/tokusyu_05_k.png"
+  },
+  "e93876a6-654b-4c9f-96b7-d905a47b3068": {
+    "asset": 1586372358751,
+    "meta": 1586410614104,
+    "relativePath": "Texture2D/tokusyu_05_n.png"
+  },
+  "5c21f502-2f03-4405-aba0-f790e9aa4137": {
+    "asset": 1586372359513,
+    "meta": 1586410614116,
+    "relativePath": "Texture2D/tokusyu_05_t.png"
+  },
+  "155e639f-1a0e-4a7e-a378-8c81b990c87c": {
+    "asset": 1586372355585,
+    "meta": 1586410614118,
+    "relativePath": "Texture2D/tokusyu_05.png"
+  },
+  "f11c6ab0-82c2-4417-9551-da3ba6edb2a6": {
+    "asset": 1586372363253,
+    "meta": 1586410614131,
+    "relativePath": "Texture2D/tokusyu_06.png"
+  },
+  "54b82bee-411a-4df6-815b-2a8b2c87b715": {
+    "asset": 1586372361208,
+    "meta": 1586410614133,
+    "relativePath": "Texture2D/tokusyu_07.png"
+  },
+  "100e987f-d468-4911-90bb-5385a1562085": {
+    "asset": 1586372363210,
+    "meta": 1586410614146,
+    "relativePath": "Texture2D/tokusyu_08.png"
+  },
+  "85371ba2-0e9f-4a96-9b33-d1c3d62a0eb6": {
+    "asset": 1586372374132,
+    "meta": 1586410614146,
+    "relativePath": "Texture2D/tokusyu_09.png"
+  },
+  "7d4af753-fee1-4762-bf2c-ac39a6c9d213": {
+    "asset": 1586372375794,
+    "meta": 1586410614162,
+    "relativePath": "Texture2D/tokusyu_11.png"
+  },
+  "3547d388-d1b4-4990-a5f2-cd34e341cbce": {
+    "asset": 1586372374141,
+    "meta": 1586410614163,
+    "relativePath": "Texture2D/tokusyu_10.png"
+  },
+  "db3757fc-b256-4ff7-ad1d-ef522198c411": {
+    "asset": 1586372375248,
+    "meta": 1586410614176,
+    "relativePath": "Texture2D/tokusyu_12.png"
+  },
+  "3e6c3037-5386-4001-bfe5-677ee3b3be9f": {
+    "asset": 1586372377621,
+    "meta": 1586410614177,
+    "relativePath": "Texture2D/tokusyu_13.png"
+  },
+  "fe693f3d-ae44-4d46-b4bd-0f33145530bc": {
+    "asset": 1586372379978,
+    "meta": 1586410614191,
+    "relativePath": "Texture2D/tokusyu_15.png"
+  },
+  "2b88a00c-0f36-4927-bc7c-478e3dabdaef": {
+    "asset": 1586372377886,
+    "meta": 1586410614191,
+    "relativePath": "Texture2D/tokusyu_14.png"
+  },
+  "8ac61c7b-1376-407b-a5e2-0cd0f4350ca2": {
+    "asset": 1586372381366,
+    "meta": 1586410614202,
+    "relativePath": "Texture2D/tokusyu_17_f.png"
+  },
+  "a487cccc-4f38-4251-bd2a-242b9bd2e925": {
+    "asset": 1586372379766,
+    "meta": 1586410614204,
+    "relativePath": "Texture2D/tokusyu_16.png"
+  },
+  "983ebed9-ac49-4140-aacd-9e73d7086096": {
+    "asset": 1586372382984,
+    "meta": 1586410614212,
+    "relativePath": "Texture2D/tokusyu_17_k.png"
+  },
+  "cb8e7fd1-7220-47c6-8434-3b8d55d1b274": {
+    "asset": 1586372383276,
+    "meta": 1586410614215,
+    "relativePath": "Texture2D/tokusyu_17_n.png"
+  },
+  "51f5e927-800f-4f6e-8b20-13225e48d4cc": {
+    "asset": 1586372384652,
+    "meta": 1586410614224,
+    "relativePath": "Texture2D/tokusyu_17_t.png"
+  },
+  "b5a59237-83e8-4e87-b15b-90c78e5ba7f6": {
+    "asset": 1586372381863,
+    "meta": 1586410614231,
+    "relativePath": "Texture2D/tokusyu_17.png"
+  },
+  "3bb1d3ed-99a2-4fd8-a5e4-0e85a807c2d5": {
+    "asset": 1586372387476,
+    "meta": 1586410614240,
+    "relativePath": "Texture2D/tokusyu_18.png"
+  },
+  "a4d75abe-49f7-43e0-87ad-90bb07e95ad1": {
+    "asset": 1586372387446,
+    "meta": 1586410614244,
+    "relativePath": "Texture2D/tokusyu_19_k.png"
+  },
+  "e909a121-5b90-47c4-818e-9dd9b160066e": {
+    "asset": 1586372388943,
+    "meta": 1586410614252,
+    "relativePath": "Texture2D/tokusyu_19_n.png"
+  },
+  "2636f7bf-d866-4d1f-81de-fa9db0e844d2": {
+    "asset": 1586372388614,
+    "meta": 1586410614256,
+    "relativePath": "Texture2D/tokusyu_19_t.png"
+  },
+  "b4216386-33b3-47df-b25e-2511b3a93074": {
+    "asset": 1586372385877,
+    "meta": 1586410614266,
+    "relativePath": "Texture2D/tokusyu_19.png"
+  },
+  "f32c84dc-b54f-49fb-b2e5-e0564d6fdfce": {
+    "asset": 1586372390028,
+    "meta": 1586410614271,
+    "relativePath": "Texture2D/tokusyu_20.png"
+  },
+  "fbe7f4c5-b562-4536-8c9f-cef12a2ea89f": {
+    "asset": 1586372391351,
+    "meta": 1586410614279,
+    "relativePath": "Texture2D/torihikiho_button.png"
+  },
+  "1af5b33c-6c83-4938-83d1-c9fde9d01d82": {
+    "asset": 1586372392334,
+    "meta": 1586410614281,
+    "relativePath": "Texture2D/tokusyu_21.png"
+  },
+  "225bbd21-e0a7-46fe-a854-594a119ac096": {
+    "asset": 1586372393233,
+    "meta": 1586410614290,
+    "relativePath": "Texture2D/tsukue_frame_01.png"
+  },
+  "162949f2-8bfc-46ef-a00a-581a64389a16": {
+    "asset": 1586372394739,
+    "meta": 1586410614291,
+    "relativePath": "Texture2D/tsukue_frame_02.png"
+  },
+  "8c8df72f-b7a8-444d-8d8f-ab2092b45f56": {
+    "asset": 1586372394158,
+    "meta": 1586410614299,
+    "relativePath": "Texture2D/tsukue_frame_03.png"
+  },
+  "03ac6051-b162-4f45-9cbf-a4cd0055b6c9": {
+    "asset": 1586372392294,
+    "meta": 1586410614300,
+    "relativePath": "Texture2D/tsukue.png"
+  },
+  "b18bc64b-37c5-4722-b6b4-d5d3f0d11bd2": {
+    "asset": 1586372395716,
+    "meta": 1586410614309,
+    "relativePath": "Texture2D/tuuti.png"
+  },
+  "cb5c23e3-c959-458b-a0d7-8be596d96d14": {
+    "asset": 1586372396019,
+    "meta": 1586410614310,
+    "relativePath": "Texture2D/UIMask.png"
+  },
+  "0838b6f4-b4ee-45cc-b91c-8ec9c31e984b": {
+    "asset": 1586372397270,
+    "meta": 1586410614320,
+    "relativePath": "Texture2D/UISprite.png"
+  },
+  "b9ffee71-43b7-4c73-91ac-5fce87b32943": {
+    "asset": 1586372396994,
+    "meta": 1586410614329,
+    "relativePath": "Texture2D/umi_01.png"
+  },
+  "afd25c13-8c71-4a41-9e61-859ec48a0a74": {
+    "asset": 1586372398226,
+    "meta": 1586410614337,
+    "relativePath": "Texture2D/umi_02.png"
+  },
+  "d9f4e1f4-5356-42e3-9b12-7dd44895aeb7": {
+    "asset": 1586372398321,
+    "meta": 1586410614347,
+    "relativePath": "Texture2D/umi_03.png"
+  },
+  "f3079aea-5e99-4bf0-8031-3d1453ddb988": {
+    "asset": 1586372400629,
+    "meta": 1586410614354,
+    "relativePath": "Texture2D/umi_04.png"
+  },
+  "8c1a98dc-386d-425c-b306-b7df805d4ba4": {
+    "asset": 1586372399569,
+    "meta": 1586410614362,
+    "relativePath": "Texture2D/umi_05.png"
+  },
+  "6644a432-2d95-452b-80b5-107c0c98bc19": {
+    "asset": 1586372401155,
+    "meta": 1586410614370,
+    "relativePath": "Texture2D/umi_06.png"
+  },
+  "d228ee8e-ac59-42bc-bcf2-da75573bfc3b": {
+    "asset": 1586372403386,
+    "meta": 1586410614377,
+    "relativePath": "Texture2D/UnitySplash-cube.png"
+  },
+  "7890c295-8549-48db-ab9b-ccef24f5bc98": {
+    "asset": 1586372402294,
+    "meta": 1586410614379,
+    "relativePath": "Texture2D/UnitySplash-HolographicTrackingLoss.png"
+  },
+  "1338c64a-7086-4683-b5fe-a531ee397314": {
+    "asset": 1586372403694,
+    "meta": 1586410614386,
+    "relativePath": "Texture2D/UnityWatermark-beta.png"
+  },
+  "167a23d7-bf23-401e-b0e9-b4162318d0be": {
+    "asset": 1586372404301,
+    "meta": 1586410614387,
+    "relativePath": "Texture2D/UnityWatermark-dev.png"
+  },
+  "673caec8-2f03-4222-8e93-35ab6261f243": {
+    "asset": 1586372404680,
+    "meta": 1586410614394,
+    "relativePath": "Texture2D/UnityWatermark-edu.png"
+  },
+  "b8d4f26d-c4fc-4fae-a39a-ef4b8141bd6f": {
+    "asset": 1586372405772,
+    "meta": 1586410614396,
+    "relativePath": "Texture2D/UnityWatermark-proto.png"
+  },
+  "40fc67f4-3693-4120-9f12-167fbf3ec430": {
+    "asset": 1586372406047,
+    "meta": 1586410614405,
+    "relativePath": "Texture2D/UnityWatermark-small.png"
+  },
+  "ea05323f-8b4d-4df0-9747-61d0ff722718": {
+    "asset": 1586372407380,
+    "meta": 1586410614406,
+    "relativePath": "Texture2D/UnityWatermark-trial.png"
+  },
+  "f1295e58-8d93-4b38-8220-47ee1bb87c50": {
+    "asset": 1586372407053,
+    "meta": 1586410614415,
+    "relativePath": "Texture2D/UnityWatermarkPlugin-beta.png"
+  },
+  "3397aa9b-d73b-457f-b571-889d7bd27ed7": {
+    "asset": 1586372408055,
+    "meta": 1586410614416,
+    "relativePath": "Texture2D/urabeya.png"
+  },
+  "5a4991d4-32ae-41cc-a6eb-2cb8cbfe0537": {
+    "asset": 1586372408893,
+    "meta": 1586410614424,
+    "relativePath": "Texture2D/vertical scrollbar thumb.png"
+  },
+  "d7ccae88-7b6a-45df-895d-a83aeec04941": {
+    "asset": 1586372409794,
+    "meta": 1586410614425,
+    "relativePath": "Texture2D/vertical scrollbar.png"
+  },
+  "f2c951f6-1103-4eb9-9342-22e6cbed3546": {
+    "asset": 1586372409807,
+    "meta": 1586410614434,
+    "relativePath": "Texture2D/verticalslider.png"
+  },
+  "dd30bb61-b8d6-47e3-b8f7-dda103010ab8": {
+    "asset": 1586372410923,
+    "meta": 1586410614436,
+    "relativePath": "Texture2D/volume_cursor.png"
+  },
+  "425fdbc6-5da6-43e9-b0d3-a8c32e13ff84": {
+    "asset": 1586372411433,
+    "meta": 1586410614444,
+    "relativePath": "Texture2D/volume_off.png"
+  },
+  "310b5803-36a7-48ed-b5b4-d2b034fa61c5": {
+    "asset": 1586372412569,
+    "meta": 1586410614445,
+    "relativePath": "Texture2D/volume_on.png"
+  },
+  "c286827b-1252-408c-b523-1e732b3024c7": {
+    "asset": 1586372414092,
+    "meta": 1586410614454,
+    "relativePath": "Texture2D/window on.png"
+  },
+  "e4316475-5e97-4175-af4d-8e9ed16d630d": {
+    "asset": 1586372412956,
+    "meta": 1586410614455,
+    "relativePath": "Texture2D/WarningSign.png"
+  },
+  "1a72fb50-9d3f-48b5-a266-7fdc75687c47": {
+    "asset": 1586372414501,
+    "meta": 1586410614464,
+    "relativePath": "Texture2D/window.png"
+  },
+  "cd74f2f1-7812-4329-a458-a01d7e2e665e": {
+    "asset": 1586372415973,
+    "meta": 1586410614474,
+    "relativePath": "Texture2D/yama_01.png"
+  },
+  "7841b5b6-11a6-4c14-a555-d6cc49908160": {
+    "asset": 1586372416578,
+    "meta": 1586410614484,
+    "relativePath": "Texture2D/yama_02.png"
+  },
+  "bae7d3e7-7e6b-4fc2-94b4-006bf240f515": {
+    "asset": 1586372417481,
+    "meta": 1586410614493,
+    "relativePath": "Texture2D/yes.png"
+  },
+  "fbe46e72-2bc0-4d6b-adb2-f1cf37664af5": {
+    "asset": 1586372417340,
+    "meta": 1586410614494,
+    "relativePath": "Texture2D/yama_03.png"
+  },
+  "48f8f3e6-3f10-4733-aa6a-53195c1af10a": {
+    "asset": 1586372418392,
+    "meta": 1586410614503,
+    "relativePath": "Texture2D/yubisasi_a.png"
+  },
+  "50cf33bf-1f76-46de-a428-2431785b43ba": {
+    "asset": 1586372419126,
+    "meta": 1586410614504,
+    "relativePath": "Texture2D/yubisasi_b.png"
+  },
+  "9d2869a9-8c24-4864-949b-f009f68f5c47": {
+    "asset": 1586372420654,
+    "meta": 1586410614514,
+    "relativePath": "Texture2D/yubisasi_d.png"
+  },
+  "14e066d2-517b-4bdc-869d-d43447b0d334": {
+    "asset": 1586372419517,
+    "meta": 1586410614515,
+    "relativePath": "Texture2D/yubisasi_c.png"
+  },
+  "f7ae89d2-3d2b-4fb7-a47f-ca0725b29d25": {
+    "asset": 1586372421048,
+    "meta": 1586410614524,
+    "relativePath": "Texture2D/yuubin.png"
+  },
+  "ee349876-065b-4949-a5f5-0d28a34fcfd7": {
+    "asset": 1586372423843,
+    "meta": 1586410614537,
+    "relativePath": "Texture2D/zimen_01.png"
+  },
+  "50b94dd3-310b-431b-a55d-e1d2e7be268f": {
+    "asset": 1586372422543,
+    "meta": 1586410614541,
+    "relativePath": "Texture2D/zimen_02.png"
+  },
+  "4255e9b0-af4f-4d2d-9930-ec68320ee31c": {
+    "asset": 1586372424896,
+    "meta": 1586410614549,
+    "relativePath": "Texture2D/zukan_ippin_off.png"
+  },
+  "ef9fd94c-5477-4b67-b2f3-c82d6412c2a5": {
+    "asset": 1586372425292,
+    "meta": 1586410614557,
+    "relativePath": "Texture2D/zukan_ippin_on.png"
+  },
+  "42bfed15-b11a-4df6-b514-549e89e2324f": {
+    "asset": 1586372423821,
+    "meta": 1586410614563,
+    "relativePath": "Texture2D/zukan_dodai.png"
+  },
+  "dadb2df4-02dc-4ba9-a0c8-584d5320aeb3": {
+    "asset": 1586372425863,
+    "meta": 1586410614568,
+    "relativePath": "Texture2D/zukan_meibutsu_off.png"
+  },
+  "27010c3f-5692-430b-a435-309490291319": {
+    "asset": 1586372426885,
+    "meta": 1586410614572,
+    "relativePath": "Texture2D/zukan_meibutsu_on.png"
+  },
+  "0e84dd6c-09a1-485e-9584-2b686a7c6b91": {
+    "asset": 1586372427404,
+    "meta": 1586410614578,
+    "relativePath": "Texture2D/zukan_panel.png"
+  },
+  "f12d661b-70a7-4a77-bd7c-f313e68f83ed": {
+    "asset": 1586372427853,
+    "meta": 1586410614581,
+    "relativePath": "Texture2D/zukan_santi.png"
+  },
+  "997daef8-a605-49c9-94e6-04d79a5d0d39": {
+    "asset": 1586372428735,
+    "meta": 1586410614589,
+    "relativePath": "Texture2D/zukan_title.png"
+  },
+  "8bf56cd3-ac7e-40b7-a69e-b53df3ac952c": {
+    "asset": 1586372429687,
+    "meta": 1586410614591,
+    "relativePath": "Texture2D/したく.png"
+  },
+  "291320d1-78fa-48da-8f08-02dd5eb812dc": {
+    "asset": 1586372430496,
+    "meta": 1586410614597,
+    "relativePath": "Texture2D/もどる_84_88.png"
+  },
+  "de6b7423-c10a-4a08-aed8-2786fff946c2": {
+    "asset": 1586414000297,
+    "meta": 1586414000304,
+    "relativePath": "Scene/game.fire"
+  },
+  "595fff18-999e-4c77-bee9-a77cdcd50203": {
+    "asset": 1586412887900,
+    "meta": 1586412887904,
+    "relativePath": "Scene/start.fire"
+  },
+  "63c0f68e-9895-4423-adef-cc91b4c151bc": {
+    "asset": 1586414679722,
+    "meta": 1586414689097,
+    "relativePath": "Scene/home.fire"
+  }
+}

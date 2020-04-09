@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "15fab2fb-469e-4d25-9780-736ff3c34cf6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 124,
+  "height": 168,
+  "platformSettings": {},
+  "subMetas": {
+    "goods_hukubiki_7": {
+      "ver": "1.0.4",
+      "uuid": "90ef3f78-974a-49b4-99d7-e7a5330e65c6",
+      "rawTextureUuid": "15fab2fb-469e-4d25-9780-736ff3c34cf6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 120,
+      "height": 165,
+      "rawWidth": 124,
+      "rawHeight": 168,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

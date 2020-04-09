@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c399578b-97a8-43d7-8e13-c38431596b72",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 96,
+  "height": 103,
+  "platformSettings": {},
+  "subMetas": {
+    "motimono_tuuti": {
+      "ver": "1.0.4",
+      "uuid": "a2fe5f7b-bbdb-411d-99b2-df8f5bb208da",
+      "rawTextureUuid": "c399578b-97a8-43d7-8e13-c38431596b72",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 96,
+      "height": 103,
+      "rawWidth": 96,
+      "rawHeight": 103,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kusa_01",
+    "texture": "a352dd2c-b078-4231-bc97-35188abb6f7c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      247,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      247,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

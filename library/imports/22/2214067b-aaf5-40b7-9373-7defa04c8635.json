@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mail_hukubiki",
+    "texture": "1ab0e35c-95fb-402c-b6f5-ccb46da115eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

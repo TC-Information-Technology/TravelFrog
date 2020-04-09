@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tuuti",
+    "texture": "6c223f22-5c63-461b-880a-a180bec6d6cc",
+    "atlas": "",
+    "rect": [
+      10,
+      3,
+      62,
+      29
+    ],
+    "offset": [
+      -2,
+      -0.5
+    ],
+    "originalSize": [
+      86,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

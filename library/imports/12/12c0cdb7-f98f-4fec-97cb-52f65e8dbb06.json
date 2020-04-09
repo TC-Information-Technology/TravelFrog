@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MainOut_mail_tuuti",
+    "texture": "4db48c14-7f6f-43d8-83d6-a831ea31a56e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mail_olluketori",
+    "texture": "d01ed8ef-6587-41b8-86b4-ad89c2766968",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      286,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      286,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

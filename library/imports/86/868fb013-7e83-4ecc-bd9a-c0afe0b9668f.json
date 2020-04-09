@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mail_uketori",
+    "texture": "db5ceb8f-1a83-483c-a656-4cbec237d93e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

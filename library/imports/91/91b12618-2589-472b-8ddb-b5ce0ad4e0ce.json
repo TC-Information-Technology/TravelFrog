@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "otiba_01",
+    "texture": "d723f4a7-e82e-493e-9c81-b27019bd85ab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      138,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      138,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

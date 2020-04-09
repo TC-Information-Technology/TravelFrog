@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "haikei_niwa",
+    "texture": "c6d2e488-63eb-451a-b02a-3d886595ce9d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1152,
+      1138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1152,
+      1138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

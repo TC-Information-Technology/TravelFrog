@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UnityWatermark-small",
+    "texture": "40fc67f4-3693-4120-9f12-167fbf3ec430",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

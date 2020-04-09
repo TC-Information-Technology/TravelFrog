@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "urabeya",
+    "texture": "a087df41-fe48-46ff-8d9b-1ba8bfb8b7dc",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      182,
+      59
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      191,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

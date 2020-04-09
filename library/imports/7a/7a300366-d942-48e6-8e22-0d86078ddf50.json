@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "したく",
+    "texture": "2a533a75-8a73-4861-9407-61cf19475a2d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      168,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      168,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

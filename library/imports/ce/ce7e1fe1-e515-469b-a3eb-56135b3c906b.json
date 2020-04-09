@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lottery_zoom_frame",
+    "texture": "2a234e7c-f5d6-41ba-8134-3fd938b07b4e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      467,
+      468
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      467,
+      468
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

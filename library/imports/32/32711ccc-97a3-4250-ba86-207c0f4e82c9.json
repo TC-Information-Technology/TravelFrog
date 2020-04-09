@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "toggle hover",
+    "texture": "545cea84-9c32-421a-9920-4e84c64c0e5c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      13,
+      13
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      14,
+      14
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

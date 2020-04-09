@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0fd47544-65c1-4440-be93-b6597247f9de",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 194,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "zukan_meibutsu_on": {
+      "ver": "1.0.4",
+      "uuid": "c10879bc-07f6-455a-a705-2fb7527249eb",
+      "rawTextureUuid": "0fd47544-65c1-4440-be93-b6597247f9de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 194,
+      "height": 60,
+      "rawWidth": 194,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

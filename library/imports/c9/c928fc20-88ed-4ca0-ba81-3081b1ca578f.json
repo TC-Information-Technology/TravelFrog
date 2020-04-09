@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mori_01",
+    "texture": "778b0715-be51-47f7-9a49-bb1141e67ccf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      491,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      491,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

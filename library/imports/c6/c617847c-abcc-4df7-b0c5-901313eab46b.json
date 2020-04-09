@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mail_tirashi",
+    "texture": "a2056832-53aa-4502-ad12-a2421e67cd47",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

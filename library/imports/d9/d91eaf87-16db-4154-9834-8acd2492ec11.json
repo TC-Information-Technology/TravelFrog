@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "doui_yes",
+    "texture": "13302c51-6a7a-43bf-b414-96c67de866bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

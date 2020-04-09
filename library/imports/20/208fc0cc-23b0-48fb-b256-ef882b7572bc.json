@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lottery_tenpo_sita",
+    "texture": "47d59f14-af0a-4475-99b6-bd80b5512494",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      768,
+      337
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      768,
+      337
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

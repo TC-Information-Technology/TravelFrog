@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "doutyuu_f_05",
+    "texture": "a8258931-1413-4e91-a53e-9b6aff8a8baf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

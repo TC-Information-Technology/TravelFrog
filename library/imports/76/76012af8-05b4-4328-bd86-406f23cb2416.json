@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "meibutu",
+    "texture": "157b68bb-1328-4e14-bf2a-5b48ce0f99e5",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      127,
+      35
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      128,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

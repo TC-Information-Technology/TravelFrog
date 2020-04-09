@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sentaku",
+    "texture": "239959c5-7c24-4143-b6e1-c93508e99309",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      262,
+      218
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      262,
+      218
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

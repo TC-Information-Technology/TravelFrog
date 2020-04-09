@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "saku_01",
+    "texture": "74af8944-015a-4e9b-bd53-791c870ead4c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1000,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1000,
+      136
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

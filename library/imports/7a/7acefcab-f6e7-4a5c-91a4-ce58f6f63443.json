@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lottery_dodai",
+    "texture": "5f06ee06-1beb-4aec-ad15-7b726cb4fc50",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      768,
+      1138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      768,
+      1138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

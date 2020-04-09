@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WarningSign",
+    "texture": "e4316475-5e97-4175-af4d-8e9ed16d630d",
+    "atlas": "",
+    "rect": [
+      1,
+      6,
+      63,
+      55
+    ],
+    "offset": [
+      0.5,
+      -1.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

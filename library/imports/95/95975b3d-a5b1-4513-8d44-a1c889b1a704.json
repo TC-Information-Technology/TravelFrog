@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "koke_02",
+    "texture": "e8004d05-114a-4b6a-b858-c32b76ea5ddc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      71,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      71,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

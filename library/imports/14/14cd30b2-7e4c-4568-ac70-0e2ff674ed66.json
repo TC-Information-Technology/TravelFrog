@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab_obentou_off",
+    "texture": "aaf5fe9f-b54b-4e1b-83e1-39469c315789",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

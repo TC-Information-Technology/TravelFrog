@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mitsubati_niwa",
+    "texture": "caae8a43-34e9-41df-8948-baa8ecd48e94",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1167,
+      206
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1167,
+      206
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

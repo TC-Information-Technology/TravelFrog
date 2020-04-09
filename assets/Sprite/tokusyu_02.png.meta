@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "5d0fa343-006a-4f65-bc7b-5ba369736af1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 500,
+  "height": 350,
+  "platformSettings": {},
+  "subMetas": {
+    "tokusyu_02": {
+      "ver": "1.0.4",
+      "uuid": "306f39ae-d819-4166-8554-7f964f33b8c6",
+      "rawTextureUuid": "5d0fa343-006a-4f65-bc7b-5ba369736af1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 500,
+      "height": 350,
+      "rawWidth": 500,
+      "rawHeight": 350,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

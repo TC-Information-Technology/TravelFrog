@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "98de86dc-c6a1-4c4c-a54c-e23368e3a752",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 526,
+  "height": 409,
+  "platformSettings": {},
+  "subMetas": {
+    "katatsumuri_niwa": {
+      "ver": "1.0.4",
+      "uuid": "eafeb9ac-7493-46b0-a63f-f546db8eb2fc",
+      "rawTextureUuid": "98de86dc-c6a1-4c4c-a54c-e23368e3a752",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 526,
+      "height": 407,
+      "rawWidth": 526,
+      "rawHeight": 409,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

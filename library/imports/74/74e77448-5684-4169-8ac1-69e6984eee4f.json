@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_tenpo_sita",
+    "texture": "ddf1c8c0-c6dc-4c80-ae51-8a5cb2a88407",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      768,
+      337
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      768,
+      337
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

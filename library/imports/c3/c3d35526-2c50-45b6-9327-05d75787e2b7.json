@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hplogo",
+    "texture": "faa72180-c610-4963-a051-c5823c8ab19c",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      621,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      625,
+      107
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zukan_ippin_on",
+    "texture": "ef9fd94c-5477-4b67-b2f3-c82d6412c2a5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      194,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      194,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

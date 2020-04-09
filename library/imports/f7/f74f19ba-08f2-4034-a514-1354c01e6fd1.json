@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "umi_02",
+    "texture": "cc25d560-15f4-4e3f-8d50-b97d79873843",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1000,
+      375
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1000,
+      375
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

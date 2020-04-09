@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "inemuri_ie",
+    "texture": "a9539a40-a690-4469-af7f-aad4f895250c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      422,
+      210
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      422,
+      210
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

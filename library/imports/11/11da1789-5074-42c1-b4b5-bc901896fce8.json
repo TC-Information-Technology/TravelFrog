@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mail_katatsumuri",
+    "texture": "8f067b71-d4ff-4251-a1ce-2b73ddbb11a0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dokusyo_ie",
+    "texture": "94093910-7ef6-4d79-bde7-5027fa3c5cb5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      301,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      301,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

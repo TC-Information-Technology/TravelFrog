@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "album",
+    "texture": "7d2160d4-079c-4126-963e-60fcb5039224",
+    "atlas": "",
+    "rect": [
+      33,
+      1,
+      122,
+      57
+    ],
+    "offset": [
+      -3.5,
+      0.5
+    ],
+    "originalSize": [
+      195,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

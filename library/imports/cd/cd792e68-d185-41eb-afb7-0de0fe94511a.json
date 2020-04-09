@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lottery_syozi",
+    "texture": "458973f3-b9bf-472d-afa2-4c7d971a5b62",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      236,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      236,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

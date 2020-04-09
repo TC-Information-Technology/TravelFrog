@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c81c76b5-3619-485f-821f-28f8b0843750",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 84,
+  "height": 88,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_urabeya_84_88": {
+      "ver": "1.0.4",
+      "uuid": "05de0e70-25cd-4b83-bc67-0c38597d35c9",
+      "rawTextureUuid": "c81c76b5-3619-485f-821f-28f8b0843750",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 84,
+      "height": 88,
+      "rawWidth": 84,
+      "rawHeight": 88,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

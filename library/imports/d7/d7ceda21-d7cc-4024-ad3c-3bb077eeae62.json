@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lottery_zoom_tray_02",
+    "texture": "ec3319b7-990a-407a-b5a0-f24f42e38336",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      457,
+      260
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      457,
+      260
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

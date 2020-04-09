@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "volume_off",
+    "texture": "425fdbc6-5da6-43e9-b0d3-a8c32e13ff84",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

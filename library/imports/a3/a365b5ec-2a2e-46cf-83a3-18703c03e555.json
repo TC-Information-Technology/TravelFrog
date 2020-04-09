@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "katatsumuri_niwa",
+    "texture": "fd0a75c1-8608-4c02-ab7b-6249c6d1e9df",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      526,
+      407
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      526,
+      409
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

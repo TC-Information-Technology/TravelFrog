@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dougu_owan_02",
+    "texture": "fdce6dab-ec3f-4196-bcb7-427e38d835ad",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      330,
+      188
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      330,
+      188
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

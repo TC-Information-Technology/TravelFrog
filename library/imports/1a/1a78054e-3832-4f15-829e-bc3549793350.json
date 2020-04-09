@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tokusyu_05_k",
+    "texture": "870bcf31-6156-4732-b728-160e1c1b3d8e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      500,
+      336
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      500,
+      338
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

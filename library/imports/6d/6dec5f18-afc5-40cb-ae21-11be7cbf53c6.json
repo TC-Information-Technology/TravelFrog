@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hayasi_01",
+    "texture": "99a75940-d1c4-44c8-9609-d9b4f614191c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1000,
+      385
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1000,
+      385
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

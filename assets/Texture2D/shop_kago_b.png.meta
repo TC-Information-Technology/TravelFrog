@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "ed347561-38d5-4841-90ec-d92febe5acbf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 276,
+  "height": 227,
+  "platformSettings": {},
+  "subMetas": {
+    "shop_kago_b": {
+      "ver": "1.0.4",
+      "uuid": "e95b195f-58a7-4a8f-8f03-7b4f39e1f8a0",
+      "rawTextureUuid": "ed347561-38d5-4841-90ec-d92febe5acbf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 276,
+      "height": 227,
+      "rawWidth": 276,
+      "rawHeight": 227,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

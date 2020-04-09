@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "673caec8-2f03-4222-8e93-35ab6261f243",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 148,
+  "height": 17,
+  "platformSettings": {},
+  "subMetas": {
+    "UnityWatermark-edu": {
+      "ver": "1.0.4",
+      "uuid": "eb256a7c-4c1f-4a32-90c5-5496f27c7ac4",
+      "rawTextureUuid": "673caec8-2f03-4222-8e93-35ab6261f243",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -0.5,
+      "trimX": 3,
+      "trimY": 1,
+      "width": 144,
+      "height": 16,
+      "rawWidth": 148,
+      "rawHeight": 17,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

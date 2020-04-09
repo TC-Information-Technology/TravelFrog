@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hi_rousoku",
+    "texture": "09b0554c-092d-4605-b7ee-780d9e7d27cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

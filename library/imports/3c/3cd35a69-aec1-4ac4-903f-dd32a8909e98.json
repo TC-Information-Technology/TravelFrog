@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bousi_ie",
+    "texture": "e7fd36fd-2ec1-4afd-a6c7-77895fdbad28",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

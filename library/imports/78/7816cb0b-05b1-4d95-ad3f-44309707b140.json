@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "asphalt_01",
+    "texture": "4d00906a-72d1-493e-9643-5d0e44c7c1de",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1000,
+      357
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1000,
+      357
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

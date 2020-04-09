@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "katadukeru",
+    "texture": "081feac4-6c4a-4da3-b920-d4f02d35f27b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      210,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      210,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

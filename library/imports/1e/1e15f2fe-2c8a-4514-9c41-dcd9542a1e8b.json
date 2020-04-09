@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zukan_santi",
+    "texture": "59e2a5aa-d384-453f-9651-e0fa5fb7d37a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      420,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      420,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

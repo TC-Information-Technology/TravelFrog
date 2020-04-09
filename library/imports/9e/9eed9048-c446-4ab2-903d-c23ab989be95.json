@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "checkmark #293202",
+    "texture": "b62c5af2-5b29-4335-bbdd-c0bc79fd0ea4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

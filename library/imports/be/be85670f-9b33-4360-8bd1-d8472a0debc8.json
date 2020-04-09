@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lottery_tenpo_ue",
+    "texture": "3dcb388f-de01-49fe-ae11-927771f7ab23",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      768,
+      211
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      768,
+      211
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

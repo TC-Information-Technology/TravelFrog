@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "3ce8a51d-3698-45bb-a095-a2b64a1424de",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 768,
+  "height": 337,
+  "platformSettings": {},
+  "subMetas": {
+    "shop_tenpo_sita": {
+      "ver": "1.0.4",
+      "uuid": "9d6ddc63-db92-4a89-842e-f0c861580697",
+      "rawTextureUuid": "3ce8a51d-3698-45bb-a095-a2b64a1424de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 768,
+      "height": 337,
+      "rawWidth": 768,
+      "rawHeight": 337,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

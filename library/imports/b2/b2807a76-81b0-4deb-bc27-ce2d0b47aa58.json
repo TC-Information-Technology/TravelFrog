@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "settei",
+    "texture": "8f666d67-7176-4775-82db-5e1d42453c4b",
+    "atlas": "",
+    "rect": [
+      37,
+      0,
+      121,
+      61
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      196,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

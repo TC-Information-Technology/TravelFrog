@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "omiyage",
+    "texture": "3e00f91e-4089-4f32-9851-9f0f004631c8",
+    "atlas": "",
+    "rect": [
+      28,
+      4,
+      147,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      203,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sagyou_ie",
+    "texture": "826621e4-5ce1-4384-a99e-80662a370aef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      499,
+      244
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      499,
+      244
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

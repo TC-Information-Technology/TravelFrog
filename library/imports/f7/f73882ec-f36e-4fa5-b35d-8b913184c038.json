@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nekko_01",
+    "texture": "257b1e02-a8fb-4ae5-99c2-905c6c1d0d76",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      350
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      350
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "motimono_tuuti",
+    "texture": "bd3354d8-787f-4b03-8409-2380c5d8e231",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

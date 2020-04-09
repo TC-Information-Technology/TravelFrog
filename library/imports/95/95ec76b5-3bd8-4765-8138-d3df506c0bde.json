@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zimen_02",
+    "texture": "50b94dd3-310b-431b-a55d-e1d2e7be268f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1000,
+      355
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1000,
+      355
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

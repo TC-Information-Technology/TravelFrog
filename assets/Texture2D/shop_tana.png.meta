@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "226bb031-7b64-4eff-a62d-ee0907f1d1d0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 768,
+  "height": 634,
+  "platformSettings": {},
+  "subMetas": {
+    "shop_tana": {
+      "ver": "1.0.4",
+      "uuid": "00bdaefe-6685-410f-919a-7434ded489f8",
+      "rawTextureUuid": "226bb031-7b64-4eff-a62d-ee0907f1d1d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 768,
+      "height": 634,
+      "rawWidth": 768,
+      "rawHeight": 634,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

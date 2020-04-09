@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slider thumb",
+    "texture": "6dfa1c94-99e0-46bf-a313-1737fe02fa90",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      8,
+      12
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      8,
+      12
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

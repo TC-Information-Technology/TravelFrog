@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c76a488e-2dc7-4d2d-9aae-99fa3a7bbc2f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1152,
+  "height": 1138,
+  "platformSettings": {},
+  "subMetas": {
+    "haikei_niwa_akari": {
+      "ver": "1.0.4",
+      "uuid": "6be44b14-259d-4a24-b867-72536c6b9abe",
+      "rawTextureUuid": "c76a488e-2dc7-4d2d-9aae-99fa3a7bbc2f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1152,
+      "height": 1138,
+      "rawWidth": 1152,
+      "rawHeight": 1138,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

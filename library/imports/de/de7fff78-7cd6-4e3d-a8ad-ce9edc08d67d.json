@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mail_isigame",
+    "texture": "32aeb75a-1924-4b33-8342-611a6fa89d31",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

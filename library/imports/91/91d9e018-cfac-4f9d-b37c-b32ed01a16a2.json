@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ippin",
+    "texture": "26279157-6be9-4504-b0e4-00894a4e222c",
+    "atlas": "",
+    "rect": [
+      24,
+      1,
+      64,
+      33
+    ],
+    "offset": [
+      -4,
+      0
+    ],
+    "originalSize": [
+      120,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

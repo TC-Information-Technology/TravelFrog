@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_setumei",
+    "texture": "0681aa23-4cf1-4ed1-b688-2f78963e9366",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      496,
+      199
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      496,
+      199
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

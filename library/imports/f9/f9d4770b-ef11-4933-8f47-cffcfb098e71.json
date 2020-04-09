@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yuubin",
+    "texture": "b04b2b54-fdd6-4688-8e68-ccbb419c0f59",
+    "atlas": "",
+    "rect": [
+      39,
+      3,
+      108,
+      53
+    ],
+    "offset": [
+      -2,
+      0
+    ],
+    "originalSize": [
+      190,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

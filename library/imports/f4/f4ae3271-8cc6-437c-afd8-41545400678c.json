@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slidert humb hover",
+    "texture": "26fc6a9f-89dc-4949-be17-f1b0ff4d340b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      8,
+      12
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      8,
+      12
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

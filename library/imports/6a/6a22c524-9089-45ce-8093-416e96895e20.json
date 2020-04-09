@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kumo_01",
+    "texture": "c51472f8-fccb-4c49-93f7-fbdb36877afc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      951,
+      243
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      951,
+      243
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4e5367ba-7774-4307-bb56-138279ae2dba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 401,
+  "height": 73,
+  "platformSettings": {},
+  "subMetas": {
+    "clover_kounyuu_button": {
+      "ver": "1.0.4",
+      "uuid": "b2eb0c30-e9b0-466b-be49-2fb002842fa6",
+      "rawTextureUuid": "4e5367ba-7774-4307-bb56-138279ae2dba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 401,
+      "height": 73,
+      "rawWidth": 401,
+      "rawHeight": 73,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

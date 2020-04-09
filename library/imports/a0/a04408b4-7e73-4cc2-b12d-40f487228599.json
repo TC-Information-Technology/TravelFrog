@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mail_mitsubati",
+    "texture": "f0a0cfd1-abdd-4ecb-a931-fa5bd2ec4bbb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

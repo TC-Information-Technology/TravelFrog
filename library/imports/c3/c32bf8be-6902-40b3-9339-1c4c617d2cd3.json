@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "clover_kounyuu",
+    "texture": "a5df3590-d45f-474b-aad3-fa99ef11ed32",
+    "atlas": "",
+    "rect": [
+      15,
+      3,
+      323,
+      50
+    ],
+    "offset": [
+      -2.5,
+      0.5
+    ],
+    "originalSize": [
+      358,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

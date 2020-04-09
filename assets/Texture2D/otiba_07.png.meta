@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "ccf82d17-cab1-4583-b867-496792a52145",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 120,
+  "height": 76,
+  "platformSettings": {},
+  "subMetas": {
+    "otiba_07": {
+      "ver": "1.0.4",
+      "uuid": "19db5fc8-1129-4405-a37a-3685581a89f0",
+      "rawTextureUuid": "ccf82d17-cab1-4583-b867-496792a52145",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 120,
+      "height": 76,
+      "rawWidth": 120,
+      "rawHeight": 76,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

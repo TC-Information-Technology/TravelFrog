@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "meisyo_f_10",
+    "texture": "5ac9d4f8-e2c2-497e-aadf-ab2e3bd01266",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

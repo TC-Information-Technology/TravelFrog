@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "syougou",
+    "texture": "d4e87a1d-ee69-46a6-b1ee-497f9bf82283",
+    "atlas": "",
+    "rect": [
+      32,
+      1,
+      124,
+      59
+    ],
+    "offset": [
+      -4,
+      0
+    ],
+    "originalSize": [
+      196,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

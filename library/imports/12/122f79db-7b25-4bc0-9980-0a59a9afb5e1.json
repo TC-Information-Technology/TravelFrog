@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lottery_hukubiki",
+    "texture": "6a10fd61-f708-4805-a9b0-39f3dbb52a7f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      290,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      290,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

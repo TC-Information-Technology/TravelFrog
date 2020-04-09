@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kaban",
+    "texture": "c3d3de64-b872-479b-8dc9-e2a970a2fee6",
+    "atlas": "",
+    "rect": [
+      25,
+      4,
+      105,
+      51
+    ],
+    "offset": [
+      -2.5,
+      -0.5
+    ],
+    "originalSize": [
+      160,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

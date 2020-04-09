@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_kago_p",
+    "texture": "41f94ebc-146f-4513-b15f-d379329a21df",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      276,
+      227
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      276,
+      227
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
